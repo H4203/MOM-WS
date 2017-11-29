@@ -1,0 +1,7 @@
+prendre les x resultats recup code html chauqe page identifier les mots recuperer des mots quon peut trouver sur la bdpedia
+
+2 classes
+
+search
+
+reference
