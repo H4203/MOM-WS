@@ -1,10 +1,11 @@
 prendre les x resultats recup code html chauqe page identifier les mots recuperer des mots quon peut trouver sur la bdpedia
 
 2 classes:
--search
--reference
+	search -> 1 methode retourne une liste de resultats W&E
+	reference -> 1 methode qui retourne le code html 1 methode qui ecrit dans un fichier F&J
 
 to-do list:
 	recuperer les urls des resultats google
-	recuperer le code html d'une url
-	comprendre et creer un graphe rdf (decider jusqu'ou aller)
+	recuperer le code html d'une url 
+	faire un cache 
+	comprendre et creer un graphe rdf (decider jusqu'ou aller) R&D
