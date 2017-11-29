@@ -1,7 +1,10 @@
 prendre les x resultats recup code html chauqe page identifier les mots recuperer des mots quon peut trouver sur la bdpedia
 
-2 classes
+2 classes:
+-search
+-reference
 
-search
-
-reference
+to-do list:
+	recuperer les urls des resultats google
+	recuperer le code html d'une url
+	comprendre et creer un graphe rdf (decider jusqu'ou aller)
