@@ -16,7 +16,6 @@ public class Search
 	{
 		URL url;
 		URLConnection conn;
-	    String line;
 
 	    try 
 	    {	
@@ -48,8 +47,19 @@ public class Search
 			
 			while ((line = br.readLine()) != null) 
 	        {
+				for (int i = 0; i < line.length(); i = i + 1)
+				{
+					if (line.charAt(i) == '>')
+					{
+						line = line.substring(0, i+1) + "\n" + line.substring(i+1, line.length());
+						i = i + 1;
+					}
+				}
+				
 				out.println(line); 
 	        }
+			
+			out.close();
 		}
 		catch (Exception e)
 		{
