@@ -1,5 +1,9 @@
 package RDF;
 
+import java.io.File;
+import java.io.FileNotFoundException;
+import java.io.FileOutputStream;
+
 import org.apache.jena.query.*;
 import org.apache.jena.rdf.model.*;
 import org.apache.jena.vocabulary.*;
@@ -17,20 +21,28 @@ public class request {
 
 				"SELECT DISTINCT ?m ?d "+
 				"WHERE {"+
-				"<http://dbpedia.org/resource/Adolf_Hitler> ?m ?d}";
+				"<http://dbpedia.org/resource/Berlin> ?m ?d}";
 		
 		Query query = QueryFactory.create(queryString);
 		
 		QueryExecution qexec = QueryExecutionFactory.sparqlService("http://dbpedia.org/sparql", query);
-		
+		FileOutputStream fop = null;
+		File file;
 		try {
 		    ResultSet results = qexec.execSelect();
+		    file = new File("./newfile");
+			try {
+				fop = new FileOutputStream(file);
+			} catch (FileNotFoundException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
 		    /*for (; results.hasNext();) {
 		    	
-		    		System.out.println(results.getResourceModel(). + "  " + results.getResultVars().get(1));
+		    		System.out.println(results. + "  " + results.getResultVars().get(3));
 		    
 		    }*/
-		    ResultSetFormatter.out(System.out, results, query); 
+		    ResultSetFormatter.out(fop, results, query); 
 		}
 		finally {
 		   qexec.close();
