@@ -1,64 +1,74 @@
 package Request;
 
-import java.io.BufferedReader;
-import java.io.IOException;
-import java.io.InputStreamReader;
 import java.io.PrintWriter;
-import java.net.MalformedURLException;
-import java.net.URL;
-import java.net.URLConnection;
+import java.io.IOException;
+
+import org.jsoup.*;	
+import org.jsoup.nodes.*;
 
 public class Search
 {
-	private BufferedReader br;
-	
-	public void launchQuery(String query) throws IOException
+	public String getImageLink(String query) throws IOException
 	{
-		URL url;
-		URLConnection conn;
-
-	    try 
-	    {	
-	        url = new URL("https://www.google.fr/search?q=" + query);
-	    	
-	        conn = url.openConnection();
-	        conn.setRequestProperty("User-Agent", "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36");
-	        conn.connect();
-	           
-	        br = new BufferedReader(new InputStreamReader(conn.getInputStream()));
-	    } 
-	    catch (MalformedURLException mue) 
-	    {
-	         mue.printStackTrace();
-	    }
-	    catch (IOException ioe) 
-	    {
-	         ioe.printStackTrace();
-	    }
+		Document document = getDocument(query, "qwantImage");
+		
+		Element tr = document.select("tr").get(4);
+		Element div = tr.select("div[class=resultimgs]").get(0);
+		Element img = div.select("img").get(0);
+		
+		return img.attr("src");
 	}
 	
-	public void storeResult(String filePath)
+	public String getPageHTML(String query, String engine) throws IOException
+	{
+		Document document = getDocument(query, engine);
+		
+		return document.html();
+	}
+	
+	public Document getDocument(String query, String engine) throws IOException
+	{
+		Document document = null;
+		
+		try 
+		{
+			String url;
+			
+			if (engine == "google")
+	    	{
+	    		url = "https://www.google.fr/search?q=" + query + "%20Film";
+	    	}
+	    	else if (engine == "qwant")
+	    	{
+	    		url = "https://www.qwant.com/?q=" + query + "%20Film&t=all";
+	    	}
+	    	else if (engine == "qwantImage")
+	    	{
+	    		url = "https://lite.qwant.com/?q=" + query + "%20Film&t=images";
+	    	}
+	    	else
+	    	{
+	    		url = "https://www.google.fr/search?q=" + query + "%20Film";
+	    	}
+			
+			document =  Jsoup.connect(url).get();
+		} 
+		catch (IOException e) 
+		{
+			
+		}
+		
+		return document;
+	}
+
+	public void storeString(String html, String destination)
 	{
 		try
 		{
-			PrintWriter out = new PrintWriter(filePath);
+			PrintWriter out = new PrintWriter(destination);
 		
-			String line;
-			
-			while ((line = br.readLine()) != null) 
-	        {
-				for (int i = 0; i < line.length(); i = i + 1)
-				{
-					if (line.charAt(i) == '>')
-					{
-						line = line.substring(0, i+1) + "\n" + line.substring(i+1, line.length());
-						i = i + 1;
-					}
-				}
-				
-				out.println(line); 
-	        }
-			
+			out.print(html); 
+	     
 			out.close();
 		}
 		catch (Exception e)
