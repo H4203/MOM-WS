@@ -15,7 +15,7 @@ public class getURLsRequest {
 	
 	public getURLsRequest() {}
 	
-	public static List<String> getURLs(String requete) throws IOException{
+	public List<String> getURLs(String requete) throws IOException{
 		List<String> result = new ArrayList<String>();
 		
 		Document linksDoc = null; 
