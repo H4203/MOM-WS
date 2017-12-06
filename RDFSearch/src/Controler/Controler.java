@@ -10,7 +10,13 @@ public class Controler
 		
 		try
 		{	
-			search.getHTML("Titanic Film", "google", "result.txt");
+			//String html = search.getPageHTML("Titanic", "google");
+			
+			//search.storeString(html, "result.txt");
+			
+			String imageLink = search.getImageLink("Titanic");
+			
+			search.storeString(imageLink, "TitanicFilmImageLink.txt");
 		}
 		catch (Exception e)
 		{
