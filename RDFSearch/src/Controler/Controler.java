@@ -10,9 +10,7 @@ public class Controler
 		
 		try
 		{	
-			search.launchQuery("test");
-			
-			search.storeResult("result.txt");
+			search.getHTML("Titanic Film", "google", "result.txt");
 		}
 		catch (Exception e)
 		{
