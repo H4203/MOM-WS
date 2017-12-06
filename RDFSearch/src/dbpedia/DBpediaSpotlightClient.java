@@ -13,6 +13,7 @@ import java.io.File;
 import java.io.IOException;
 import java.io.UnsupportedEncodingException;
 import java.net.URLEncoder;
+import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;
 
@@ -24,15 +25,14 @@ public class DBpediaSpotlightClient {
 	private static HttpClient client = new HttpClient();
 
 	public List<String> extract(String text) {
-		String spotlightResponse;
+		String spotlightResponse = null;
 		GetMethod getMethod = null;
 		try {
-			getMethod = new GetMethod(API_URL + "confidence=" + CONFIDENCE + "&support=" + SUPPORT + "&text="
+			getMethod = new GetMethod(API_URL + "confidence=" + CONFIDENCE + "&text="
 					+ URLEncoder.encode(text, "utf-8"));
 			System.out.println(getMethod.getQueryString());
 
 			getMethod.addRequestHeader(new Header("Accept", "application/json"));
-			getMethod.addRequestHeader(new Header("Language", "French"));
 			request(getMethod);
 
 		} catch (UnsupportedEncodingException e) {
@@ -40,15 +40,35 @@ public class DBpediaSpotlightClient {
 			e.printStackTrace();
 		}
 		try {
-			spotlightResponse = getMethod.getResponseBodyAsString();
+			spotlightResponse = new String(getMethod.getResponseBody(), "UTF-8");
 			System.out.println(spotlightResponse);
 		} catch (IOException e) {
 			// TODO Auto-generated catch block
 			System.out.println("Exception");
 			e.printStackTrace();
 		}
+		List<String> URIs = new ArrayList<String>();
+		
+		JSONObject resultJSON = null;
+		JSONArray entities = null;
+		try {
+			resultJSON = new JSONObject(spotlightResponse);
+			entities = resultJSON.getJSONArray("Resources");
+		} catch (JSONException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		
+		for(int i = 0; i < entities.length(); i++) {
+			try {
+				URIs.add(entities.getJSONObject(i).getString("@URI"));
+			} catch (JSONException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
+		}
 
-		return null;
+		return URIs;
 	}
 
 	public String request(HttpMethod method) {
@@ -81,6 +101,8 @@ public class DBpediaSpotlightClient {
 		}
 		return laresponse;
 	}
+	
+	
 
 	public static void main(String[] args) {
 		String request = "Fast and furious";
