@@ -1,47 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="src" path="src"/>
-
-	<classpathentry kind="lib" path="/Users/regisgoubin/Documents/GitHub/MOM-WS/RDFSearch/jars/collection-0.7.jar"/>
-	<classpathentry kind="lib" path="/Users/regisgoubin/Documents/GitHub/MOM-WS/RDFSearch/jars/commons-cli-1.4.jar"/>
-	<classpathentry kind="lib" path="/Users/regisgoubin/Documents/GitHub/MOM-WS/RDFSearch/jars/commons-codec-1.10.jar"/>
-	<classpathentry kind="lib" path="/Users/regisgoubin/Documents/GitHub/MOM-WS/RDFSearch/jars/commons-codec-1.11.jar"/>
-	<classpathentry kind="lib" path="/Users/regisgoubin/Documents/GitHub/MOM-WS/RDFSearch/jars/commons-csv-1.4.jar"/>
-	<classpathentry kind="lib" path="/Users/regisgoubin/Documents/GitHub/MOM-WS/RDFSearch/jars/commons-io-2.5.jar"/>
-	<classpathentry kind="lib" path="/Users/regisgoubin/Documents/GitHub/MOM-WS/RDFSearch/jars/commons-lang3-3.4.jar"/>
-	<classpathentry kind="lib" path="/Users/regisgoubin/Documents/GitHub/MOM-WS/RDFSearch/jars/commons-logging-1.2.jar"/>
-	<classpathentry kind="lib" path="/Users/regisgoubin/Documents/GitHub/MOM-WS/RDFSearch/jars/httpclient-4.5.3.jar"/>
-	<classpathentry kind="lib" path="/Users/regisgoubin/Documents/GitHub/MOM-WS/RDFSearch/jars/httpclient-cache-4.5.3.jar"/>
-	<classpathentry kind="lib" path="/Users/regisgoubin/Documents/GitHub/MOM-WS/RDFSearch/jars/httpcore-4.4.6.jar"/>
-	<classpathentry kind="lib" path="/Users/regisgoubin/Documents/GitHub/MOM-WS/RDFSearch/jars/jackson-annotations-2.9.0.jar"/>
-	<classpathentry kind="lib" path="/Users/regisgoubin/Documents/GitHub/MOM-WS/RDFSearch/jars/jackson-core-2.9.0.jar"/>
-	<classpathentry kind="lib" path="/Users/regisgoubin/Documents/GitHub/MOM-WS/RDFSearch/jars/jackson-databind-2.9.0.jar"/>
-	<classpathentry kind="lib" path="/Users/regisgoubin/Documents/GitHub/MOM-WS/RDFSearch/jars/java-json.jar"/>
-	<classpathentry kind="lib" path="/Users/regisgoubin/Documents/GitHub/MOM-WS/RDFSearch/jars/jcl-over-slf4j-1.7.25.jar"/>
-	<classpathentry kind="lib" path="/Users/regisgoubin/Documents/GitHub/MOM-WS/RDFSearch/jars/jena-arq-3.5.0.jar"/>
-	<classpathentry kind="lib" path="/Users/regisgoubin/Documents/GitHub/MOM-WS/RDFSearch/jars/jena-base-3.5.0.jar"/>
-	<classpathentry kind="lib" path="/Users/regisgoubin/Documents/GitHub/MOM-WS/RDFSearch/jars/jena-cmds-3.5.0.jar"/>
-	<classpathentry kind="lib" path="/Users/regisgoubin/Documents/GitHub/MOM-WS/RDFSearch/jars/jena-core-3.5.0.jar"/>
-	<classpathentry kind="lib" path="/Users/regisgoubin/Documents/GitHub/MOM-WS/RDFSearch/jars/jena-dboe-base-3.5.0.jar"/>
-	<classpathentry kind="lib" path="/Users/regisgoubin/Documents/GitHub/MOM-WS/RDFSearch/jars/jena-dboe-index-3.5.0.jar"/>
-	<classpathentry kind="lib" path="/Users/regisgoubin/Documents/GitHub/MOM-WS/RDFSearch/jars/jena-dboe-trans-data-3.5.0.jar"/>
-	<classpathentry kind="lib" path="/Users/regisgoubin/Documents/GitHub/MOM-WS/RDFSearch/jars/jena-dboe-transaction-3.5.0.jar"/>
-	<classpathentry kind="lib" path="/Users/regisgoubin/Documents/GitHub/MOM-WS/RDFSearch/jars/jena-iri-3.5.0.jar"/>
-	<classpathentry kind="lib" path="/Users/regisgoubin/Documents/GitHub/MOM-WS/RDFSearch/jars/jena-rdfconnection-3.5.0.jar"/>
-	<classpathentry kind="lib" path="/Users/regisgoubin/Documents/GitHub/MOM-WS/RDFSearch/jars/jena-shaded-guava-3.5.0.jar"/>
-	<classpathentry kind="lib" path="/Users/regisgoubin/Documents/GitHub/MOM-WS/RDFSearch/jars/jena-tdb-3.5.0.jar"/>
-	<classpathentry kind="lib" path="/Users/regisgoubin/Documents/GitHub/MOM-WS/RDFSearch/jars/jena-tdb2-3.5.0.jar"/>
-	<classpathentry kind="lib" path="/Users/regisgoubin/Documents/GitHub/MOM-WS/RDFSearch/jars/jsonld-java-0.11.1.jar"/>
-	<classpathentry kind="lib" path="/Users/regisgoubin/Documents/GitHub/MOM-WS/RDFSearch/jars/jsoup-1.11.2.jar"/>
-	<classpathentry kind="lib" path="/Users/regisgoubin/Documents/GitHub/MOM-WS/RDFSearch/jars/libthrift-0.9.3.jar"/>
-	<classpathentry kind="lib" path="/Users/regisgoubin/Documents/GitHub/MOM-WS/RDFSearch/jars/log4j-1.2.17.jar"/>
-	<classpathentry kind="lib" path="/Users/regisgoubin/Documents/GitHub/MOM-WS/RDFSearch/jars/org.apache.commons.httpclient.jar"/>
-	<classpathentry kind="lib" path="/Users/regisgoubin/Documents/GitHub/MOM-WS/RDFSearch/jars/slf4j-api-1.7.25.jar"/>
-	<classpathentry kind="lib" path="/Users/regisgoubin/Documents/GitHub/MOM-WS/RDFSearch/jars/slf4j-log4j12-1.7.25.jar"/>
-	<classpathentry kind="lib" path="/Users/regisgoubin/Documents/GitHub/MOM-WS/RDFSearch/jars/xercesImpl-2.11.0.jar"/>
-	<classpathentry kind="lib" path="/Users/regisgoubin/Documents/GitHub/MOM-WS/RDFSearch/jars/xml-apis-1.4.01.jar"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
 	<classpathentry kind="lib" path="lib/jsoup-1.11.2.jar"/>
+	<classpathentry kind="lib" path="jars/collection-0.7.jar"/>
+	<classpathentry kind="lib" path="jars/commons-cli-1.4.jar"/>
+	<classpathentry kind="lib" path="jars/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="jars/commons-codec-1.11.jar"/>
+	<classpathentry kind="lib" path="jars/commons-csv-1.4.jar"/>
+	<classpathentry kind="lib" path="jars/commons-io-2.5.jar"/>
+	<classpathentry kind="lib" path="jars/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="jars/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="jars/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="jars/httpclient-cache-4.5.3.jar"/>
+	<classpathentry kind="lib" path="jars/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="jars/jackson-annotations-2.9.0.jar"/>
+	<classpathentry kind="lib" path="jars/jackson-core-2.9.0.jar"/>
+	<classpathentry kind="lib" path="jars/jackson-databind-2.9.0.jar"/>
+	<classpathentry kind="lib" path="jars/java-json.jar"/>
+	<classpathentry kind="lib" path="jars/jcl-over-slf4j-1.7.25.jar"/>
+	<classpathentry kind="lib" path="jars/jena-arq-3.5.0.jar"/>
+	<classpathentry kind="lib" path="jars/jena-base-3.5.0.jar"/>
+	<classpathentry kind="lib" path="jars/jena-cmds-3.5.0.jar"/>
+	<classpathentry kind="lib" path="jars/jena-core-3.5.0.jar"/>
+	<classpathentry kind="lib" path="jars/jena-dboe-base-3.5.0.jar"/>
+	<classpathentry kind="lib" path="jars/jena-dboe-index-3.5.0.jar"/>
+	<classpathentry kind="lib" path="jars/jena-dboe-trans-data-3.5.0.jar"/>
+	<classpathentry kind="lib" path="jars/jena-dboe-transaction-3.5.0.jar"/>
+	<classpathentry kind="lib" path="jars/jena-iri-3.5.0.jar"/>
+	<classpathentry kind="lib" path="jars/jena-rdfconnection-3.5.0.jar"/>
+	<classpathentry kind="lib" path="jars/jena-shaded-guava-3.5.0.jar"/>
+	<classpathentry kind="lib" path="jars/jena-tdb-3.5.0.jar"/>
+	<classpathentry kind="lib" path="jars/jena-tdb2-3.5.0.jar"/>
+	<classpathentry kind="lib" path="jars/jsonld-java-0.11.1.jar"/>
+	<classpathentry kind="lib" path="jars/jsoup-1.11.2.jar"/>
+	<classpathentry kind="lib" path="jars/libthrift-0.9.3.jar"/>
+	<classpathentry kind="lib" path="jars/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="jars/org.apache.commons.httpclient.jar"/>
+	<classpathentry kind="lib" path="jars/slf4j-api-1.7.25.jar"/>
+	<classpathentry kind="lib" path="jars/slf4j-log4j12-1.7.25.jar"/>
+	<classpathentry kind="lib" path="jars/xercesImpl-2.11.0.jar"/>
+	<classpathentry kind="lib" path="jars/xml-apis-1.4.01.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

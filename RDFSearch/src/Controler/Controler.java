@@ -1,6 +1,11 @@
 package Controler;
 
+import java.util.ArrayList;
+import java.util.List;
+
 import Request.Search;
+import dbpedia.DBpediaSpotlightClient;
+import util.HTMLGenerator;
 
 public class Controler 
 {
@@ -10,13 +15,25 @@ public class Controler
 		
 		try
 		{	
-			//String html = search.getPageHTML("Titanic", "google");
+			String title = "Titanic";
+			//String title = "Die Hard";
 			
-			//search.storeString(html, "result.txt");
+			List<String> toDisplay = new ArrayList<String>();
 			
-			String imageLink = search.getFirstImageLink("Titanic");
+			DBpediaSpotlightClient d = new DBpediaSpotlightClient();
 			
-			search.storeString(imageLink, "TitanicFilmImageLink.txt");
+			toDisplay = d.extract(title);
+			
+			for(int i = 0; i < toDisplay.size(); i++) 
+			{
+				System.out.println(toDisplay.get(i));
+			}
+			
+			String imageLink = search.getFirstImageLink(title);
+
+			HTMLGenerator htmlGenerator = new HTMLGenerator(title, imageLink, null, null, null);
+			
+			search.storeString(htmlGenerator.getHTML(), "rendu.html");	
 		}
 		catch (Exception e)
 		{

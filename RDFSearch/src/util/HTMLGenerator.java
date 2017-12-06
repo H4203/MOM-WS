@@ -4,16 +4,24 @@ import java.util.HashMap;
 import java.util.Iterator;
 import java.util.Set;
 
-public class htmlGenerator {
+public class HTMLGenerator 
+{
 	String codeHtml;
-	//A Ajouter en parametre : nom du film, url de l'affiche du film, les donnees qui definissent le film, les acteurs avec image, films associes avec nom et url de l'image
-	htmlGenerator(String titreFilm, String URLFilm, HashMap<String,String> donnees, HashMap<String,String> acteurs, HashMap<String,String> filmsAssocies){
+	
+	// A Ajouter en parametre : 
+	//    nom du film
+	//    url de l'affiche du film, 
+	//    les donnees qui definissent le film, 
+	//    les acteurs avec image, 
+	//    films associes avec nom et url de l'image
+	public HTMLGenerator(String titre, String URLAffiche, HashMap <String, String> donnees, HashMap <String, String> acteurs, HashMap <String, String> filmsAssocies)
+	{
 		codeHtml = "<!DOCTYPE html>\n" + 
 				"<!-- Template by html.am -->\n" + 
 				"<html>\n" + 
 				"	<head>\n" + 
 				"		<meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\">\n" + 
-				"		<title>3 Column, Right Menus</title>\n" + 
+				"		<title>"+ titre +"</title>\n" + 
 				"		<style type=\"text/css\">\n" + 
 				"		\n" + 
 				"			body{\n" + 
@@ -102,23 +110,26 @@ public class htmlGenerator {
 				"	<body>\n" + 
 				"			<header id=\"header\">\n" + 
 				"				<div class=\"innertube\">\n" + 
-				"					<h1>" + titreFilm + "</h1>\n" + 
+				"					<h1>" + titre + "</h1>\n" +                  
 				"				</div>\n" + 
 				"			</header>\n" + 
 				"		<div id=\"mainwrapper\">\n" + 
 				"		\n" + 
 				"			<div id=\"contentwrapper\">\n" + 
 				"				<div id=\"content\">\n" + 
+				"                   <br/>\n" +
 				"					<div class=\"innertube\">\n" + 
-				"						<h1>Heading</h1>\n";
+				"						<IMG SRC=" + URLAffiche + " ALT=" + titre + ">\n";
 				
-				Set<String> cles = donnees.keySet();
+				/*Set<String> cles = donnees.keySet();
 				Iterator<String> it = cles.iterator();
-				while(it.hasNext()) {
+				
+				while(it.hasNext()) 
+				{
 					String cle = it.next();
 					String valeur = donnees.get(cle);
 					codeHtml += "<p>" + cle + " : " + valeur + "</p>";
-				}
+				}*/
 				
 				codeHtml+= "</div>\n" + 
 				"				</div>\n" + 
@@ -168,5 +179,10 @@ public class htmlGenerator {
 				"	</body>\n" + 
 				"\n" + 
 				"</html>";
+	}
+	
+	public String getHTML()
+	{
+		return codeHtml;
 	}
 }

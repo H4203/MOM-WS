@@ -10,13 +10,13 @@ public class Search
 {
 	public String getFirstImageLink(String query) throws IOException
 	{
-		Document document = getDocument(query, "qwantImage");
+		Document document = getDocument(query + " Film", "qwantImage");
 		
 		Element tr = document.select("tr").get(4);
 		Element div = tr.select("div[class=resultimgs]").get(0);
 		Element img = div.select("img").get(0);
 		
-		return img.attr("src");
+		return "http:" + img.attr("src");
 	}
 	
 	public String getPageHTML(String query, String engine) throws IOException
