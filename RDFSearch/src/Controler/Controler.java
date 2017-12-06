@@ -14,7 +14,7 @@ public class Controler
 			
 			//search.storeString(html, "result.txt");
 			
-			String imageLink = search.getImageLink("Titanic");
+			String imageLink = search.getFirstImageLink("Titanic");
 			
 			search.storeString(imageLink, "TitanicFilmImageLink.txt");
 		}
