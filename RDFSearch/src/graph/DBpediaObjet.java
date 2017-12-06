@@ -27,6 +27,8 @@ public class DBpediaObjet {
 		relationEtElement.put(relation, element);
 	}
 	
+	//return the number of element added
+	//if negative, there was an error after adding |the return int| elements
 	public int addFromFile(String filePath)
 	{	
 		int nbAjoute = 0;
@@ -76,12 +78,12 @@ public class DBpediaObjet {
 	public HashMap<String, String> getRelationEtElement() {
 		return relationEtElement;
 	}
-	
+	/*
 	public static void main(String[] args)
 	{
 		DBpediaObjet ob = new DBpediaObjet();
 		ob.addFromFile("./newfile");
 		System.out.println(ob.getRelationEtElement());
 	}
-	
+	*/
 }
