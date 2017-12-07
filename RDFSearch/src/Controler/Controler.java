@@ -31,11 +31,11 @@ public class Controler
 			
 			String imageLink = search.getFirstImageLink(title + " Film");
 			
-			HashMap <String, String> donnees = new HashMap();
+			HashMap <String, String> donnees = new HashMap <String, String> ();
 			donnees.put("date", "1996");
 			donnees.put("state", "France");
 			
-			HashMap <String, String> acteurs = new HashMap();
+			HashMap <String, String> acteurs = new HashMap <String, String> ();
 			String actor = "Liam Neeson";
 			String actorURL = search.getFirstImageLink(actor);
 			acteurs.put(actor, actorURL);
@@ -43,7 +43,7 @@ public class Controler
 			actorURL = search.getFirstImageLink(actor);
 			acteurs.put(actor, actorURL);
 			
-			HashMap <String, String> filmsAssocies = new HashMap();
+			HashMap <String, String> filmsAssocies = new HashMap <String, String> ();
 			filmsAssocies.put("Die Hard", search.getFirstImageLink("Die Hard" + " Film"));
 
 			HTMLGenerator htmlGenerator = new HTMLGenerator(title, imageLink, donnees, acteurs, filmsAssocies);
