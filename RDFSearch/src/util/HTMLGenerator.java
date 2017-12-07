@@ -110,7 +110,7 @@ public class HTMLGenerator
 				"	<body>\n" + 
 				"			<header id=\"header\">\n" + 
 				"				<div class=\"innertube\">\n" + 
-				"					<h1>" + titre + "</h1>\n" +                  
+				"                   <h1>" + titre + "</h1>\n" +
 				"				</div>\n" + 
 				"			</header>\n" + 
 				"		<div id=\"mainwrapper\">\n" + 
@@ -118,10 +118,16 @@ public class HTMLGenerator
 				"			<div id=\"contentwrapper\">\n" + 
 				"				<div id=\"content\">\n" + 
 				"                   <br/>\n" +
-				"					<div class=\"innertube\">\n" + 
-				"						<IMG SRC=" + URLAffiche + " ALT=" + titre + ">\n" +
-				"                       <h2>Numbers</h2>\n";
+				"					<div class=\"innertube\">\n";
 
+		codeHtml +=         "<table>\n" +
+		"                       <tr>\n" +
+		"                       	<td>\n" +
+		"								<IMG SRC=" + URLAffiche + " ALT=" + titre + ">\n" +
+		"                       	</td>\n" +
+		"                       	<td>\n" +
+		"                       		<h2>Numbers</h2>\n";
+		 			
 		Set<String> cles = donnees.keySet();
 		Iterator<String> it = cles.iterator();
 		
@@ -134,7 +140,11 @@ public class HTMLGenerator
 			
 			codeHtml += "<li>" + cle + " : " + valeur + "</li>\n";
 		}
-				
+		
+		codeHtml += "             	</td>\n" +
+		"                       </tr>\n" +
+		"                   </table>\n";
+			
 		codeHtml+= "</div>\n" + 
 				"				</div>\n" + 
 				"			</div>\n" + 
