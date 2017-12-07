@@ -10,7 +10,7 @@ public class Search
 {
 	public String getFirstImageLink(String query) throws IOException
 	{
-		Document document = getDocument(query + " Film", "qwantImage");
+		Document document = getDocument(query, "qwantImage");
 		
 		Element tr = document.select("tr").get(4);
 		Element div = tr.select("div[class=resultimgs]").get(0);

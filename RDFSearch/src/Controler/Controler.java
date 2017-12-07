@@ -1,6 +1,7 @@
 package Controler;
 
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.List;
 
 import Request.Search;
@@ -16,7 +17,6 @@ public class Controler
 		try
 		{	
 			String title = "Titanic";
-			//String title = "Die Hard";
 			
 			List<String> toDisplay = new ArrayList<String>();
 			
@@ -29,9 +29,24 @@ public class Controler
 				System.out.println(toDisplay.get(i));
 			}
 			
-			String imageLink = search.getFirstImageLink(title);
+			String imageLink = search.getFirstImageLink(title + " Film");
+			
+			HashMap <String, String> donnees = new HashMap();
+			donnees.put("date", "1996");
+			donnees.put("state", "France");
+			
+			HashMap <String, String> acteurs = new HashMap();
+			String actor = "Liam Neeson";
+			String actorURL = search.getFirstImageLink(actor);
+			acteurs.put(actor, actorURL);
+			actor = "Kevin Spacey";
+			actorURL = search.getFirstImageLink(actor);
+			acteurs.put(actor, actorURL);
+			
+			HashMap <String, String> filmsAssocies = new HashMap();
+			filmsAssocies.put("Die Hard", search.getFirstImageLink("Die Hard" + " Film"));
 
-			HTMLGenerator htmlGenerator = new HTMLGenerator(title, imageLink, null, null, null);
+			HTMLGenerator htmlGenerator = new HTMLGenerator(title, imageLink, donnees, acteurs, filmsAssocies);
 			
 			search.storeString(htmlGenerator.getHTML(), "rendu.html");	
 		}

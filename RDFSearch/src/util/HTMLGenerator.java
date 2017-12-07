@@ -119,55 +119,62 @@ public class HTMLGenerator
 				"				<div id=\"content\">\n" + 
 				"                   <br/>\n" +
 				"					<div class=\"innertube\">\n" + 
-				"						<IMG SRC=" + URLAffiche + " ALT=" + titre + ">\n";
+				"						<IMG SRC=" + URLAffiche + " ALT=" + titre + ">\n" +
+				"                       <h2>Numbers</h2>\n";
+
+		Set<String> cles = donnees.keySet();
+		Iterator<String> it = cles.iterator();
+		
+		codeHtml += "<ul>\n";
+		
+		while(it.hasNext()) 
+		{
+			String cle = it.next();
+			String valeur = donnees.get(cle);
+			
+			codeHtml += "<li>" + cle + " : " + valeur + "</li>\n";
+		}
 				
-				/*Set<String> cles = donnees.keySet();
-				Iterator<String> it = cles.iterator();
-				
-				while(it.hasNext()) 
-				{
-					String cle = it.next();
-					String valeur = donnees.get(cle);
-					codeHtml += "<p>" + cle + " : " + valeur + "</p>";
-				}*/
-				
-				codeHtml+= "</div>\n" + 
+		codeHtml+= "</div>\n" + 
 				"				</div>\n" + 
 				"			</div>\n" + 
 				"			\n" + 
 				"			<nav id=\"leftmenu\">\n" + 
-				"				<div class=\"innertube\">\n" + 
-				"					<p><script type=\"text/javascript\">generateText(5)</script></p>\n" + 
-				"				</div>\n" + 
+				"				<div class=\"innertube\">\n" +
+				"					<h2>Actors</h2>\n"; 
+									 
+		Set<String> cles2 = acteurs.keySet();
+		Iterator<String> it2 = cles2.iterator();
+		
+		while(it2.hasNext()) 
+		{
+			String cle = it2.next();
+			String valeur = acteurs.get(cle);
+				
+			codeHtml += "<p>" + cle + "</p>\n";
+			codeHtml += "<IMG SRC=" + valeur + " ALT=" + cle + "/>\n";
+		}
+		
+		codeHtml += "				</div>\n" + 
 				"			</nav>\n" + 
 				"			\n" + 
 				"			<nav id=\"rightmenu\">\n" + 
-				"				<div class=\"innertube\">\n" + 
-				"					<h3>Right heading</h3>\n" + 
-				"					<ul>\n" + 
-				"						<li><a href=\"#\">Link 1</a></li>\n" + 
-				"						<li><a href=\"#\">Link 2</a></li>\n" + 
-				"						<li><a href=\"#\">Link 3</a></li>\n" + 
-				"						<li><a href=\"#\">Link 4</a></li>\n" + 
-				"						<li><a href=\"#\">Link 5</a></li>\n" + 
-				"					</ul>\n" + 
-				"					<h3>Right heading</h3>\n" + 
-				"					<ul>\n" + 
-				"						<li><a href=\"#\">Link 1</a></li>\n" + 
-				"						<li><a href=\"#\">Link 2</a></li>\n" + 
-				"						<li><a href=\"#\">Link 3</a></li>\n" + 
-				"						<li><a href=\"#\">Link 4</a></li>\n" + 
-				"						<li><a href=\"#\">Link 5</a></li>\n" + 
-				"					</ul>\n" + 
-				"					<h3>Right heading</h3>\n" + 
-				"					<ul>\n" + 
-				"						<li><a href=\"#\">Link 1</a></li>\n" + 
-				"						<li><a href=\"#\">Link 2</a></li>\n" + 
-				"						<li><a href=\"#\">Link 3</a></li>\n" + 
-				"						<li><a href=\"#\">Link 4</a></li>\n" + 
-				"						<li><a href=\"#\">Link 5</a></li>\n" + 
-				"					</ul>\n" + 
-				"				</div>\n" + 
+				"				<div class=\"innertube\">\n" +
+				"					<h2>Films Associes</h2>\n"; 
+		
+		Set<String> cles3 = filmsAssocies.keySet();
+		Iterator<String> it3 = cles3.iterator();
+		
+		while(it3.hasNext()) 
+		{
+			String cle = it3.next();
+			String valeur = filmsAssocies.get(cle);
+				
+			codeHtml += "<p>" + cle + "</p>\n";
+			codeHtml += "<IMG SRC=" + valeur + " ALT=" + cle + "/>\n";
+		}
+				
+		codeHtml +="	</div>\n" + 
 				"			</nav>\n" + 
 				"		</div>\n" + 
 				"			<footer id=\"footer\">\n" + 
