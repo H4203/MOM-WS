@@ -8,7 +8,7 @@ import org.jsoup.nodes.*;
 
 public class Search
 {
-	public String getFirstImageLink(String query) throws IOException
+	public String getImageLink(String query) throws IOException
 	{
 		Document document = getDocument(query, "qwantImage");
 		
@@ -36,19 +36,19 @@ public class Search
 			
 			if (engine == "google")
 	    	{
-	    		url = "https://www.google.fr/search?q=" + query;
+	    		url = "https://www.google.fr/search?q=" + query + "%20Film";
 	    	}
 	    	else if (engine == "qwant")
 	    	{
-	    		url = "https://www.qwant.com/?q=" + query + "&t=all";
+	    		url = "https://www.qwant.com/?q=" + query + "%20Film&t=all";
 	    	}
 	    	else if (engine == "qwantImage")
 	    	{
-	    		url = "https://lite.qwant.com/?q=" + query + "&t=images";
+	    		url = "https://lite.qwant.com/?q=" + query + "%20Film&t=images";
 	    	}
 	    	else
 	    	{
-	    		url = "https://www.google.fr/search?q=" + query;
+	    		url = "https://www.google.fr/search?q=" + query + "%20Film";
 	    	}
 			
 			document =  Jsoup.connect(url).get();

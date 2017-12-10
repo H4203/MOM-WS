@@ -12,8 +12,8 @@ import org.apache.jena.query.*;
 import org.apache.jena.rdf.model.*;
 import org.apache.jena.vocabulary.*;
 
-public class request {
-	public void doRequest(String queryString, String path) throws FileNotFoundException {
+public class Request {
+	public static void doRequest(String queryString, String path) throws FileNotFoundException {
 
 		Query query = QueryFactory.create(queryString);
 
@@ -53,7 +53,7 @@ public class request {
 	}
 
 	public static void main(String[] args) {
-		request r = new request();
+		
 		String queryString = "PREFIX p: <http://dbpedia.org/property/>"
 				+ "PREFIX dbpedia: <http://dbpedia.org/resource/>"
 				+ "PREFIX category: <http://dbpedia.org/resource/Category:>"
@@ -64,7 +64,7 @@ public class request {
 				"SELECT DISTINCT ?x ?m ?d " + "WHERE {" + "?x ?m ?d "
 				+ "FILTER(?x = <http://dbpedia.org/resource/Berlin>)}";
 		try {
-			r.doRequest(queryString, "./newfile");
+			doRequest(queryString, "./newfile");
 		} catch (FileNotFoundException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
