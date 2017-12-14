@@ -105,7 +105,7 @@ public class DBpediaSpotlightClient {
 	
 
 	public static void main(String[] args) {
-		String request = "Fast and furious";
+		String request = "Avatar";
 		DBpediaSpotlightClient d = new DBpediaSpotlightClient();
 		d.extract(request);
 	}

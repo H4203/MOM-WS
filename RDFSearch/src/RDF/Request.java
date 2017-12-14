@@ -12,12 +12,14 @@ import org.apache.jena.query.*;
 import org.apache.jena.rdf.model.*;
 import org.apache.jena.vocabulary.*;
 
+import dbpedia.DBpediaSpotlightClient;
+
 public class Request {
 	public static void doRequest(String queryString, String path) throws FileNotFoundException {
 
 		Query query = QueryFactory.create(queryString);
 
-		QueryExecution qexec = QueryExecutionFactory.sparqlService("http://dbpedia.org/sparql", query);
+		QueryExecution qexec = QueryExecutionFactory.sparqlService("http://fr.dbpedia.org/sparql", query);
 		FileOutputStream fop = null;
 		FileWriter file = null;
 		try {
@@ -54,15 +56,23 @@ public class Request {
 
 	public static void main(String[] args) {
 		
-		String queryString = "PREFIX p: <http://dbpedia.org/property/>"
-				+ "PREFIX dbpedia: <http://dbpedia.org/resource/>"
-				+ "PREFIX category: <http://dbpedia.org/resource/Category:>"
-				+ "PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>"
-				+ "PREFIX skos: <http://www.w3.org/2004/02/skos/core#>" + "PREFIX geo: <http://www.georss.org/georss/>"
+		DBpediaSpotlightClient dbp = new DBpediaSpotlightClient();
+		
+		List<String> ressources = dbp.extract("Avatar");
+		String[] split = ressources.get(0).split("/");
+		String ressource = split[split.length-1];
+		System.out.println(ressources.get(0));
+		
+		String queryString = "PREFIX p: <http://dbpedia.org/property/> "
+				+ "PREFIX dbpedia: <http://dbpedia.org/resource/> "
+				+ "PREFIX category: <http://dbpedia.org/resource/Category:> "
+				+ "PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> "
+				+ "PREFIX skos: <http://www.w3.org/2004/02/skos/core#> " + "PREFIX geo: <http://www.georss.org/georss/> "
 				+
 
 				"SELECT DISTINCT ?x ?m ?d " + "WHERE {" + "?x ?m ?d "
-				+ "FILTER(?x = <http://dbpedia.org/resource/Berlin>)}";
+				+ "FILTER(?x = <"+ ressources.get(0)+">)}";
+		System.out.println(queryString);
 		try {
 			doRequest(queryString, "./newfile");
 		} catch (FileNotFoundException e) {

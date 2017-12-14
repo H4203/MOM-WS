@@ -1,4 +1,4 @@
-package dbpedia;
+package graph;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
@@ -55,9 +55,16 @@ public class DBpediaObjet {
 			while (line != null) {
 				str = line.split(" ");
 
-				relation = str[1].substring(1, str[1].length()-2);
-				element = str[2].substring(1, str[2].length()-2);
-				this.add(relation, element);
+				relation = str[1].substring(1, str[1].length()-1);
+				element = str[2].substring(1, str[2].length()-1);
+				if(relationEtElement.containsKey(relation)) {
+					this.relationEtElement.get(relation).add(element);
+				}
+				else {
+					List<String> list = new ArrayList<String>();
+					list.add(element);
+					this.relationEtElement.put(relation, list);
+				}
 				line = br.readLine();
 				nbAjoute++;
 			}
