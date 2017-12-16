@@ -8,15 +8,19 @@ import org.jsoup.nodes.*;
 
 public class Search
 {
-	public String getImageLink(String query) throws IOException
+	public static String getImageLink(String query) throws IOException
 	{
 		Document document = getDocument(query, "qwantImage");
-		
+		if(document.select("tr").get(4) ==null)
+			return null;
 		Element tr = document.select("tr").get(4);
-		Element div = tr.select("div[class=resultimgs]").get(0);
+		if(tr.select("div[class=resultimgs]").size() != 0) {
+			Element div = tr.select("div[class=resultimgs]").get(0);
 		Element img = div.select("img").get(0);
 		
-		return img.attr("src");
+		return img.attr("src");}
+		
+		return null;
 	}
 	
 	public String getPageHTML(String query, String engine) throws IOException
@@ -26,7 +30,7 @@ public class Search
 		return document.html();
 	}
 	
-	public Document getDocument(String query, String engine) throws IOException
+	public static Document getDocument(String query, String engine) throws IOException
 	{
 		Document document = null;
 		

@@ -47,6 +47,12 @@ public class Request {
 				// TODO Auto-generated catch block
 				e.printStackTrace();
 			}
+			try {
+				file.close();
+			} catch (IOException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
 
 		} finally {
 			qexec.close();

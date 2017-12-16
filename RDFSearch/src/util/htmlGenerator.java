@@ -4,16 +4,24 @@ import java.util.HashMap;
 import java.util.Iterator;
 import java.util.Set;
 
-public class htmlGenerator {
+public class HTMLGenerator 
+{
 	String codeHtml;
-	//A Ajouter en parametre : nom du film, url de l'affiche du film, les donnees qui definissent le film, les acteurs avec image, films associes avec nom et url de l'image
-	htmlGenerator(String titreFilm, String URLFilm, HashMap<String,String> donnees, HashMap<String,String> acteurs, HashMap<String,String> filmsAssocies){
+	
+	// A Ajouter en parametre : 
+	//    nom du film
+	//    url de l'affiche du film, 
+	//    les donnees qui definissent le film, 
+	//    les acteurs avec image, 
+	//    films associes avec nom et url de l'image
+	public HTMLGenerator(String titre, String URLAffiche, HashMap <String, String> donnees, HashMap <String, String> acteurs, HashMap <String, String> filmsAssocies)
+	{
 		codeHtml = "<!DOCTYPE html>\n" + 
 				"<!-- Template by html.am -->\n" + 
 				"<html>\n" + 
 				"	<head>\n" + 
 				"		<meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\">\n" + 
-				"		<title>3 Column, Right Menus</title>\n" + 
+				"		<title>"+ titre +"</title>\n" + 
 				"		<style type=\"text/css\">\n" + 
 				"		\n" + 
 				"			body{\n" + 
@@ -34,7 +42,7 @@ public class htmlGenerator {
 				"			}\n" + 
 				"			\n" + 
 				"			#mainwrapper {\n" + 
-				"				overflow: hidden;\n" + 
+				//"				overflow: hidden;\n" + 
 				"			}\n" + 
 				"			\n" + 
 				"			#contentwrapper{\n" + 
@@ -44,39 +52,38 @@ public class htmlGenerator {
 				"			\n" + 
 				"			#content {\n" + 
 				"				margin-right: 460px; /* Width of '#rightmenu' and '#leftmenu' combined. */\n" + 
-				"				padding-bottom: 10010px;\n" + 
-				"				margin-bottom: -10000px;\n" + 
+				//"				height: 100%;\n" +
+				//"				padding-bottom: 10010px;\n" + 
+				//"				margin-bottom: -10000px;\n" + 
 				"			}\n" + 
 				"			\n" + 
 				"			#leftmenu {\n" + 
 				"				float: left;\n" + 
 				"				width: 250px;\n" + 
 				"				margin-left: -460px; /* Width of '#rightmenu' and '#leftmenu' combined. */\n" + 
-				"				padding-bottom: 10010px;\n" + 
-				"				margin-bottom: -10000px;\n" + 
+				//"				padding-bottom: 10010px;\n" + 
+				//"				margin-bottom: -10000px;\n" + 
+				"				height: 100%;\n" +
 				"				background: #F7FDEB;\n" + 
+				"				overflow:auto;\n" + 
 				"			}\n" + 
 				"			\n" + 
 				"			#rightmenu {\n" + 
 				"				float: left;\n" + 
-				"				width: 210px;\n" + 
+				"				width: 210px;\n" +
+				"				height: 100%;\n" +
 				"				margin-left: -210px;\n" + 
-				"				padding-bottom: 10010px;\n" + 
-				"				margin-bottom: -10000px;\n" + 
+				//"				padding-bottom: 10010px;\n" + 
+				//"				margin-bottom: -10000px;\n" + 
 				"				background: #DAE9BC;\n" + 
+				"				overflow:auto;\n" + 
 				"			}\n" + 
 				"			\n" + 
-				"			#footer{\n" + 
-				"				clear: left;\n" + 
-				"				width: 100%;\n" + 
-				"				background: #BCCE98;\n" + 
-				"				text-align: center;\n" + 
-				"				padding: 5px 0;\n" + 
-				"			}\n" + 
 				"			\n" + 
 				"			.innertube{\n" + 
 				"				margin: 15px; /* Padding for content */\n" + 
 				"				margin-top: 0;\n" + 
+				"				height: 100%;\n" +
 				"			}\n" + 
 				"		\n" + 
 				"		\n" + 
@@ -102,71 +109,90 @@ public class htmlGenerator {
 				"	<body>\n" + 
 				"			<header id=\"header\">\n" + 
 				"				<div class=\"innertube\">\n" + 
-				"					<h1>" + titreFilm + "</h1>\n" + 
+				"                   <h1>" + titre + "</h1>\n" +
 				"				</div>\n" + 
 				"			</header>\n" + 
 				"		<div id=\"mainwrapper\">\n" + 
 				"		\n" + 
 				"			<div id=\"contentwrapper\">\n" + 
 				"				<div id=\"content\">\n" + 
-				"					<div class=\"innertube\">\n" + 
-				"						<h1>Heading</h1>\n";
-				
-				Set<String> cles = donnees.keySet();
-				Iterator<String> it = cles.iterator();
-				while(it.hasNext()) {
-					String cle = it.next();
-					String valeur = donnees.get(cle);
-					codeHtml += "<p>" + cle + " : " + valeur + "</p>";
-				}
-				
-				codeHtml+= "</div>\n" + 
+				"                   <br/>\n" +
+				"					<div class=\"innertube\">\n";
+
+		codeHtml +=         "<table>\n" +
+		"                       <tr>\n" +
+		"                       	<td>\n" +
+		"								<img src=\"" + URLAffiche + "\" alt=" + titre + ">\n" +
+		"                       	</td>\n" +
+		"                       	<td>\n" +
+		"                       		<h2>Numbers</h2>\n";
+		 			
+		Set<String> cles = donnees.keySet();
+		Iterator<String> it = cles.iterator();
+		
+		codeHtml += "<ul>\n";
+		
+		while(it.hasNext()) 
+		{
+			String cle = it.next();
+			String valeur = donnees.get(cle);
+			if(cle.equals("Page wikipedia"))
+				codeHtml += "<a href=\"" + valeur + "\"> " + cle + "</a>\n";
+			else
+				codeHtml += "<li>" + cle + " : " + valeur + "</li>\n";
+		}
+		
+		codeHtml += "             	</td>\n" +
+		"                       </tr>\n" +
+		"                   </table>\n";
+			
+		codeHtml+= "</div>\n" + 
 				"				</div>\n" + 
 				"			</div>\n" + 
 				"			\n" + 
 				"			<nav id=\"leftmenu\">\n" + 
-				"				<div class=\"innertube\">\n" + 
-				"					<p><script type=\"text/javascript\">generateText(5)</script></p>\n" + 
-				"				</div>\n" + 
+				"				<div class=\"innertube\">\n" +
+				"					<h2>Actors</h2>\n"; 
+									 
+		Set<String> cles2 = acteurs.keySet();
+		Iterator<String> it2 = cles2.iterator();
+		
+		while(it2.hasNext()) 
+		{
+			String cle = it2.next();
+			String valeur = acteurs.get(cle);
+				
+			codeHtml += "<p>" + cle + "</p>\n";
+			codeHtml += "<img src=\"http:" + valeur + "\" alt=" + cle + "/>\n";
+		}
+		
+		codeHtml += "				</div>\n" + 
 				"			</nav>\n" + 
 				"			\n" + 
 				"			<nav id=\"rightmenu\">\n" + 
-				"				<div class=\"innertube\">\n" + 
-				"					<h3>Right heading</h3>\n" + 
-				"					<ul>\n" + 
-				"						<li><a href=\"#\">Link 1</a></li>\n" + 
-				"						<li><a href=\"#\">Link 2</a></li>\n" + 
-				"						<li><a href=\"#\">Link 3</a></li>\n" + 
-				"						<li><a href=\"#\">Link 4</a></li>\n" + 
-				"						<li><a href=\"#\">Link 5</a></li>\n" + 
-				"					</ul>\n" + 
-				"					<h3>Right heading</h3>\n" + 
-				"					<ul>\n" + 
-				"						<li><a href=\"#\">Link 1</a></li>\n" + 
-				"						<li><a href=\"#\">Link 2</a></li>\n" + 
-				"						<li><a href=\"#\">Link 3</a></li>\n" + 
-				"						<li><a href=\"#\">Link 4</a></li>\n" + 
-				"						<li><a href=\"#\">Link 5</a></li>\n" + 
-				"					</ul>\n" + 
-				"					<h3>Right heading</h3>\n" + 
-				"					<ul>\n" + 
-				"						<li><a href=\"#\">Link 1</a></li>\n" + 
-				"						<li><a href=\"#\">Link 2</a></li>\n" + 
-				"						<li><a href=\"#\">Link 3</a></li>\n" + 
-				"						<li><a href=\"#\">Link 4</a></li>\n" + 
-				"						<li><a href=\"#\">Link 5</a></li>\n" + 
-				"					</ul>\n" + 
-				"				</div>\n" + 
-				"			</nav>\n" + 
-				"		</div>\n" + 
-				"			<footer id=\"footer\">\n" + 
-				"				<div class=\"innertube\">\n" + 
-				"					<p>Footer...</p>\n" + 
-				"				</div>\n" + 
-				"			</footer>\n" + 
-				"	\n" + 
+				"				<div class=\"innertube\">\n" +
+				"					<h2>Films Associes</h2>\n"; 
+		
+		Set<String> cles3 = filmsAssocies.keySet();
+		Iterator<String> it3 = cles3.iterator();
+		
+		while(it3.hasNext()) 
+		{
+			String cle = it3.next();
+			String valeur = filmsAssocies.get(cle);
+				
+			codeHtml += "<p>" + cle + "</p>\n";
+			codeHtml += "<img src=\"http:" + valeur + "\" alt=" + cle + "/>\n";
+		}
+				
+		codeHtml +="	</div>\n" + 
 				"	</body>\n" + 
 				"\n" + 
 				"</html>";
+	}
+	
+	public String getHTML()
+	{
+		return codeHtml;
 	}
 }
