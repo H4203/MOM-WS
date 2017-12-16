@@ -36,15 +36,21 @@ public class Controler
 			donnees.put("state", "France");
 			
 			HashMap <String, String> acteurs = new HashMap <String, String> ();
-			String actor = "Liam Neeson";
-			String actorURL = search.getFirstImageLink(actor);
-			acteurs.put(actor, actorURL);
-			actor = "Kevin Spacey";
-			actorURL = search.getFirstImageLink(actor);
-			acteurs.put(actor, actorURL);
+			
+			acteurs.put("Liam Neeson", search.getFirstImageLink("Liam Neeson"));
+			acteurs.put("Kevin Spacey", search.getFirstImageLink("Kevin Spacey"));
+			acteurs.put("Will Smith", search.getFirstImageLink("Will Smith"));
+			acteurs.put("Will Smith 2", search.getFirstImageLink("Will Smith"));
+			acteurs.put("Will Smith 3", search.getFirstImageLink("Will Smith"));
 			
 			HashMap <String, String> filmsAssocies = new HashMap <String, String> ();
+			
 			filmsAssocies.put("Die Hard", search.getFirstImageLink("Die Hard" + " Film"));
+			filmsAssocies.put("Die Hard 1", search.getFirstImageLink("Die Hard" + " Film"));
+			filmsAssocies.put("Die Hard 2", search.getFirstImageLink("Die Hard" + " Film"));
+			filmsAssocies.put("Die Hard 3", search.getFirstImageLink("Die Hard" + " Film"));
+			filmsAssocies.put("Die Hard 4", search.getFirstImageLink("Die Hard" + " Film"));
+			filmsAssocies.put("Die Hard 5", search.getFirstImageLink("Die Hard" + " Film"));
 
 			HTMLGenerator htmlGenerator = new HTMLGenerator(title, imageLink, donnees, acteurs, filmsAssocies);
 			
