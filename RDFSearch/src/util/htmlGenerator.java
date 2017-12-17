@@ -49,6 +49,7 @@ public class HTMLGenerator
 				"			\n" + 
 				"			#contentwrapper{\n" + 
 				"				height: 100%;\n" +
+				"				overflow: auto;\n" +
 				"				float: left;\n" + 
 				"				width: 100%;\n" + 
 				"			}\n" + 
@@ -86,6 +87,7 @@ public class HTMLGenerator
 				"			.innertube{\n" + 
 				"				margin: 15px; /* Padding for content */\n" + 
 				"				margin-top: 0;\n" + 
+				"				height: 100%;\n" +
 				"			}\n" + 
 				"		\n" + 
 				"		\n" + 
@@ -138,8 +140,11 @@ public class HTMLGenerator
 		{
 			String cle = it.next();
 			String valeur = donnees.get(cle);
-			
-			codeHtml += "<li>" + cle + " : " + valeur + "</li>\n";
+			if(cle.equals("Page wikipedia")) {
+				codeHtml += "<a href=\"" + valeur + "\">" + valeur + "</a>\n";
+			}
+			else
+				codeHtml += "<li>" + cle + " : " + valeur + "</li>\n";
 		}
 		
 		codeHtml += "             	</td>\n" +

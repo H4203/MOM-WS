@@ -11,10 +11,13 @@ public class Search
 	public static String getImageLink(String query) throws IOException
 	{
 		Document document = getDocument(query, "qwantImage");
+
+		if(document ==null)
+			return null;
 		
-		System.out.println("Debug");
 		if(document.select("tr") ==null)
 			return null;
+		
 		Element tr = document.select("tr").get(4);
 		if(tr.select("div[class=resultimgs]").size() != 0) {
 			Element div = tr.select("div[class=resultimgs]").get(0);

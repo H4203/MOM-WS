@@ -41,5 +41,6 @@
 	<classpathentry kind="lib" path="jars/slf4j-log4j12-1.7.25.jar"/>
 	<classpathentry kind="lib" path="jars/xercesImpl-2.11.0.jar"/>
 	<classpathentry kind="lib" path="jars/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="lib" path="/Users/regisgoubin/Downloads/glassfish5/glassfish/modules/javax.servlet-api.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

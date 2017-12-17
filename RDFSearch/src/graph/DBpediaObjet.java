@@ -53,10 +53,10 @@ public class DBpediaObjet {
 			this.setURI(uri);
 
 			while (line != null) {
-				str = line.split(" ");
+				str = line.split("> <");
 
-				relation = str[1].substring(1, str[1].length()-1);
-				element = str[2].substring(1, str[2].length()-1);
+				relation = str[1];//.substring(1, str[1].length()-1);
+				element = str[2].substring(0, str[2].length()-3);
 				if(relationEtElement.containsKey(relation)) {
 					this.relationEtElement.get(relation).add(element);
 				}

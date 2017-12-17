@@ -1,0 +1,5 @@
+<http://schema.org/Movie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fr.dbpedia.org/resource/Les_Visiteurs_(film,_1993)> .
+<http://schema.org/Movie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fr.dbpedia.org/resource/Z_(film,_1969)> .
+<http://schema.org/Movie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fr.dbpedia.org/resource/Scarface_(film,_1983)> .
+<http://schema.org/Movie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fr.dbpedia.org/resource/Taxi_Driver> .
+<http://schema.org/Movie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fr.dbpedia.org/resource/Les_Kaïra> .

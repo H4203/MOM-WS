@@ -1,0 +1,509 @@
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Movie> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Film> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Wikidata:Q11424> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Work> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q386724> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://www.w3.org/2002/07/owl#sameAs> <http://rdf.freebase.com/ns/m.099hps> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/La_Grande_Vadrouille> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://www.w3.org/2002/07/owl#sameAs> <http://az.dbpedia.org/resource/Böyük_gəzinti_(film,_1966)> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://www.w3.org/2002/07/owl#sameAs> <http://bg.dbpedia.org/resource/Голямата_разходка> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://www.w3.org/2002/07/owl#sameAs> <http://ca.dbpedia.org/resource/La_gran_gresca> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://www.w3.org/2002/07/owl#sameAs> <http://cs.dbpedia.org/resource/Velký_flám> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://www.w3.org/2002/07/owl#sameAs> <http://de.dbpedia.org/resource/Drei_Bruchpiloten_in_Paris> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://www.w3.org/2002/07/owl#sameAs> <http://eo.dbpedia.org/resource/La_Grande_Vadrouille> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://www.w3.org/2002/07/owl#sameAs> <http://es.dbpedia.org/resource/La_Gran_Juerga> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://www.w3.org/2002/07/owl#sameAs> <http://it.dbpedia.org/resource/Tre_uomini_in_fuga> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://www.w3.org/2002/07/owl#sameAs> <http://ja.dbpedia.org/resource/大進撃> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://www.w3.org/2002/07/owl#sameAs> <http://ko.dbpedia.org/resource/파리_대탈출> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://www.w3.org/2002/07/owl#sameAs> <http://nl.dbpedia.org/resource/La_Grande_Vadrouille> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://www.w3.org/2002/07/owl#sameAs> <http://pl.dbpedia.org/resource/Wielka_włóczęga> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://www.w3.org/2002/07/owl#sameAs> <http://pt.dbpedia.org/resource/La_grande_vadrouille> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://www.w3.org/2002/07/owl#sameAs> <http://ro.dbpedia.org/resource/Marea_hoinăreală> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://www.w3.org/2002/07/owl#sameAs> <http://ru.dbpedia.org/resource/Большая_прогулка> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://www.w3.org/2002/07/owl#sameAs> <http://sl.dbpedia.org/resource/Velika_avantura> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://www.w3.org/2002/07/owl#sameAs> <http://sv.dbpedia.org/resource/Den_stora_kalabaliken> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://www.w3.org/2002/07/owl#sameAs> <http://tr.dbpedia.org/resource/Şahane_Oyun_(film)> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://www.w3.org/2002/07/owl#sameAs> <http://uk.dbpedia.org/resource/Велика_прогулянка> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://www.w3.org/2002/07/owl#sameAs> <http://zh.dbpedia.org/resource/虎口脱险> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://purl.org/dc/terms/subject> <http://fr.dbpedia.org/resource/Catégorie:Film_réalisé_par_Gérard_Oury> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://purl.org/dc/terms/subject> <http://fr.dbpedia.org/resource/Catégorie:Film_tourné_dans_l'Aveyron> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://purl.org/dc/terms/subject> <http://fr.dbpedia.org/resource/Catégorie:Film_tourné_dans_le_Cantal> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://purl.org/dc/terms/subject> <http://fr.dbpedia.org/resource/Catégorie:Film_tourné_dans_le_département_de_la_Seine> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://purl.org/dc/terms/subject> <http://fr.dbpedia.org/resource/Catégorie:Film_tourné_en_Seine-et-Oise> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://purl.org/dc/terms/subject> <http://fr.dbpedia.org/resource/Catégorie:Peintre_en_bâtiment_dans_la_fiction> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://purl.org/dc/terms/subject> <http://fr.dbpedia.org/resource/Catégorie:Buddy_movie> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://purl.org/dc/terms/subject> <http://fr.dbpedia.org/resource/Catégorie:Comédie_française> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://purl.org/dc/terms/subject> <http://fr.dbpedia.org/resource/Catégorie:Film_français_sorti_en_1966> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://purl.org/dc/terms/subject> <http://fr.dbpedia.org/resource/Catégorie:Film_produit_par_Robert_Dorfmann> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://purl.org/dc/terms/subject> <http://fr.dbpedia.org/resource/Catégorie:Film_se_déroulant_dans_les_années_1940> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://purl.org/dc/terms/subject> <http://fr.dbpedia.org/resource/Catégorie:Film_se_déroulant_en_Bourgogne> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://purl.org/dc/terms/subject> <http://fr.dbpedia.org/resource/Catégorie:Film_se_déroulant_à_Paris> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://purl.org/dc/terms/subject> <http://fr.dbpedia.org/resource/Catégorie:Film_sur_l'Occupation_allemande_en_France> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://purl.org/dc/terms/subject> <http://fr.dbpedia.org/resource/Catégorie:Film_tourné_dans_l'Yonne> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://purl.org/dc/terms/subject> <http://fr.dbpedia.org/resource/Catégorie:Film_tourné_dans_la_Côte-d'Or> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://purl.org/dc/terms/subject> <http://fr.dbpedia.org/resource/Catégorie:Film_tourné_dans_la_Lozère> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://purl.org/dc/terms/subject> <http://fr.dbpedia.org/resource/Catégorie:Film_tourné_dans_le_10e_arrondissement_de_Paris> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://purl.org/dc/terms/subject> <http://fr.dbpedia.org/resource/Catégorie:Film_tourné_dans_le_12e_arrondissement_de_Paris> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://purl.org/dc/terms/subject> <http://fr.dbpedia.org/resource/Catégorie:Film_tourné_dans_le_16e_arrondissement_de_Paris> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://purl.org/dc/terms/subject> <http://fr.dbpedia.org/resource/Catégorie:Film_tourné_dans_le_18e_arrondissement_de_Paris> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://purl.org/dc/terms/subject> <http://fr.dbpedia.org/resource/Catégorie:Film_tourné_dans_le_1er_arrondissement_de_Paris> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://purl.org/dc/terms/subject> <http://fr.dbpedia.org/resource/Catégorie:Film_tourné_dans_le_5e_arrondissement_de_Paris> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://purl.org/dc/terms/subject> <http://fr.dbpedia.org/resource/Catégorie:Film_tourné_dans_le_8e_arrondissement_de_Paris> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://purl.org/dc/terms/subject> <http://fr.dbpedia.org/resource/Catégorie:Film_tourné_dans_le_9e_arrondissement_de_Paris> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://purl.org/dc/terms/subject> <http://fr.dbpedia.org/resource/Catégorie:Motocyclette_au_cinéma> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://purl.org/dc/terms/subject> <http://fr.dbpedia.org/resource/Catégorie:Road_movie> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://fr.dbpedia.org/property/wikiPageUsesTemplate> <http://fr.dbpedia.org/resource/Modèle:10e> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://fr.dbpedia.org/property/wikiPageUsesTemplate> <http://fr.dbpedia.org/resource/Modèle:11e> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://fr.dbpedia.org/property/wikiPageUsesTemplate> <http://fr.dbpedia.org/resource/Modèle:12e> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://fr.dbpedia.org/property/wikiPageUsesTemplate> <http://fr.dbpedia.org/resource/Modèle:13e> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://fr.dbpedia.org/property/wikiPageUsesTemplate> <http://fr.dbpedia.org/resource/Modèle:14e> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://fr.dbpedia.org/property/wikiPageUsesTemplate> <http://fr.dbpedia.org/resource/Modèle:15e> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://fr.dbpedia.org/property/wikiPageUsesTemplate> <http://fr.dbpedia.org/resource/Modèle:16e> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://fr.dbpedia.org/property/wikiPageUsesTemplate> <http://fr.dbpedia.org/resource/Modèle:17e> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://fr.dbpedia.org/property/wikiPageUsesTemplate> <http://fr.dbpedia.org/resource/Modèle:18e> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://fr.dbpedia.org/property/wikiPageUsesTemplate> <http://fr.dbpedia.org/resource/Modèle:19e> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://fr.dbpedia.org/property/wikiPageUsesTemplate> <http://fr.dbpedia.org/resource/Modèle:1er> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://fr.dbpedia.org/property/wikiPageUsesTemplate> <http://fr.dbpedia.org/resource/Modèle:1re> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://fr.dbpedia.org/property/wikiPageUsesTemplate> <http://fr.dbpedia.org/resource/Modèle:20e> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://fr.dbpedia.org/property/wikiPageUsesTemplate> <http://fr.dbpedia.org/resource/Modèle:21e> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://fr.dbpedia.org/property/wikiPageUsesTemplate> <http://fr.dbpedia.org/resource/Modèle:22e> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://fr.dbpedia.org/property/wikiPageUsesTemplate> <http://fr.dbpedia.org/resource/Modèle:23e> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://fr.dbpedia.org/property/wikiPageUsesTemplate> <http://fr.dbpedia.org/resource/Modèle:2e> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://fr.dbpedia.org/property/wikiPageUsesTemplate> <http://fr.dbpedia.org/resource/Modèle:3e> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://fr.dbpedia.org/property/wikiPageUsesTemplate> <http://fr.dbpedia.org/resource/Modèle:4e> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://fr.dbpedia.org/property/wikiPageUsesTemplate> <http://fr.dbpedia.org/resource/Modèle:5e> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://fr.dbpedia.org/property/wikiPageUsesTemplate> <http://fr.dbpedia.org/resource/Modèle:6e> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://fr.dbpedia.org/property/wikiPageUsesTemplate> <http://fr.dbpedia.org/resource/Modèle:7e> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://fr.dbpedia.org/property/wikiPageUsesTemplate> <http://fr.dbpedia.org/resource/Modèle:8e> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://fr.dbpedia.org/property/wikiPageUsesTemplate> <http://fr.dbpedia.org/resource/Modèle:9e> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://fr.dbpedia.org/property/wikiPageUsesTemplate> <http://fr.dbpedia.org/resource/Modèle:Anecdotes> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://fr.dbpedia.org/property/wikiPageUsesTemplate> <http://fr.dbpedia.org/resource/Modèle:Autres_projets> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://fr.dbpedia.org/property/wikiPageUsesTemplate> <http://fr.dbpedia.org/resource/Modèle:Citation> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://fr.dbpedia.org/property/wikiPageUsesTemplate> <http://fr.dbpedia.org/resource/Modèle:Commentaire_biblio> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://fr.dbpedia.org/property/wikiPageUsesTemplate> <http://fr.dbpedia.org/resource/Modèle:Date> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://fr.dbpedia.org/property/wikiPageUsesTemplate> <http://fr.dbpedia.org/resource/Modèle:Début_de_colonnes> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://fr.dbpedia.org/property/wikiPageUsesTemplate> <http://fr.dbpedia.org/resource/Modèle:Début_dynastie> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://fr.dbpedia.org/property/wikiPageUsesTemplate> <http://fr.dbpedia.org/resource/Modèle:Fin_de_colonnes> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://fr.dbpedia.org/property/wikiPageUsesTemplate> <http://fr.dbpedia.org/resource/Modèle:Fin_dynastie> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://fr.dbpedia.org/property/wikiPageUsesTemplate> <http://fr.dbpedia.org/resource/Modèle:France> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://fr.dbpedia.org/property/wikiPageUsesTemplate> <http://fr.dbpedia.org/resource/Modèle:Imdb_titre> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://fr.dbpedia.org/property/wikiPageUsesTemplate> <http://fr.dbpedia.org/resource/Modèle:Infobox_Cinéma_(film)> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://fr.dbpedia.org/property/wikiPageUsesTemplate> <http://fr.dbpedia.org/resource/Modèle:Insérer_dynastie> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://fr.dbpedia.org/property/wikiPageUsesTemplate> <http://fr.dbpedia.org/resource/Modèle:Lang> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://fr.dbpedia.org/property/wikiPageUsesTemplate> <http://fr.dbpedia.org/resource/Modèle:Mme> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://fr.dbpedia.org/property/wikiPageUsesTemplate> <http://fr.dbpedia.org/resource/Modèle:Numéro> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://fr.dbpedia.org/property/wikiPageUsesTemplate> <http://fr.dbpedia.org/resource/Modèle:Ouvrage> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://fr.dbpedia.org/property/wikiPageUsesTemplate> <http://fr.dbpedia.org/resource/Modèle:Palette> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://fr.dbpedia.org/property/wikiPageUsesTemplate> <http://fr.dbpedia.org/resource/Modèle:Portail> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://fr.dbpedia.org/property/wikiPageUsesTemplate> <http://fr.dbpedia.org/resource/Modèle:Refnec> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://fr.dbpedia.org/property/wikiPageUsesTemplate> <http://fr.dbpedia.org/resource/Modèle:Royaume-Uni> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://fr.dbpedia.org/property/wikiPageUsesTemplate> <http://fr.dbpedia.org/resource/Modèle:Références> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://fr.dbpedia.org/property/wikiPageUsesTemplate> <http://fr.dbpedia.org/resource/Modèle:Titre_mis_en_forme> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://fr.dbpedia.org/property/wikiPageUsesTemplate> <http://fr.dbpedia.org/resource/Modèle:Unité> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://fr.dbpedia.org/property/wikiPageUsesTemplate> <http://fr.dbpedia.org/resource/Modèle:À_sourcer> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://www.w3.org/2000/01/rdf-schema#label> <La Grande Vadrouille@fr> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://www.w3.org/2000/01/rdf-schema#label> <Drei Bruchpiloten in Paris@de> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://www.w3.org/2000/01/rdf-schema#label> <La Gran Juerga@es> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://www.w3.org/2000/01/rdf-schema#label> <La Grande Vadrouille@en> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://www.w3.org/2000/01/rdf-schema#label> <La Grande Vadrouille@nl> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://www.w3.org/2000/01/rdf-schema#label> <La gran gresca@ca> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://www.w3.org/2000/01/rdf-schema#label> <La grande vadrouille@pt> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://www.w3.org/2000/01/rdf-schema#label> <Tre uomini in fuga@it> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://www.w3.org/2000/01/rdf-schema#label> <Velký flám@cs> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://www.w3.org/2000/01/rdf-schema#label> <Wielka włóczęga@pl> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://www.w3.org/2000/01/rdf-schema#label> <Şahane Oyun (film)@tr> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://www.w3.org/2000/01/rdf-schema#label> <Большая прогулка@ru> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://www.w3.org/2000/01/rdf-schema#label> <Голямата разходка@bg> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://www.w3.org/2000/01/rdf-schema#label> <大進撃@ja> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://www.w3.org/2000/01/rdf-schema#label> <파리 대탈출@ko> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageExternalLink> <http://www.musee-eia.com/> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageExternalLink> <http://www.erreursdefilms.com/comd/voir-toutes-les-erreurs-Grande-vadrouille,-La-GVAD.html> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageExternalLink> <http://www.l2tc.com/cherche.php?titre=Grande+vadrouille+%28La%29&exact=oui&annee=1966> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://fr.dbpedia.org/property/acteur> <http://fr.dbpedia.org/resource/Claudio_Brook> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://fr.dbpedia.org/property/acteur> <http://fr.dbpedia.org/resource/Mike_Marshall> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://fr.dbpedia.org/property/acteur> <http://fr.dbpedia.org/resource/Terry-Thomas> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://fr.dbpedia.org/property/acteur> <http://fr.dbpedia.org/resource/Bourvil> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://fr.dbpedia.org/property/acteur> <http://fr.dbpedia.org/resource/Louis_de_Funès> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://fr.dbpedia.org/property/acteur> <http://fr.dbpedia.org/resource/Marie_Dubois> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://fr.dbpedia.org/property/année> <1999^^http://www.w3.org/2001/XMLSchema#integer> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://fr.dbpedia.org/property/année> <2002^^http://www.w3.org/2001/XMLSchema#integer> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://fr.dbpedia.org/property/année> <2004^^http://www.w3.org/2001/XMLSchema#integer> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://fr.dbpedia.org/property/année> <2012^^http://www.w3.org/2001/XMLSchema#integer> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://fr.dbpedia.org/property/annéeDeSortie> <1966^^http://www.w3.org/2001/XMLSchema#integer> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://fr.dbpedia.org/property/après> <Les Grandes Vacances@fr> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://fr.dbpedia.org/property/avant> <Le Corniaud@fr> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://fr.dbpedia.org/property/collection> <Beaux livres@fr> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://fr.dbpedia.org/property/collection> <Ciné-télé@fr> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://fr.dbpedia.org/property/collection> <l'Avant-scène cinéma@fr> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://fr.dbpedia.org/property/genre> <http://fr.dbpedia.org/resource/Comédie> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://fr.dbpedia.org/property/genre> <http://fr.dbpedia.org/resource/Guerre> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://fr.dbpedia.org/property/genre> <http://fr.dbpedia.org/resource/Aventure> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://fr.dbpedia.org/property/isbn> <2^^http://www.w3.org/2001/XMLSchema#integer> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://fr.dbpedia.org/property/isbn> <978^^http://www.w3.org/2001/XMLSchema#integer> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://fr.dbpedia.org/property/lienAuteur> <Gérard Oury@fr> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://fr.dbpedia.org/property/lieu> <Paris@fr> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://fr.dbpedia.org/property/lieu> <Toulouse@fr> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://fr.dbpedia.org/property/mois> <10^^http://www.w3.org/2001/XMLSchema#integer> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://fr.dbpedia.org/property/nom> <Chapeau@fr> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://fr.dbpedia.org/property/nom> <La Grande Vadrouille@fr> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://fr.dbpedia.org/property/nom> <Lancry@fr> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://fr.dbpedia.org/property/nom> <Oury@fr> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://fr.dbpedia.org/property/numéroDansCollection> <515^^http://www.w3.org/2001/XMLSchema#integer> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://fr.dbpedia.org/property/pagesTotales> <92^^http://www.w3.org/2001/XMLSchema#integer> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://fr.dbpedia.org/property/pagesTotales> <105^^http://www.w3.org/2001/XMLSchema#integer> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://fr.dbpedia.org/property/pagesTotales> <134^^http://www.w3.org/2001/XMLSchema#integer> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://fr.dbpedia.org/property/pagesTotales> <330^^http://www.w3.org/2001/XMLSchema#integer> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://fr.dbpedia.org/property/production> <http://fr.dbpedia.org/resource/Les_Films_Corona> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://fr.dbpedia.org/property/production> <http://fr.dbpedia.org/resource/The_Rank_Organisation> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://fr.dbpedia.org/property/préface> <Danièle Thompson@fr> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://fr.dbpedia.org/property/prénom> <Gérard@fr> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://fr.dbpedia.org/property/prénom> <Vincent@fr> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://fr.dbpedia.org/property/prénom> <Pierre-Jean@fr> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://fr.dbpedia.org/property/période> <1966^^http://www.w3.org/2001/XMLSchema#integer> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://fr.dbpedia.org/property/réalisation> <http://fr.dbpedia.org/resource/Gérard_Oury> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://fr.dbpedia.org/property/scénario> <http://fr.dbpedia.org/resource/Gérard_Oury> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://fr.dbpedia.org/property/sousTitre> <l'album culte@fr> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://fr.dbpedia.org/property/sousTitre> <les coulisses du tournage@fr> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://fr.dbpedia.org/property/sousTitre> <un film de Gérard Oury@fr> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://fr.dbpedia.org/property/titre> <http://fr.dbpedia.org/resource/Liste_des_films_numéro_un_par_année_(France)> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://fr.dbpedia.org/property/titre> <La Grande Vadrouille@fr> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://fr.dbpedia.org/property/titre> <La Grande vadrouille@fr> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://fr.dbpedia.org/property/titre> <Mémoires d'éléphant@fr> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://fr.dbpedia.org/property/titre> <Sur la route de La grande vadrouille@fr> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://fr.dbpedia.org/property/éditeur> <Milan@fr> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://fr.dbpedia.org/property/éditeur> <Hors collection@fr> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://fr.dbpedia.org/property/éditeur> <Plon@fr> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://fr.dbpedia.org/property/éditeur> <l'Avant-scène cinéma@fr> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://www.w3.org/2000/01/rdf-schema#comment> <La Grande Vadrouille est un film français de Gérard Oury, sorti en 1966.@fr> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://www.w3.org/2000/01/rdf-schema#comment> <파리 대탈출(La Grande Vadrouille)은 Gérard Oury가 감독한 프랑스 영화이다. 1966년에 출시되었다.@ko> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://www.w3.org/2000/01/rdf-schema#comment> <Şahane Oyun 1966 Fransa yapımı bir savaş komedi filmidir. Özgün adı La Grande Vadrouille olan film İngilizce konuşulan ülkelerde Don't Look Now - We're Being Shot at adı ile gösterilmiştir. Film Mart 1970'te Türkiye'de sinemalarda gösterilmiştir.Senaryosunu Marcel Jullian ve Gérard Oury'nin birlikte yazdıkları filmi Gérard Oury yönetmiş, başlıca rollerinde Bourvil, Louis de Funès, Terry-Thomas, Claudio Brook ve Andréa Parisy oynamışlardır.@tr> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://www.w3.org/2000/01/rdf-schema#comment> <Velký flám (francouzsky La Grande Vadrouille) je francouzská filmová komedie z roku 1966.@cs> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://www.w3.org/2000/01/rdf-schema#comment> <Drei Bruchpiloten in Paris (Originaltitel: La Grande vadrouille), in Deutschland auch unter dem Titel Die große Sause bekannt, ist eine französische Filmkomödie, bei der Gérard Oury Regie führte und die 1966 in die Kinos kam. Der Film zählt mit 17 Millionen Besuchern zu den größten Erfolgen des französischen Kinos und wurde erst im Jahr 2008 durch Willkommen bei den Sch’tis vom Spitzenplatz in der Publikumsgunst verdrängt.@de> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://www.w3.org/2000/01/rdf-schema#comment> <大進撃（だいしんげき 原題:La Grande Vadrouille）は、1966年のフランスのコメディ映画。第二次世界大戦下のフランスが舞台。監督はジェラール・ウーリー。日本では1967年に公開。テリー＝トーマス、ブールヴィル、ルイ・ド・フュネス主演。@ja> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://www.w3.org/2000/01/rdf-schema#comment> <Tre uomini in fuga è un film del 1966 diretto dal regista Gérard Oury.@it> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://www.w3.org/2000/01/rdf-schema#comment> <Wielka włóczęga (fr. La Grande vadrouille) – komedia wojenna produkcji francuskiej z 1966 roku, w reżyserii Gérarda Oury.W filmie wystąpili m.in. Louis de Funès i Bourvil. Wielka włóczęga to jeden z największych sukcesów francuskiego kina, w samej Francji film zobaczyło 17 272 987 widzów. Była to rekordowa liczba publiczności we Francji, aż do wyświetlania Titanica w 1998.@pl> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://www.w3.org/2000/01/rdf-schema#comment> <La gran gresca (títol original en francès: La Grande Vadrouille) és una pel·lícula franco-britànica de 1966 dirigida per Gérard Oury. La comèdia, que compta amb l'aparició del duo Bourvil i Louis de Funès com a estrelles principals, va ser durant més de 40 anys la pel·lícula francesa més exitosa, amb més de 17 milions d'espectadors al seu haver. El rècord va perdurar fins al 2008, superada per una altra comèdia, Benvinguts al nord, de Dany Boon.@ca> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://www.w3.org/2000/01/rdf-schema#comment> <La grande vadrouille (Don't Look Now, We've Been Shot at, nos Estados Unidos e Reino Unido; A Grande Escapada, no Brasil; A Grande Paródia, em Portugal) é um filme franco-britânico de 1966, gênero comédia, dirigido por Gérard Oury.A história se passa na 2ª Guerra Mundial e conta a história de três pilotos ingleses que, após bombardear a Alemanha, são atingidos quando sobrevoavam a França e obrigados a saltar em território ocupado por alemães.@pt> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://www.w3.org/2000/01/rdf-schema#comment> <\"Голямата разходка\" (на френски: La Grande Vadrouille) е френско-английска кинокомедия от 1966 г. на френският кинорежисьор Жерар Ури. Сценарият е на Марсел Жюлиен и Жерар Ури. Главната роля на Огюстен Буве се изпълнява от френския киноартист Бурвил. В ролята на Станислас Льофор участва френския киноактьор Луи дьо Фюнес.Действието на филма се развива по време на Втората световна война на територията на окупирана Франция през лятото на 1942 г.@bg> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://www.w3.org/2000/01/rdf-schema#comment> <La Grande Vadrouille is een Franse film uit 1966, geregisseerd door Gérard Oury. De film trok in Frankrijk alleen al meer dan 17 miljoen bezoekers naar de bioscoop, gedurende lange tijd een ongeëvenaard record. Momenteel is het de vijfde meest bezochte film in Frankrijk, na onder andereTitanic (21.774.181 bezoekers) en Bienvenue chez les Ch'tis (20.488.977 bezoekers). Ook in andere landen werd deze film een enorm succes.@nl> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://www.w3.org/2000/01/rdf-schema#comment> <La Gran Juerga (La grande vadrouille) es una película franco-británica de 1966, dirigida por Gérard Oury.La historia trancurre durante la 2ª Guerra Mundial y cuenta la historia de tres pilotos ingleses que, después de bombardear Alemania, son alcanzados mientras sobrevuelan Francia y se ven obligados a lanzarse en paracaídas sobre territorio ocupado por los alemanes.@es> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://www.w3.org/2000/01/rdf-schema#comment> <La Grande Vadrouille (French pronunciation: ​[la ɡʁɑ̃d vaˈdʁuj]; literally \"The Great Stroll\"; originally released in the United States as Don't Look Now... We're Being Shot At!) is a 1966 French comedy film about two ordinary Frenchmen helping the crew of a Royal Air Force bomber shot down over Paris make their way through German-occupied France to escape arrest.@en> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://www.w3.org/2000/01/rdf-schema#comment> <«Большая прогулка» (фр. La Grande Vadrouille) — кинокомедия 1966 года, рассказывающая о французах, помогающих экипажу британского бомбардировщика, сбитого над оккупированным Парижем, скрыться от нацистов. Второй фильм режиссёра Жерара Ури (после «Разини»), в котором он свёл вместе двух знаменитых комиков — Бурвиля и Луи де Фюнеса.@ru> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/director> <http://fr.dbpedia.org/resource/Gérard_Oury> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/genre> <http://fr.dbpedia.org/resource/Comédie> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/genre> <http://fr.dbpedia.org/resource/Guerre> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/genre> <http://fr.dbpedia.org/resource/Aventure> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/occupation> <http://fr.dbpedia.org/resource/La_Grande_Vadrouille__1> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/producedBy> <http://fr.dbpedia.org/resource/Les_Films_Corona> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/producedBy> <http://fr.dbpedia.org/resource/The_Rank_Organisation> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/starring> <http://fr.dbpedia.org/resource/Claudio_Brook> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/starring> <http://fr.dbpedia.org/resource/Mike_Marshall> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/starring> <http://fr.dbpedia.org/resource/Terry-Thomas> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/starring> <http://fr.dbpedia.org/resource/Bourvil> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/starring> <http://fr.dbpedia.org/resource/Louis_de_Funès> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/starring> <http://fr.dbpedia.org/resource/Marie_Dubois> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/writer> <http://fr.dbpedia.org/resource/Gérard_Oury> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://xmlns.com/foaf/0.1/name> <La Grande Vadrouille@fr> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageRevisionID> <111073256^^http://www.w3.org/2001/XMLSchema#integer> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/abstract> <La Grande Vadrouille est un film français de Gérard Oury, sorti en 1966. Le film raconte sur le ton de la comédie les déboires de deux français et d'un petit groupe d'aviateurs britanniques face aux Allemands sous l'Occupation.Avec plus de 17 millions de spectateurs lors de son exploitation en salles, le film le plus célèbre du duo Bourvil-de Funès a été pendant plus de trente ans le plus grand succès cinématographique sur le territoire français, toutes nationalités confondues (avant d'être dépassé par Titanic en 1998), et pendant plus de quarante ans le plus grand succès d'un film français sur le territoire français, avant d'être dépassé par Bienvenue chez les Ch'tis de Dany Boon en avril 2008.Il est à ce jour cinquième au palmarès des films les plus vus de l'histoire en France au cinéma, précédé par Titanic, Bienvenue chez les Ch'tis, Intouchables et Blanche-Neige et les Sept Nains.@fr> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/abstract> <파리 대탈출(La Grande Vadrouille)은 Gérard Oury가 감독한 프랑스 영화이다. 1966년에 출시되었다.@ko> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/abstract> <Şahane Oyun 1966 Fransa yapımı bir savaş komedi filmidir. Özgün adı La Grande Vadrouille olan film İngilizce konuşulan ülkelerde Don't Look Now - We're Being Shot at adı ile gösterilmiştir. Film Mart 1970'te Türkiye'de sinemalarda gösterilmiştir.Senaryosunu Marcel Jullian ve Gérard Oury'nin birlikte yazdıkları filmi Gérard Oury yönetmiş, başlıca rollerinde Bourvil, Louis de Funès, Terry-Thomas, Claudio Brook ve Andréa Parisy oynamışlardır.@tr> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/abstract> <\"Голямата разходка\" (на френски: La Grande Vadrouille) е френско-английска кинокомедия от 1966 г. на френският кинорежисьор Жерар Ури. Сценарият е на Марсел Жюлиен и Жерар Ури. Главната роля на Огюстен Буве се изпълнява от френския киноартист Бурвил. В ролята на Станислас Льофор участва френския киноактьор Луи дьо Фюнес.Действието на филма се развива по време на Втората световна война на територията на окупирана Франция през лятото на 1942 г. Бояджията Огюстен Буве и диригентът в Парижката опера Станислас Льофор помагат на свалени над Париж английски летци. Тримата британски летци оцеляват, но са заобиколени от врагове. Налага се летците да заработят в екип с Огюстен и Станислас...@bg> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/abstract> <Velký flám (francouzsky La Grande Vadrouille) je francouzská filmová komedie z roku 1966.@cs> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/abstract> <Wielka włóczęga (fr. La Grande vadrouille) – komedia wojenna produkcji francuskiej z 1966 roku, w reżyserii Gérarda Oury.W filmie wystąpili m.in. Louis de Funès i Bourvil. Wielka włóczęga to jeden z największych sukcesów francuskiego kina, w samej Francji film zobaczyło 17 272 987 widzów. Była to rekordowa liczba publiczności we Francji, aż do wyświetlania Titanica w 1998. Obraz jest trzecim filmem francuskim w historii pod względem liczby widzów po Jeszcze dalej niż Północ z 2008 oraz Intouchables z 2011.@pl> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/abstract> <La Gran Juerga (La grande vadrouille) es una película franco-británica de 1966, dirigida por Gérard Oury.La historia trancurre durante la 2ª Guerra Mundial y cuenta la historia de tres pilotos ingleses que, después de bombardear Alemania, son alcanzados mientras sobrevuelan Francia y se ven obligados a lanzarse en paracaídas sobre territorio ocupado por los alemanes. Allí reciben ayuda inicialmente de un pintor y de un director de orquesta para intentar llegar a la zona de Francia libre.Se trata de uno de los mayores éxitos del cine francés en Francia.@es> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/abstract> <Drei Bruchpiloten in Paris (Originaltitel: La Grande vadrouille), in Deutschland auch unter dem Titel Die große Sause bekannt, ist eine französische Filmkomödie, bei der Gérard Oury Regie führte und die 1966 in die Kinos kam. Der Film zählt mit 17 Millionen Besuchern zu den größten Erfolgen des französischen Kinos und wurde erst im Jahr 2008 durch Willkommen bei den Sch’tis vom Spitzenplatz in der Publikumsgunst verdrängt.@de> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/abstract> <«Большая прогулка» (фр. La Grande Vadrouille) — кинокомедия 1966 года, рассказывающая о французах, помогающих экипажу британского бомбардировщика, сбитого над оккупированным Парижем, скрыться от нацистов. Второй фильм режиссёра Жерара Ури (после «Разини»), в котором он свёл вместе двух знаменитых комиков — Бурвиля и Луи де Фюнеса. В данном комическом дуэте режиссёр вновь попытался противопоставить персонажей с разными темпераментами (флегматика и холерика), принадлежащих разным социальным слоям общества.Фильм считался самым успешным во Франции со времени премьеры и до 1997 года, когда на экраны вышел «Титаник». Также 42 года фильм «Большая прогулка» был лидером французского кинопроката среди французских лент — его посмотрело более 17 миллионов зрителей, этот рекорд был побит лишь в 2008 году комедией «Бобро поржаловать».В советском прокате фильм шёл в 1968 году в дубляже киностудии «Союзмультфильм» (режиссёр дубляжа — Георгий Калитиевский, перевод — Евгений Гальперин).@ru> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/abstract> <La grande vadrouille (Don't Look Now, We've Been Shot at, nos Estados Unidos e Reino Unido; A Grande Escapada, no Brasil; A Grande Paródia, em Portugal) é um filme franco-britânico de 1966, gênero comédia, dirigido por Gérard Oury.A história se passa na 2ª Guerra Mundial e conta a história de três pilotos ingleses que, após bombardear a Alemanha, são atingidos quando sobrevoavam a França e obrigados a saltar em território ocupado por alemães. No solo, recebem ajuda de um pintor e de um maestro muito irritadiço para tentar chegar à França não ocupada e escapar dos alemães.@pt> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/abstract> <大進撃（だいしんげき 原題:La Grande Vadrouille）は、1966年のフランスのコメディ映画。第二次世界大戦下のフランスが舞台。監督はジェラール・ウーリー。日本では1967年に公開。テリー＝トーマス、ブールヴィル、ルイ・ド・フュネス主演。@ja> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/abstract> <La Grande Vadrouille is een Franse film uit 1966, geregisseerd door Gérard Oury. De film trok in Frankrijk alleen al meer dan 17 miljoen bezoekers naar de bioscoop, gedurende lange tijd een ongeëvenaard record. Momenteel is het de vijfde meest bezochte film in Frankrijk, na onder andereTitanic (21.774.181 bezoekers) en Bienvenue chez les Ch'tis (20.488.977 bezoekers). Ook in andere landen werd deze film een enorm succes. Hij werd zeer geliefd in China.Sjabloon:Bron?De acteerprestaties van het duo Louis de Funès en Bourvil in deze film worden door veel kenners geprezen.La Grande Vadrouille was het eerste grote voorbeeld van de komische oorlogsfilm, waarin tegenstanders van de Duitse bezetter op allerlei gekke manieren proberen te ontkomen, in het bijzonder door zelf Duitse uniformen aan te trekken. Een hilarisch hoogtepunt van de film is de scène waarin dirigent Lefort (Louis de Funès) per vergissing in hetzelfde bed belandt als de Duitse officier die naar hem op zoek is. Twintig jaar na de Tweede Wereldoorlog leek de tijd rijp voor een meer luchtig soort oorlogsfilms.@nl> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/abstract> <Tre uomini in fuga è un film del 1966 diretto dal regista Gérard Oury.@it> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/abstract> <La Grande Vadrouille (French pronunciation: ​[la ɡʁɑ̃d vaˈdʁuj]; literally \"The Great Stroll\"; originally released in the United States as Don't Look Now... We're Being Shot At!) is a 1966 French comedy film about two ordinary Frenchmen helping the crew of a Royal Air Force bomber shot down over Paris make their way through German-occupied France to escape arrest. For over forty years, until the release of Bienvenue chez les Ch'tis in 2008, La Grande Vadrouille was the most successful French film in France, topping the box office with over 17,200,000 cinema admissions. It remains the third most successful film ever in France, of any nationality, behind the 1997 version of Titanic and Bienvenue chez les Ch'tis, both of which were seen by over 20,000,000 cinemagoers.@en> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/abstract> <La gran gresca (títol original en francès: La Grande Vadrouille) és una pel·lícula franco-britànica de 1966 dirigida per Gérard Oury. La comèdia, que compta amb l'aparició del duo Bourvil i Louis de Funès com a estrelles principals, va ser durant més de 40 anys la pel·lícula francesa més exitosa, amb més de 17 milions d'espectadors al seu haver. El rècord va perdurar fins al 2008, superada per una altra comèdia, Benvinguts al nord, de Dany Boon. Tenint en compte també les produccions estrangeres projectades a França, La Grande Vadrouille es va mantenir com la pel·lícula més taquillera de França durant més de 30 anys, fins a ser superada per Titanic el 1998. Tenint en compte la població francesa de l'època en la qual La Grande Vadrouille va ser estrenada, proporcionalment, la pel·lícula manté encara el lideratge sobre les altres pel·lícules franceses. Un 34% de la població francesa va veure La Grande Vadrouille, mentre que només un 31% va veure Benvinguts al nord.La pel·lícula de Gérard Oury manté encara la segona posició en el palmarès de les pel·lícules més vistes de la història del cinema de França, superada només per Titanic i seguida per Allò que el vent s'endugué.@ca> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://fr.wikipedia.org/wiki/La_Grande_Vadrouille?oldid=111073256> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageOutDegree> <323^^http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageID> <76993^^http://www.w3.org/2001/XMLSchema#integer> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Claudio_Brook> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Gérard_Streiff> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Rudy_Lenoir> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Hospitalières_de_Sainte-Marthe_de_Beaune> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Pierre_Bastien_(musicien)> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Pierre_Bertin> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Carita> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Dijon> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Avenue_Matignon> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Gare_de_Santeny_-_Servon> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Liste_de_films_tournés_dans_l'Yonne> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Château_de_Faulin> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Intouchables_(film)> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Festival_du_film_de_Taormine> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Box-office_français> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Claude_Salez> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Conrad_Von_Bork> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Jean_Fouchet> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/10e_arrondissement_de_Paris> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/12e_arrondissement_de_Paris> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/16e_arrondissement_de_Paris> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/18e_arrondissement_de_Paris> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/1er_arrondissement_de_Paris> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/8e_arrondissement_de_Paris> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/9e_arrondissement_de_Paris> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Catégorie:Film_réalisé_par_Gérard_Oury> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Catégorie:Film_tourné_dans_l'Aveyron> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Catégorie:Film_tourné_dans_le_Cantal> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Catégorie:Film_tourné_dans_le_département_de_la_Seine> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Catégorie:Film_tourné_en_Seine-et-Oise> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Catégorie:Peintre_en_bâtiment_dans_la_fiction> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Faust> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Genre_cinématographique> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Gérard_Oury> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Marcel_Jullian> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Mende_(Lozère)> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Michèle_Morgan> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Mike_Marshall> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Ministère_de_la_Culture_(France)> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Paul_Préboist> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Saint-Cloud> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Titanic_(film,_1997)> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Vézelay> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Zoo_de_Vincennes> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Cinéma_français> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Comédie> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Gare_de_Paris-Est> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/James_Cameron> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Zone_libre> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Albert_(Somme)> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Blanche-Neige_et_les_Sept_Nains> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Dany_Boon> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Pierre-Perthuis> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Anthien> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Ligne_de_démarcation> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Orchestre_de_Paris> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Pouques-Lormes> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Rémy_Julienne> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Terry-Thomas> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Asquins> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Clément_Michu> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Duo_comique> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Les_Hussards_(film)> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Musée_de_la_Contrefaçon> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Paris> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Poisson_d'avril_(film,_1954)> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Édouard_Pignon> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Gérard_Martin_(acteur)> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Studios_de_Boulogne> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Alice_Field> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Antoine_Bonfanti> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/5e_arrondissement_de_Paris> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Jeanne_de_Paris> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Claude_Renoir_(directeur_de_la_photographie)> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Liste_de_films_tournés_dans_la_Nièvre> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Liste_de_films_tournés_en_Haute-Savoie> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Liste_de_films_tournés_à_Boulogne-Billancourt> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Liste_de_films_tournés_à_Paris> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Lionel_Vitrant> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Paris_sous_l'Occupation_allemande> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Les_Films_Corona> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/André_Malraux> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Avenue_des_Champs-Élysées> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Boeing_B-17_Flying_Fortress> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Boulogne-Billancourt> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Bourgogne> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Bourvil> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Catégorie:Buddy_movie> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Catégorie:Comédie_française> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Catégorie:Film_français_sorti_en_1966> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Catégorie:Film_produit_par_Robert_Dorfmann> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Catégorie:Film_se_déroulant_dans_les_années_1940> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Catégorie:Film_se_déroulant_en_Bourgogne> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Catégorie:Film_se_déroulant_à_Paris> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Catégorie:Film_sur_l'Occupation_allemande_en_France> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Catégorie:Film_tourné_dans_l'Yonne> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Catégorie:Film_tourné_dans_la_Côte-d'Or> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Catégorie:Film_tourné_dans_la_Lozère> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Catégorie:Film_tourné_dans_le_10e_arrondissement_de_Paris> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Catégorie:Film_tourné_dans_le_12e_arrondissement_de_Paris> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Catégorie:Film_tourné_dans_le_16e_arrondissement_de_Paris> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Catégorie:Film_tourné_dans_le_18e_arrondissement_de_Paris> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Catégorie:Film_tourné_dans_le_1er_arrondissement_de_Paris> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Catégorie:Film_tourné_dans_le_5e_arrondissement_de_Paris> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Catégorie:Film_tourné_dans_le_8e_arrondissement_de_Paris> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Catégorie:Film_tourné_dans_le_9e_arrondissement_de_Paris> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Catégorie:Motocyclette_au_cinéma> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Catégorie:Road_movie> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Charles_Péguy> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Essonne_(département)> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Georges_Auric> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Guerre> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Guignol> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Hector_Berlioz> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Institut_national_de_l'information_géographique_et_forestière> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Jean-Paul_Belmondo> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/La_Traversée_de_Paris> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Louis_de_Funès> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Marie_Dubois> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Mary_Marquet> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Opéra_Garnier> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Planeur> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Seconde_Guerre_mondiale> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Seine-et-Oise> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Somme_(département)> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Troyes> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Yvelines> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Yves_Montand> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Beaune> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Flak> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Le_Cerveau> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Le_Corniaud> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Opéra_de_Paris> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Route_nationale_6_(France_métropolitaine)> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Saint-Flour_(Cantal)> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Santeny> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Alleuze> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Barrage_de_Grandval> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Colette_Brosset> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Essert-Romand> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Peyreleau> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Taninges> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Truyère> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Kommandantur> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Aérodrome_de_Mende_-_Brenoux> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Rond-point_des_Champs-Élysées-Marcel-Dassault> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Box-office_France_1966> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Rue_Bertin-Poirée> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/The_Rank_Organisation> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Anne_Berger> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Avenue_Gabriel> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Claude_Clément> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Seconde_équipe> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/André_Tabet> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Christian_Brocard> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Hans_Meyer_(acteur)> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Helmuth_Schneider> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Jacques_Sablon> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Noël_Darzal> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Sieghardt_Rupp> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Liste_de_films_tournés_dans_l'Aveyron> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Liste_de_films_tournés_dans_le_Cantal> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Golden_Screen> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Noyers-sur-Serein> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Occupation_allemande_en_France> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Vie_en_France_sous_l'Occupation_allemande> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Taormina> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Montpellier-le-Vieux> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Butte_Montmartre> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/S:La_Tapisserie_de_Notre-Dame> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/1966_au_cinéma> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Albert_Jurgenson> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Avro_Lancaster> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Danièle_Thompson> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Grande_Mosquée_de_Paris> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Hammam> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Henri_Génès> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Hospices_de_Beaune> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/La_Rochepot> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Meursault> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Péripétie> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Rue_de_la_Faisanderie> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Égouts_de_Paris> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Aventure> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Les_Grandes_Vacances_(film)> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Ligne_de_Paris-Lyon_à_Marseille-Saint-Charles> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Michel_Modo> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Plaque_d'égout> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Guy_Grosso> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Lichères-sur-Yonne> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Jacques_Bodoin> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Méphistophélès> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Gabriel_Gobin> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Lozère_(département)> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Allemagne> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Bienvenue_chez_les_Ch'tis> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Gare_de_Vougeot_-_Gilly-lès-Cîteaux> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Château_fort_de_Meursault> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Henry_Deutschmeister> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/No,_No,_Nanette_(comédie_musicale)> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Tea_for_Two_(chanson)> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Les_Chaumots> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Mag_Avril> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Andréa_Parisy> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Château_d'Alleuze> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Claude_Carliez> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Gil_Delamare> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Palais_des_ducs_de_Bourgogne> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Paul_Mercey> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Val-d'Oise> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Benno_Sterzenbach> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Chaos_de_Montpellier-le-Vieux> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Georges_Atlas> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Georges_Tabet> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Jean_Droze> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Jean_Minisini> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/La_Damnation_de_Faust> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Memphis_Belle_(film)> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Robert_Dorfmann> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Réunion_des_théâtres_lyriques_nationaux> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Place_du_Puits-de-l'Ermite> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/La_Folie_des_grandeurs> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Raymond_Pierson> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Jean_André_(décorateur)> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Cinéma_comique_français> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Jacques_Météhen> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Château_de_la_Rochepot> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Liste_des_films_numéro_un_par_année_(France)> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Prix_David_di_Donatello> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Gare_de_Lyon> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Planeurs> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Avenue_Franklin-Delano-Roosevelt> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Monophonie> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/35_mm> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Gare_de_la_Bastille> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Liste_de_films_tournés_en_Côte-d'Or> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Liste_de_films_tournés_en_Lozère> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Terry_Thomas> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Causse_de_Mende> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Parc_zoologique_de_Vincennes> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/S:Présentation_de_la_Beauce_à_Notre-Dame_de_Chartres> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Janine_Oudoul> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Jean-Pierre_Posier> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Gabriel_Béchir> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Tony_Roedel> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Robert_Christidès> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Jerry_Brouer> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Peter_Jacob> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Bernard_Mermod> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Catherine_Prou-Marshall> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Charly_Constant> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Claude_Rouillard> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Fichier:WIKITIMBRES.FR_POSTE-1941-31.png> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Fred_Fischer> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Gary_Ramm> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/George_Birt> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Georges_Dehneli> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Georges_Ruseckis> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Guy_Bonnafoux> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Guy_Fox> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Horst_Miessner> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Jean-François_Masson> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Jean_Landret> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Joachim_Weshoff> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Laurence_Leininger> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Léon_Zay> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Nicolas_Bang> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Odette_et_Pierre_Berroyer> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Percival_Russel> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Pierre_Roussel_(acteur)> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Raoul_Gola> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Raymond_Streiff> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/René_Mary> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Robert_André> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Robert_Benedetti> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Rolf_Spat> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Sacha_Tarride> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Tanine_Autré> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Théo_Meurisse> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://dbpedia.org/ontology/wikiPageLength> <30124^^http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://fr.wikipedia.org/wiki/La_Grande_Vadrouille> .
+<http://fr.dbpedia.org/resource/La_Grande_Vadrouille> <http://purl.org/dc/elements/1.1/title> <La Grande Vadrouille> .

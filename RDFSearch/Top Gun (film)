@@ -1,0 +1,250 @@
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Movie> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Film> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Wikidata:Q11424> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Work> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q386724> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://www.w3.org/2002/07/owl#sameAs> <http://rdf.freebase.com/ns/m.018js4> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Top_Gun> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://www.w3.org/2002/07/owl#sameAs> <http://ar.dbpedia.org/resource/توب_غان_(فيلم)> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://www.w3.org/2002/07/owl#sameAs> <http://bn.dbpedia.org/resource/টপ_গান> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://www.w3.org/2002/07/owl#sameAs> <http://ca.dbpedia.org/resource/Top_Gun> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://www.w3.org/2002/07/owl#sameAs> <http://cs.dbpedia.org/resource/Top_Gun> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://www.w3.org/2002/07/owl#sameAs> <http://cy.dbpedia.org/resource/Top_Gun_(ffilm)> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://www.w3.org/2002/07/owl#sameAs> <http://de.dbpedia.org/resource/Top_Gun_–_Sie_fürchten_weder_Tod_noch_Teufel> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://www.w3.org/2002/07/owl#sameAs> <http://el.dbpedia.org/resource/Τοπ_Γκαν> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://www.w3.org/2002/07/owl#sameAs> <http://es.dbpedia.org/resource/Top_Gun_(película)> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://www.w3.org/2002/07/owl#sameAs> <http://et.dbpedia.org/resource/Tippkutt> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://www.w3.org/2002/07/owl#sameAs> <http://eu.dbpedia.org/resource/Top_Gun> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://www.w3.org/2002/07/owl#sameAs> <http://hr.dbpedia.org/resource/Top_Gun> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://www.w3.org/2002/07/owl#sameAs> <http://hu.dbpedia.org/resource/Top_Gun> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://www.w3.org/2002/07/owl#sameAs> <http://id.dbpedia.org/resource/Top_Gun_(film)> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://www.w3.org/2002/07/owl#sameAs> <http://it.dbpedia.org/resource/Top_Gun> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://www.w3.org/2002/07/owl#sameAs> <http://ja.dbpedia.org/resource/トップガン_(映画)> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://www.w3.org/2002/07/owl#sameAs> <http://ko.dbpedia.org/resource/탑_건> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://www.w3.org/2002/07/owl#sameAs> <http://nl.dbpedia.org/resource/Top_Gun> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://www.w3.org/2002/07/owl#sameAs> <http://pl.dbpedia.org/resource/Top_Gun_(film)> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://www.w3.org/2002/07/owl#sameAs> <http://pt.dbpedia.org/resource/Top_Gun_(1986)> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://www.w3.org/2002/07/owl#sameAs> <http://ro.dbpedia.org/resource/Top_Gun_(film)> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://www.w3.org/2002/07/owl#sameAs> <http://ru.dbpedia.org/resource/Лучший_стрелок> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://www.w3.org/2002/07/owl#sameAs> <http://sr.dbpedia.org/resource/Топ_ган> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://www.w3.org/2002/07/owl#sameAs> <http://sv.dbpedia.org/resource/Top_Gun> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://www.w3.org/2002/07/owl#sameAs> <http://tr.dbpedia.org/resource/Top_Gun_(film,_1986)> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://www.w3.org/2002/07/owl#sameAs> <http://uk.dbpedia.org/resource/Найкращий_стрілець> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://www.w3.org/2002/07/owl#sameAs> <http://zh.dbpedia.org/resource/捍衛戰士> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://purl.org/dc/terms/subject> <http://fr.dbpedia.org/resource/Catégorie:Forces_armées_des_États-Unis_dans_le_cinéma> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://purl.org/dc/terms/subject> <http://fr.dbpedia.org/resource/Catégorie:Aviation_au_cinéma> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://purl.org/dc/terms/subject> <http://fr.dbpedia.org/resource/Catégorie:Film_réalisé_par_Tony_Scott> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://purl.org/dc/terms/subject> <http://fr.dbpedia.org/resource/Catégorie:Film_se_déroulant_à_San_Diego> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://purl.org/dc/terms/subject> <http://fr.dbpedia.org/resource/Catégorie:Film_américain_sorti_en_1986> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://purl.org/dc/terms/subject> <http://fr.dbpedia.org/resource/Catégorie:Film_avec_un_Oscar_de_la_meilleure_chanson_originale> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://purl.org/dc/terms/subject> <http://fr.dbpedia.org/resource/Catégorie:Film_d'action_américain> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://purl.org/dc/terms/subject> <http://fr.dbpedia.org/resource/Catégorie:Film_de_Paramount_Pictures> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://purl.org/dc/terms/subject> <http://fr.dbpedia.org/resource/Catégorie:Film_tourné_en_Californie> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://purl.org/dc/terms/subject> <http://fr.dbpedia.org/resource/Catégorie:Film_tourné_à_San_Diego> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://purl.org/dc/terms/subject> <http://fr.dbpedia.org/resource/Catégorie:Adaptation_d'un_article_de_presse_au_cinéma> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://fr.dbpedia.org/property/wikiPageUsesTemplate> <http://fr.dbpedia.org/resource/Modèle:...> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://fr.dbpedia.org/property/wikiPageUsesTemplate> <http://fr.dbpedia.org/resource/Modèle:Allociné_titre> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://fr.dbpedia.org/property/wikiPageUsesTemplate> <http://fr.dbpedia.org/resource/Modèle:Date> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://fr.dbpedia.org/property/wikiPageUsesTemplate> <http://fr.dbpedia.org/resource/Modèle:Drapeau> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://fr.dbpedia.org/property/wikiPageUsesTemplate> <http://fr.dbpedia.org/resource/Modèle:En> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://fr.dbpedia.org/property/wikiPageUsesTemplate> <http://fr.dbpedia.org/resource/Modèle:France> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://fr.dbpedia.org/property/wikiPageUsesTemplate> <http://fr.dbpedia.org/resource/Modèle:Imdb_titre> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://fr.dbpedia.org/property/wikiPageUsesTemplate> <http://fr.dbpedia.org/resource/Modèle:Infobox_Cinéma_(film)> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://fr.dbpedia.org/property/wikiPageUsesTemplate> <http://fr.dbpedia.org/resource/Modèle:Palette> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://fr.dbpedia.org/property/wikiPageUsesTemplate> <http://fr.dbpedia.org/resource/Modèle:Portail> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://fr.dbpedia.org/property/wikiPageUsesTemplate> <http://fr.dbpedia.org/resource/Modèle:Références> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://fr.dbpedia.org/property/wikiPageUsesTemplate> <http://fr.dbpedia.org/resource/Modèle:Titre_en_italique> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://fr.dbpedia.org/property/wikiPageUsesTemplate> <http://fr.dbpedia.org/resource/Modèle:USA> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://fr.dbpedia.org/property/wikiPageUsesTemplate> <http://fr.dbpedia.org/resource/Modèle:USS> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://fr.dbpedia.org/property/wikiPageUsesTemplate> <http://fr.dbpedia.org/resource/Modèle:Unité> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://fr.dbpedia.org/property/wikiPageUsesTemplate> <http://fr.dbpedia.org/resource/Modèle:Voir_homonymie> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://www.w3.org/2000/01/rdf-schema#label> <Top Gun (film)@fr> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://www.w3.org/2000/01/rdf-schema#label> <Top Gun@en> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://www.w3.org/2000/01/rdf-schema#label> <Top Gun@ca> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://www.w3.org/2000/01/rdf-schema#label> <Top Gun@cs> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://www.w3.org/2000/01/rdf-schema#label> <Top Gun@hu> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://www.w3.org/2000/01/rdf-schema#label> <Top Gun@it> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://www.w3.org/2000/01/rdf-schema#label> <Top Gun@nl> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://www.w3.org/2000/01/rdf-schema#label> <Top Gun (1986)@pt> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://www.w3.org/2000/01/rdf-schema#label> <Top Gun (film)@id> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://www.w3.org/2000/01/rdf-schema#label> <Top Gun (film)@pl> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://www.w3.org/2000/01/rdf-schema#label> <Top Gun (film, 1986)@tr> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://www.w3.org/2000/01/rdf-schema#label> <Top Gun (película)@es> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://www.w3.org/2000/01/rdf-schema#label> <Top Gun – Sie fürchten weder Tod noch Teufel@de> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://www.w3.org/2000/01/rdf-schema#label> <Лучший стрелок@ru> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://www.w3.org/2000/01/rdf-schema#label> <トップガン (映画)@ja> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://www.w3.org/2000/01/rdf-schema#label> <탑 건@ko> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://fr.dbpedia.org/property/acteur> <http://fr.dbpedia.org/resource/Tom_Cruise> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://fr.dbpedia.org/property/acteur> <http://fr.dbpedia.org/resource/Tom_Skerritt> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://fr.dbpedia.org/property/acteur> <http://fr.dbpedia.org/resource/Kelly_McGillis> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://fr.dbpedia.org/property/acteur> <http://fr.dbpedia.org/resource/Val_Kilmer> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://fr.dbpedia.org/property/acteur> <http://fr.dbpedia.org/resource/Anthony_Edwards> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://fr.dbpedia.org/property/annéeDeSortie> <1986^^http://www.w3.org/2001/XMLSchema#integer> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://fr.dbpedia.org/property/durée> <6600.0^^http://dbpedia.org/datatype/second> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://fr.dbpedia.org/property/genre> <http://fr.dbpedia.org/resource/Film_d'action> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://fr.dbpedia.org/property/id> <2133^^http://www.w3.org/2001/XMLSchema#integer> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://fr.dbpedia.org/property/id> <92099^^http://www.w3.org/2001/XMLSchema#integer> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://fr.dbpedia.org/property/légende> <Un Grumman F-14 Tomcat, l'avion principal du film.@fr> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://fr.dbpedia.org/property/production> <http://fr.dbpedia.org/resource/Paramount_Pictures> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://fr.dbpedia.org/property/réalisation> <http://fr.dbpedia.org/resource/Tony_Scott> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://fr.dbpedia.org/property/scénario> <Jim Cash@fr> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://fr.dbpedia.org/property/scénario> <Jack Epps Jr.@fr> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://fr.dbpedia.org/property/titre> <Top Gun@fr> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://fr.dbpedia.org/property/titreOriginal> <Top Gun@fr> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://dbpedia.org/ontology/thumbnail> <http://commons.wikimedia.org/wiki/Special:FilePath/F-14A_Tomcat_VF-143_breaking_sound_barrier.jpg?width=300> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://xmlns.com/foaf/0.1/depiction> <http://commons.wikimedia.org/wiki/Special:FilePath/F-14A_Tomcat_VF-143_breaking_sound_barrier.jpg> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://www.w3.org/2000/01/rdf-schema#comment> <Top Gun est un film américain réalisé par Tony Scott en 1986. Il est aujourd'hui considéré comme un film culte et a notamment lancé Tom Cruise au rang de star de cinéma.@fr> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://www.w3.org/2000/01/rdf-schema#comment> <Top Gun is een Amerikaanse actiefilm uit 1986 met Tom Cruise, Anthony Edwards, Kelly McGillis, Val Kilmer en een klein rolletje van Meg Ryan. De film is geregisseerd door Tony Scott.Het idee voor de film kwam uit California Magazine waarin een artikel stond met de naam Top Guns. Producent Don Simpson las het artikel, het inspireerde hem en Jerry Bruckheimer om Top Gun te maken. Jim Cash en Jack Epps Jr. werden aangetrokken om het scenario te schrijven.@nl> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://www.w3.org/2000/01/rdf-schema#comment> <A Top Gun egy 1986-ban készült amerikai akciófilm, amelyet Tony Scott rendezett. A forgatókönyvet Ehud Yonay a kaliforniai Magazinban megjelent 'Top Gun' című cikke ihlette. A film a nyolcvanas évek egyik meghatározó filmje, filmzenéje a Berlin - Take My Breath Away. A filmből videojáték is készült.@hu> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://www.w3.org/2000/01/rdf-schema#comment> <탑 건(Top Gun)은 1986년 개봉한 미국의 액션 드라마 영화이다.@ko> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://www.w3.org/2000/01/rdf-schema#comment> <Top Gun és una pel·lícula estatunidenca del 1986 protagonitzada per Tom Cruise i Kelly McGillis. Gran part de l'èxit de la pel·lícula és a causa de les espectaculars escenes a l'aire combinades amb una bona banda sonora, destacant-ne el tema Danger Zone, de Kenny Loggins (conegut també per Please Come To Boston). Posteriorment, Tony Scott repetí fórmula amb la pel·lícula Days of Thunder.@ca> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://www.w3.org/2000/01/rdf-schema#comment> <Top Gun je americké filmové drama, které v roce 1986 natočil režisér Tony Scott.@cs> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://www.w3.org/2000/01/rdf-schema#comment> <Top Gun, 1986 yılında başrollerini Tom Cruise ile Kelly McGillis in paylaştığı aksiyon ve duygu yüklü bir filmdir. Film donanma pilotu olan Pete Mitchell'ın (Maverick) Top Gun onur ödülünü almak için verdiği mücadeleyi anlatmaktadır. Top Gun 1986 yılının en çok hasılat yapan filmidir.Türkiye 'de gösterime girme tarihi Şubat 1987 dir.@tr> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://www.w3.org/2000/01/rdf-schema#comment> <Top Gun – film akcji z domieszką dramatu produkcji amerykańskiej. Film wszedł na ekrany kin w 1986 roku. Opowiada on o szkole lotniczej Top Gun w Stanach Zjednoczonych oraz o życiowych i zawodowych zmaganiach pilotów marynarki wojennej.@pl> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://www.w3.org/2000/01/rdf-schema#comment> <『トップガン』（Top Gun）は、1986年のアメリカ映画。アメリカ海軍の戦闘機パイロットの青春群像を描いた航空アクション映画である。@ja> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://www.w3.org/2000/01/rdf-schema#comment> <«Лучший стрелок» (также известен как «Топ Ган», «Выше крыши», «Воздушная гвардия» и «Школа асов») (англ. Top Gun) — кинофильм. Слоган: «I feel the need, the need for speed».@ru> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://www.w3.org/2000/01/rdf-schema#comment> <Top Gun ialah film Amerika dari tahun 1986. Top Gun disutradarai oleh Tony Scott (saudara Ridley Scott). Atas film ini Tony membuat terobosan besar sebagai sutradara film. Sebelumnya ia bekerja di bidang iklan televisi.@id> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://www.w3.org/2000/01/rdf-schema#comment> <Top Gun (Top Gun - Ases Indomáveis (título no Brasil) ou Ases Indomáveis (título em Portugal)) é um filme norte-americano de 1986, do gênero ação, dirigido por Tony Scott. O roteiro de Jim Cash e Jack Epps Jr. é baseado num artigo de Ehud Yonay chamado \"Top Guns\" publicado na revista California.@pt> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://www.w3.org/2000/01/rdf-schema#comment> <Top Gun es una película estadounidense, del año 1986, protagonizada por Tom Cruise y Kelly McGillis. Gran parte del éxito de la película se debe a las espectaculares escenas en el aire combinadas con una banda sonora emocionante, destacando el tema «Danger Zone», de Kenny Loggins (conocido también por «Footloose»). Posteriormente, Tony Scott repitió fórmula con la película Días de trueno.@es> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://www.w3.org/2000/01/rdf-schema#comment> <Top Gun is a 1986 American action drama film directed by Tony Scott, and produced by Don Simpson and Jerry Bruckheimer, in association with Paramount Pictures. The screenplay was written by Jim Cash and Jack Epps, Jr., and was inspired by the article \"Top Guns\" written by Ehud Yonay for California magazine.The film stars Tom Cruise, Kelly McGillis, Val Kilmer, Anthony Edwards, and Tom Skerritt.@en> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://www.w3.org/2000/01/rdf-schema#comment> <Top Gun – Sie fürchten weder Tod noch Teufel ist ein US-amerikanischer Actionfilm aus dem Jahr 1986. In der Hauptrolle spielt Tom Cruise einen Kampfjet-Piloten der United States Navy.Der von Jerry Bruckheimer produzierte Film spielte weltweit an den Kinokassen 353,8 Millionen US-Dollar ein. Das Produktionsbudget betrug lediglich 15 Millionen US-Dollar.@de> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://www.w3.org/2000/01/rdf-schema#comment> <Top Gun è un film d'azione del 1986, diretto da Tony Scott e prodotto da Don Simpson e Jerry Bruckheimer, in associazione con la Paramount Pictures. La sceneggiatura è stata scritta da Jim Cash e Jack Epps Jr., ed è stato ispirato da \"Top Guns\", un'articolo scritto da Ehud Yonay per la rivista California.Il film è interpretato da Tom Cruise, Kelly McGillis, Anthony Edwards, Val Kilmer, e Tom Skerritt. Cruise interpreta il tenente Pete \"Maverick\" Mitchell, un giovane aviatore della marina.@it> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://dbpedia.org/ontology/director> <http://fr.dbpedia.org/resource/Tony_Scott> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://dbpedia.org/ontology/filmRuntime> <6600.0^^http://www.w3.org/2001/XMLSchema#double> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://dbpedia.org/ontology/genre> <http://fr.dbpedia.org/resource/Film_d'action> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://dbpedia.org/ontology/originalTitle> <Top Gun@fr> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://dbpedia.org/ontology/producedBy> <http://fr.dbpedia.org/resource/Paramount_Pictures> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://dbpedia.org/ontology/starring> <http://fr.dbpedia.org/resource/Tom_Cruise> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://dbpedia.org/ontology/starring> <http://fr.dbpedia.org/resource/Tom_Skerritt> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://dbpedia.org/ontology/starring> <http://fr.dbpedia.org/resource/Kelly_McGillis> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://dbpedia.org/ontology/starring> <http://fr.dbpedia.org/resource/Val_Kilmer> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://dbpedia.org/ontology/starring> <http://fr.dbpedia.org/resource/Anthony_Edwards> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://dbpedia.org/ontology/thumbnailCaption> <UnGrumman F-14 Tomcat, l'avion principal du film.> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://xmlns.com/foaf/0.1/name> <Top Gun@fr> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://dbpedia.org/ontology/wikiPageRevisionID> <109819157^^http://www.w3.org/2001/XMLSchema#integer> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://dbpedia.org/ontology/abstract> <Top Gun est un film américain réalisé par Tony Scott en 1986. Il est aujourd'hui considéré comme un film culte et a notamment lancé Tom Cruise au rang de star de cinéma.@fr> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://dbpedia.org/ontology/abstract> <Top Gun is een Amerikaanse actiefilm uit 1986 met Tom Cruise, Anthony Edwards, Kelly McGillis, Val Kilmer en een klein rolletje van Meg Ryan. De film is geregisseerd door Tony Scott.Het idee voor de film kwam uit California Magazine waarin een artikel stond met de naam Top Guns. Producent Don Simpson las het artikel, het inspireerde hem en Jerry Bruckheimer om Top Gun te maken. Jim Cash en Jack Epps Jr. werden aangetrokken om het scenario te schrijven.@nl> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://dbpedia.org/ontology/abstract> <Top Gun – Sie fürchten weder Tod noch Teufel ist ein US-amerikanischer Actionfilm aus dem Jahr 1986. In der Hauptrolle spielt Tom Cruise einen Kampfjet-Piloten der United States Navy.Der von Jerry Bruckheimer produzierte Film spielte weltweit an den Kinokassen 353,8 Millionen US-Dollar ein. Das Produktionsbudget betrug lediglich 15 Millionen US-Dollar. Die Herstellung des Films wurde jedoch vom US-Verteidigungsministerium finanziell und durch Logistik unterstützt.Der Film kam Anfang 2013 digital überarbeitet und in 3D kurzzeitig noch einmal in ausgewählte Kinos. Als Erklärung hierfür wurde angegeben, dass die Flugszenen sich sehr gut für 3D eignen würden.@de> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://dbpedia.org/ontology/abstract> <A Top Gun egy 1986-ban készült amerikai akciófilm, amelyet Tony Scott rendezett. A forgatókönyvet Ehud Yonay a kaliforniai Magazinban megjelent 'Top Gun' című cikke ihlette. A film a nyolcvanas évek egyik meghatározó filmje, filmzenéje a Berlin - Take My Breath Away. A filmből videojáték is készült.@hu> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://dbpedia.org/ontology/abstract> <탑 건(Top Gun)은 1986년 개봉한 미국의 액션 드라마 영화이다.@ko> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://dbpedia.org/ontology/abstract> <Top Gun és una pel·lícula estatunidenca del 1986 protagonitzada per Tom Cruise i Kelly McGillis. Gran part de l'èxit de la pel·lícula és a causa de les espectaculars escenes a l'aire combinades amb una bona banda sonora, destacant-ne el tema Danger Zone, de Kenny Loggins (conegut també per Please Come To Boston). Posteriorment, Tony Scott repetí fórmula amb la pel·lícula Days of Thunder.@ca> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://dbpedia.org/ontology/abstract> <Top Gun je americké filmové drama, které v roce 1986 natočil režisér Tony Scott.@cs> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://dbpedia.org/ontology/abstract> <Top Gun, 1986 yılında başrollerini Tom Cruise ile Kelly McGillis in paylaştığı aksiyon ve duygu yüklü bir filmdir. Film donanma pilotu olan Pete Mitchell'ın (Maverick) Top Gun onur ödülünü almak için verdiği mücadeleyi anlatmaktadır. Top Gun 1986 yılının en çok hasılat yapan filmidir.Türkiye 'de gösterime girme tarihi Şubat 1987 dir.@tr> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://dbpedia.org/ontology/abstract> <Top Gun – film akcji z domieszką dramatu produkcji amerykańskiej. Film wszedł na ekrany kin w 1986 roku. Opowiada on o szkole lotniczej Top Gun w Stanach Zjednoczonych oraz o życiowych i zawodowych zmaganiach pilotów marynarki wojennej.@pl> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://dbpedia.org/ontology/abstract> <『トップガン』（Top Gun）は、1986年のアメリカ映画。アメリカ海軍の戦闘機パイロットの青春群像を描いた航空アクション映画である。@ja> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://dbpedia.org/ontology/abstract> <«Лучший стрелок» (также известен как «Топ Ган», «Выше крыши», «Воздушная гвардия» и «Школа асов») (англ. Top Gun) — кинофильм. Слоган: «I feel the need, the need for speed».@ru> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://dbpedia.org/ontology/abstract> <Top Gun ialah film Amerika dari tahun 1986. Top Gun disutradarai oleh Tony Scott (saudara Ridley Scott). Atas film ini Tony membuat terobosan besar sebagai sutradara film. Sebelumnya ia bekerja di bidang iklan televisi.@id> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://dbpedia.org/ontology/abstract> <Top Gun (Top Gun - Ases Indomáveis (título no Brasil) ou Ases Indomáveis (título em Portugal)) é um filme norte-americano de 1986, do gênero ação, dirigido por Tony Scott. O roteiro de Jim Cash e Jack Epps Jr. é baseado num artigo de Ehud Yonay chamado \"Top Guns\" publicado na revista California.@pt> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://dbpedia.org/ontology/abstract> <Top Gun è un film d'azione del 1986, diretto da Tony Scott e prodotto da Don Simpson e Jerry Bruckheimer, in associazione con la Paramount Pictures. La sceneggiatura è stata scritta da Jim Cash e Jack Epps Jr., ed è stato ispirato da \"Top Guns\", un'articolo scritto da Ehud Yonay per la rivista California.Il film è interpretato da Tom Cruise, Kelly McGillis, Anthony Edwards, Val Kilmer, e Tom Skerritt. Cruise interpreta il tenente Pete \"Maverick\" Mitchell, un giovane aviatore della marina. A lui ed al suo Navigatore (RIO) Nick \"Goose\" Bradshaw (Edwards) viene offerta la possibilità di partecipare alla prestigiosa scuola TOP GUN. Il film racconta i progressi di Maverick attraverso la formazione, la sua storia d'amore con un istruttore femminile (McGillis), il suo superamento di una crisi di fiducia a seguito di un incidente fatale durante le esercitazioni, e l'abbattimento di aerei nemici in dogfight.La pellicola prese a spunto gli scontri aerei della guerra fredda e lanciò Cruise come star di Hollywood. Inoltre vinse un Oscar per la miglior canzone con Take My Breath Away, prodotta da Giorgio Moroder per i Berlin.@it> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://dbpedia.org/ontology/abstract> <Top Gun is a 1986 American action drama film directed by Tony Scott, and produced by Don Simpson and Jerry Bruckheimer, in association with Paramount Pictures. The screenplay was written by Jim Cash and Jack Epps, Jr., and was inspired by the article \"Top Guns\" written by Ehud Yonay for California magazine.The film stars Tom Cruise, Kelly McGillis, Val Kilmer, Anthony Edwards, and Tom Skerritt. Cruise plays Lieutenant Pete \"Maverick\" Mitchell, a young Naval aviator aboard the aircraft carrier USS Enterprise. He and his Radar Intercept Officer (RIO) Nick \"Goose\" Bradshaw (Edwards) are given the chance to train at the Navy's Fighter Weapons School at Miramar in San Diego. The movie title comes from this school's nickname, \"TOPGUN\".@en> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://dbpedia.org/ontology/abstract> <Top Gun es una película estadounidense, del año 1986, protagonizada por Tom Cruise y Kelly McGillis. Gran parte del éxito de la película se debe a las espectaculares escenas en el aire combinadas con una banda sonora emocionante, destacando el tema «Danger Zone», de Kenny Loggins (conocido también por «Footloose»). Posteriormente, Tony Scott repitió fórmula con la película Días de trueno.@es> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://fr.wikipedia.org/wiki/Top_Gun_(film)?oldid=109819157> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://dbpedia.org/ontology/wikiPageOutDegree> <118^^http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://dbpedia.org/ontology/wikiPageID> <2689333^^http://www.w3.org/2001/XMLSchema#integer> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Film_d'action> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/William_Sabatier> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Brit_Awards> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Catégorie:Forces_armées_des_États-Unis_dans_le_cinéma> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Dollar_américain> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Grumman_F-14_Tomcat> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Jean-Paul_Tribout> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Meg_Ryan> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Michael_J._Fox> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Nicolas_Cage> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Sean_Penn> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Tom_Cruise> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/United_States_Navy> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Catégorie:Aviation_au_cinéma> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Jim_Carrey> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/John_Cusack> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/John_Travolta> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/McDonnell_Douglas_F-4_Phantom_II> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Catégorie:Film_réalisé_par_Tony_Scott> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Catégorie:Film_se_déroulant_à_San_Diego> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Film_culte> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Jon_Voight> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Matthew_Broderick> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Michael_Ironside> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Tom_Skerritt> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Tony_Scott> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Jean-Claude_Balard> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Jerry_Bruckheimer> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Rick_Rossovich> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Adrian_Pasdar> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Don_Simpson> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Kelly_McGillis> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Maïk_Darah> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Philippe_Peythieu> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Chris_Lebenzon> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Guerre_froide> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/José_Luccioni_(acteur)> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Patrick_Swayze> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/People's_Choice_Awards> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Scott_Baio> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Take_My_Breath_Away> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Éric_Legrand> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/United_States_Navy_Fighter_Weapons_School> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Whip_Hubley> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Warren_Skaaren> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Anglais> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Catégorie:Film_américain_sorti_en_1986> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Catégorie:Film_avec_un_Oscar_de_la_meilleure_chanson_originale> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Catégorie:Film_d'action_américain> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Catégorie:Film_de_Paramount_Pictures> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Catégorie:Film_tourné_en_Californie> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Catégorie:Film_tourné_à_San_Diego> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Giorgio_Moroder> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Océan_Indien> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Paramount_Pictures> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Tom_Hanks> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/United_International_Pictures> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Catégorie:Adaptation_d'un_article_de_presse_au_cinéma> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Cinéma_américain> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Format_35_mm> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Mikoyan-Gourevitch> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Patrick_Poivey> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Virginie_Ledieu> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Northrop_F-5_Freedom_Fighter> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Oscar_de_la_meilleure_chanson_originale> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Tim_Robbins> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Val_Kilmer> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Combat_aérien> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/1986_au_cinéma> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Box-office> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Charlie_Sheen> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Emilio_Estevez> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Furtif_(film)> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Hot_Shots!> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Les_Chevaliers_du_ciel_(film,_2005)> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Rob_Lowe> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Robert_Downey_Jr.> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Aéronautique_navale> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Eric_Stoltz> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Harold_Faltermeyer> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Bande_son> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/James_Tolkan> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/John_Stockwell> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Louis_Gossett_Jr.> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Matthew_Modine> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/The_Hollywood_Reporter> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/American_Society_of_Composers,_Authors,_and_Publishers> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Bernard_Soufflet> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Jeffrey_L._Kimball> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Tom_Whitlock> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Jean_Barney> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Anthony_Edwards> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Format_large_anamorphosé> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/États-Unis> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Golden_Globe_Award_:_Meilleure_chanson_originale> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Clarence_Gilyard,_Jr.> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Formats_de_projection> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Barry_Tubb> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Billy_Weber> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Fichier:Enterprise_Tomcat.JPG> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://dbpedia.org/ontology/wikiPageLength> <9041^^http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://purl.org/dc/terms/references> <http://www.allocine.fr/film/fichefilm_gen_cfilm=2133.html> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://dbpedia.org/ontology/idAllocine> <2133> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://fr.wikipedia.org/wiki/Top_Gun_(film)> .
+<http://fr.dbpedia.org/resource/Top_Gun_(film)> <http://purl.org/dc/elements/1.1/title> <Top Gun> .

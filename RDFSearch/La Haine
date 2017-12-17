@@ -1,0 +1,273 @@
+<http://fr.dbpedia.org/resource/La_Haine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Movie> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Film> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Wikidata:Q11424> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Work> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q386724> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://www.w3.org/2002/07/owl#sameAs> <http://rdf.freebase.com/ns/m.02hhfl> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/La_Haine> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://www.w3.org/2002/07/owl#sameAs> <http://bg.dbpedia.org/resource/Омраза_(филм)> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://www.w3.org/2002/07/owl#sameAs> <http://bn.dbpedia.org/resource/লা_হেন> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://www.w3.org/2002/07/owl#sameAs> <http://ca.dbpedia.org/resource/La_Haine> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://www.w3.org/2002/07/owl#sameAs> <http://de.dbpedia.org/resource/Hass_(Film)> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://www.w3.org/2002/07/owl#sameAs> <http://el.dbpedia.org/resource/Το_Μίσος> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://www.w3.org/2002/07/owl#sameAs> <http://es.dbpedia.org/resource/El_odio> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://www.w3.org/2002/07/owl#sameAs> <http://eu.dbpedia.org/resource/La_Haine> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://www.w3.org/2002/07/owl#sameAs> <http://hr.dbpedia.org/resource/Mržnja_(1995.)> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://www.w3.org/2002/07/owl#sameAs> <http://hu.dbpedia.org/resource/A_gyűlölet_(film)> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://www.w3.org/2002/07/owl#sameAs> <http://it.dbpedia.org/resource/L'odio> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://www.w3.org/2002/07/owl#sameAs> <http://ja.dbpedia.org/resource/憎しみ> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://www.w3.org/2002/07/owl#sameAs> <http://nl.dbpedia.org/resource/La_Haine> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://www.w3.org/2002/07/owl#sameAs> <http://pl.dbpedia.org/resource/Nienawiść_(film_1995)> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://www.w3.org/2002/07/owl#sameAs> <http://pt.dbpedia.org/resource/O_Ódio> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://www.w3.org/2002/07/owl#sameAs> <http://ru.dbpedia.org/resource/Ненависть_(фильм,_1995)> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://www.w3.org/2002/07/owl#sameAs> <http://sv.dbpedia.org/resource/Medan_vi_faller> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://www.w3.org/2002/07/owl#sameAs> <http://tr.dbpedia.org/resource/Protesto_(film)> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://www.w3.org/2002/07/owl#sameAs> <http://uk.dbpedia.org/resource/Ненависть_(фільм)> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://purl.org/dc/terms/subject> <http://fr.dbpedia.org/resource/Catégorie:César_du_meilleur_film> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://purl.org/dc/terms/subject> <http://fr.dbpedia.org/resource/Catégorie:Film_avec_un_César_du_meilleur_montage> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://purl.org/dc/terms/subject> <http://fr.dbpedia.org/resource/Catégorie:Film_avec_un_prix_de_la_mise_en_scène_au_Festival_de_Cannes> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://purl.org/dc/terms/subject> <http://fr.dbpedia.org/resource/Catégorie:Film_de_PolyGram_Filmed_Entertainment> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://purl.org/dc/terms/subject> <http://fr.dbpedia.org/resource/Catégorie:Film_dramatique_français> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://purl.org/dc/terms/subject> <http://fr.dbpedia.org/resource/Catégorie:Film_français_en_noir_et_blanc> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://purl.org/dc/terms/subject> <http://fr.dbpedia.org/resource/Catégorie:Film_français_sorti_en_1995> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://purl.org/dc/terms/subject> <http://fr.dbpedia.org/resource/Catégorie:Film_réalisé_par_Mathieu_Kassovitz> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://purl.org/dc/terms/subject> <http://fr.dbpedia.org/resource/Catégorie:Film_se_déroulant_dans_les_Yvelines> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://purl.org/dc/terms/subject> <http://fr.dbpedia.org/resource/Catégorie:Film_sur_la_banlieue_française> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://purl.org/dc/terms/subject> <http://fr.dbpedia.org/resource/Catégorie:Film_sur_le_racisme> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://purl.org/dc/terms/subject> <http://fr.dbpedia.org/resource/Catégorie:Film_tourné_dans_les_Yvelines> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://purl.org/dc/terms/subject> <http://fr.dbpedia.org/resource/Catégorie:Prix_Lumières_du_meilleur_film> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://fr.dbpedia.org/property/wikiPageUsesTemplate> <http://fr.dbpedia.org/resource/Modèle:,> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://fr.dbpedia.org/property/wikiPageUsesTemplate> <http://fr.dbpedia.org/resource/Modèle:18e> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://fr.dbpedia.org/property/wikiPageUsesTemplate> <http://fr.dbpedia.org/resource/Modèle:4e> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://fr.dbpedia.org/property/wikiPageUsesTemplate> <http://fr.dbpedia.org/resource/Modèle:7e> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://fr.dbpedia.org/property/wikiPageUsesTemplate> <http://fr.dbpedia.org/resource/Modèle:Allociné_titre> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://fr.dbpedia.org/property/wikiPageUsesTemplate> <http://fr.dbpedia.org/resource/Modèle:Autres_projets> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://fr.dbpedia.org/property/wikiPageUsesTemplate> <http://fr.dbpedia.org/resource/Modèle:Citation> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://fr.dbpedia.org/property/wikiPageUsesTemplate> <http://fr.dbpedia.org/resource/Modèle:Citation_étrangère> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://fr.dbpedia.org/property/wikiPageUsesTemplate> <http://fr.dbpedia.org/resource/Modèle:Date> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://fr.dbpedia.org/property/wikiPageUsesTemplate> <http://fr.dbpedia.org/resource/Modèle:Début_de_colonnes> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://fr.dbpedia.org/property/wikiPageUsesTemplate> <http://fr.dbpedia.org/resource/Modèle:Fin_de_colonnes> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://fr.dbpedia.org/property/wikiPageUsesTemplate> <http://fr.dbpedia.org/resource/Modèle:Imdb_film> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://fr.dbpedia.org/property/wikiPageUsesTemplate> <http://fr.dbpedia.org/resource/Modèle:Infobox_Cinéma_(film)> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://fr.dbpedia.org/property/wikiPageUsesTemplate> <http://fr.dbpedia.org/resource/Modèle:Lang> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://fr.dbpedia.org/property/wikiPageUsesTemplate> <http://fr.dbpedia.org/resource/Modèle:Nombre> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://fr.dbpedia.org/property/wikiPageUsesTemplate> <http://fr.dbpedia.org/resource/Modèle:Palette> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://fr.dbpedia.org/property/wikiPageUsesTemplate> <http://fr.dbpedia.org/resource/Modèle:Portail> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://fr.dbpedia.org/property/wikiPageUsesTemplate> <http://fr.dbpedia.org/resource/Modèle:Références> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://fr.dbpedia.org/property/wikiPageUsesTemplate> <http://fr.dbpedia.org/resource/Modèle:Section_à_sourcer> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://fr.dbpedia.org/property/wikiPageUsesTemplate> <http://fr.dbpedia.org/resource/Modèle:Titre_en_italique> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://fr.dbpedia.org/property/wikiPageUsesTemplate> <http://fr.dbpedia.org/resource/Modèle:Voir_homonymes> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://www.w3.org/2000/01/rdf-schema#label> <La Haine@fr> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://www.w3.org/2000/01/rdf-schema#label> <A gyűlölet (film)@hu> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://www.w3.org/2000/01/rdf-schema#label> <El odio@es> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://www.w3.org/2000/01/rdf-schema#label> <Hass (Film)@de> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://www.w3.org/2000/01/rdf-schema#label> <L'odio@it> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://www.w3.org/2000/01/rdf-schema#label> <La Haine@en> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://www.w3.org/2000/01/rdf-schema#label> <La Haine@ca> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://www.w3.org/2000/01/rdf-schema#label> <La Haine@eu> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://www.w3.org/2000/01/rdf-schema#label> <La Haine@nl> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://www.w3.org/2000/01/rdf-schema#label> <Nienawiść (film 1995)@pl> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://www.w3.org/2000/01/rdf-schema#label> <Protesto (film)@tr> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://www.w3.org/2000/01/rdf-schema#label> <Ненависть (фильм, 1995)@ru> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://www.w3.org/2000/01/rdf-schema#label> <Омраза (филм)@bg> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://www.w3.org/2000/01/rdf-schema#label> <憎しみ@ja> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageExternalLink> <http://video.google.fr/videoplay?docid=3151448324452778385> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageExternalLink> <http://www.mathieukassovitz.com/> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageExternalLink> <http://www.forumdesimages.fr/les-rencontres/toutes-les-rencontres/la-haine-de-mathieu-kassovitz> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://fr.dbpedia.org/property/acteur> <http://fr.dbpedia.org/resource/Vincent_Cassel> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://fr.dbpedia.org/property/acteur> <http://fr.dbpedia.org/resource/Saïd_Taghmaoui> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://fr.dbpedia.org/property/acteur> <http://fr.dbpedia.org/resource/Hubert_Koundé> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://fr.dbpedia.org/property/annéeDeSortie> <1995^^http://www.w3.org/2001/XMLSchema#integer> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://fr.dbpedia.org/property/durée> <5760.0^^http://dbpedia.org/datatype/second> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://fr.dbpedia.org/property/réalisation> <http://fr.dbpedia.org/resource/Mathieu_Kassovitz> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://fr.dbpedia.org/property/scénario> <Mathieu Kassovitz@fr> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://fr.dbpedia.org/property/titre> <La Haine@fr> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://fr.dbpedia.org/property/titreOriginal> <La Haine@fr> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://fr.dbpedia.org/property/titreQuébécois> <La Haine@fr> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://www.w3.org/2000/01/rdf-schema#comment> <La Haine est un film français en noir et blanc sur la banlieue réalisé par Mathieu Kassovitz et sorti en 1995.@fr> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://www.w3.org/2000/01/rdf-schema#comment> <La Haine (French pronunciation: ​[la ʔɛn], Hate) is a 1995 French black-and-white drama/suspense film written, co-edited, and directed by Mathieu Kassovitz. It is commonly released under its French title in the English-speaking world, although its U.S. VHS release was entitled Hate. It is about three young friends and their struggle to live in the banlieues of Paris. The title derives from a line spoken by one of them, Hubert: \"La haine attire la haine !\", \"hatred breeds hatred.\"@en> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://www.w3.org/2000/01/rdf-schema#comment> <La Haine és una pel·lícula francesa emblemàtica sobre els barris perifèrics francesos (banlieue) dirigida per Mathieu Kassovitz i estrenada el 1995.@ca> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://www.w3.org/2000/01/rdf-schema#comment> <Nienawiść (oryg. La Haine) – film z 1995 roku w reżyserii Mathieu Kassovitza.@pl> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://www.w3.org/2000/01/rdf-schema#comment> <«Ненависть» (фр. La Haine) — чёрно-белый кинофильм режиссера Матьё Кассовитца, снятый в 1995 году. Главные роли исполняют Венсан Кассель, Юбер Кунде и Саид Тагмауи.Три национальных премии «Сезар», включая за лучший французский фильм года, приз Каннского кинофестиваля за лучшую режиссёрскую работу (Матьё Кассовитц). Картина стабильно входит в список 250 лучших фильмов всех времён по версии IMDb.@ru> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://www.w3.org/2000/01/rdf-schema#comment> <La Haine is een Franse film uit 1995 onder regie van Mathieu Kassovitz.@nl> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://www.w3.org/2000/01/rdf-schema#comment> <L'odio (La Haine) è un film in bianco e nero del 1995 scritto e diretto da Mathieu Kassovitz, vincitore del premio per la miglior regia al 48º Festival di Cannes.Il film prende spunto dal fatto reale dell'uccisione di un ragazzo delle banlieue parigine da parte della polizia francese.Nella versione originale francese, i dialoghi del film sono in verlan, un tipico gergo parigino, che consiste nell'inversione delle sillabe di una parola per crearne una nuova.@it> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://www.w3.org/2000/01/rdf-schema#comment> <La Haine (Gorrotoa, euskaraz) Mathieu Kassovitzek zuzendutako film frantziarra da. 1995ean estreinatu zen, eta gizartetik baztertutako hiru gazteren (judu bat, arabiar bat eta beltz bat) bizitza kontatzen du. Istorioa Parisko auzo baztertu batean kokatzen da, 1990eko hamarkadako erdialdera.@eu> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://www.w3.org/2000/01/rdf-schema#comment> <『憎しみ』（La Haine） は、1995年に制作されたフランス映画。パリ郊外のバンリューを舞台にした人種差別を扱ったマチュー・カソヴィッツの監督作品で、カンヌ国際映画祭 監督賞、ヨーロッパ映画賞の新人賞などを受賞した。@ja> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://www.w3.org/2000/01/rdf-schema#comment> <Hass (frz. Originaltitel La Haine [la ʔɛn]) ist ein französischer Spielfilm von Mathieu Kassovitz aus dem Jahre 1995. Der Film, der das trostlose Leben in den Banlieues Frankreichs schildert, ist in Schwarz-Weiß gedreht. Er zeigt 24 Stunden im Leben der drei jugendlichen Hauptdarsteller, deren Welt von Gewalt, Drogen und Schikanen durch die Polizei geprägt ist.@de> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://www.w3.org/2000/01/rdf-schema#comment> <El odio (titulado originalmente en francés La Haine) es una película francesa dirigida por Mathieu Kassovitz y estrenada en 1995 que narra la vida de tres jóvenes desheredados de la sociedad (un judío, un árabe y un negro) en un suburbio de París a mediados de la década de los noventa.La película empieza con una noche de motines (con banda-sonora: Bob Marley and the wailers - burnin' and lootin') con el agitado y violento combate nocturno que oponen las fuerzas del orden contra la juventud cabreada de la ciudad de les Muguets, Chanteloup-les-Vignes (78), tras la paliza que Abdel Ichah, de sólo 16 años, ha recibido en una comisaría de policía y que le ha ocasionado heridas que lo tienen en un estado de coma grave. @es> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://www.w3.org/2000/01/rdf-schema#comment> <Омраза (на френски: La Haine) е френски игрален филм от 1995 година, носител на наградата за най-добра режисура от филмовия фестивал в Кан.Филмът разкрива 24 часа от живота на трима младежи от крайните предградия на Париж - арабин, африканец и евреин. Главен герой е Винц (Венсан Касел), който случайно намира на улицата пистолет и не скрива от приятелите си, че би убил полицай. Основните теми във филма са за расизмът, наркотиците и социалното положение в предградията.@bg> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://www.w3.org/2000/01/rdf-schema#comment> <Protesto (La Haine) Mathieu Kassovitz'in 1995 yılında çektiği Fransız filmi.Film, Paris'in gettolarında yaşayan biri pied-noir (Said), biri yahudi (Vinz), biri ise siyahi (Hubert) üç arkadaşın hikâyesini konu alarak, Fransa'da gettolarda yaşayan gençlerin hayatından bir kesit sunmaktadır.Kassovitz'in filmi ırkçılığa ve sosyal sınıf farklılıklarına yaptığı göndermeler nedeniyle hem Fransa'da hem de dünyada oldukça ses getirmiştir.@tr> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://www.w3.org/2000/01/rdf-schema#comment> <A gyűlölet (La Haine) egy francia fekete-fehér francia film Mathieu Kassovitz rendezésében, amit 1995-ben mutattak be. A film egy sötét városi thriller, amit gyakran Franciaország válaszának hívnak Spike Lee Do the Right Thing-jére. Olyan témákat taglal, mint a rasszizmus, az erőszak és az elidegenedett ifjúság helyzete Párizs külvárosaiban. Egy lázadás tör ki az egyik külvárosi gettóban, amit a rendőrség erőszakkal elfojt.@hu> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/director> <http://fr.dbpedia.org/resource/Mathieu_Kassovitz> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/filmRuntime> <5760.0^^http://www.w3.org/2001/XMLSchema#double> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/originalTitle> <La Haine@fr> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/quebecerTitle> <La Haine> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/starring> <http://fr.dbpedia.org/resource/Vincent_Cassel> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/starring> <http://fr.dbpedia.org/resource/Saïd_Taghmaoui> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/starring> <http://fr.dbpedia.org/resource/Hubert_Koundé> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/writer> <http://fr.dbpedia.org/resource/Mathieu_Kassovitz> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://xmlns.com/foaf/0.1/name> <La Haine@fr> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageRevisionID> <109518674^^http://www.w3.org/2001/XMLSchema#integer> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/abstract> <La Haine est un film français en noir et blanc sur la banlieue réalisé par Mathieu Kassovitz et sorti en 1995.@fr> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/abstract> <Омраза (на френски: La Haine) е френски игрален филм от 1995 година, носител на наградата за най-добра режисура от филмовия фестивал в Кан.Филмът разкрива 24 часа от живота на трима младежи от крайните предградия на Париж - арабин, африканец и евреин. Главен герой е Винц (Венсан Касел), който случайно намира на улицата пистолет и не скрива от приятелите си, че би убил полицай. Основните теми във филма са за расизмът, наркотиците и социалното положение в предградията. Филмът възвръща популярността си през 2005 по време на безредиците във Франция.@bg> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/abstract> <La Haine (French pronunciation: ​[la ʔɛn], Hate) is a 1995 French black-and-white drama/suspense film written, co-edited, and directed by Mathieu Kassovitz. It is commonly released under its French title in the English-speaking world, although its U.S. VHS release was entitled Hate. It is about three young friends and their struggle to live in the banlieues of Paris. The title derives from a line spoken by one of them, Hubert: \"La haine attire la haine !\", \"hatred breeds hatred.\"@en> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/abstract> <La Haine és una pel·lícula francesa emblemàtica sobre els barris perifèrics francesos (banlieue) dirigida per Mathieu Kassovitz i estrenada el 1995.@ca> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/abstract> <Nienawiść (oryg. La Haine) – film z 1995 roku w reżyserii Mathieu Kassovitza.@pl> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/abstract> <Protesto (La Haine) Mathieu Kassovitz'in 1995 yılında çektiği Fransız filmi.Film, Paris'in gettolarında yaşayan biri pied-noir (Said), biri yahudi (Vinz), biri ise siyahi (Hubert) üç arkadaşın hikâyesini konu alarak, Fransa'da gettolarda yaşayan gençlerin hayatından bir kesit sunmaktadır.Kassovitz'in filmi ırkçılığa ve sosyal sınıf farklılıklarına yaptığı göndermeler nedeniyle hem Fransa'da hem de dünyada oldukça ses getirmiştir. Film, siyah-beyaz çekilmiş olmasının yanı sıra müzikleri (örneğin, patronla derdini anlatan Jamaikalı'nın söylediği şarkı gibi) ve görece kısa olması gibi özellikleri nedeniyle vurucu bir atmosfer yaratıyor.@tr> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/abstract> <A gyűlölet (La Haine) egy francia fekete-fehér francia film Mathieu Kassovitz rendezésében, amit 1995-ben mutattak be. A film egy sötét városi thriller, amit gyakran Franciaország válaszának hívnak Spike Lee Do the Right Thing-jére. Olyan témákat taglal, mint a rasszizmus, az erőszak és az elidegenedett ifjúság helyzete Párizs külvárosaiban. Egy lázadás tör ki az egyik külvárosi gettóban, amit a rendőrség erőszakkal elfojt. A film az ebben a negyedben élő három fiatal barát 24 óráját mutatja be.Azonos témájú, így összehasonlítható olyan filmekkel, mint a Kids, az Egy kosaras naplója, a Ken Park, vagy a Mechanikus narancs.@hu> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/abstract> <«Ненависть» (фр. La Haine) — чёрно-белый кинофильм режиссера Матьё Кассовитца, снятый в 1995 году. Главные роли исполняют Венсан Кассель, Юбер Кунде и Саид Тагмауи.Три национальных премии «Сезар», включая за лучший французский фильм года, приз Каннского кинофестиваля за лучшую режиссёрскую работу (Матьё Кассовитц). Картина стабильно входит в список 250 лучших фильмов всех времён по версии IMDb.@ru> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/abstract> <La Haine is een Franse film uit 1995 onder regie van Mathieu Kassovitz.@nl> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/abstract> <El odio (titulado originalmente en francés La Haine) es una película francesa dirigida por Mathieu Kassovitz y estrenada en 1995 que narra la vida de tres jóvenes desheredados de la sociedad (un judío, un árabe y un negro) en un suburbio de París a mediados de la década de los noventa.La película empieza con una noche de motines (con banda-sonora: Bob Marley and the wailers - burnin' and lootin') con el agitado y violento combate nocturno que oponen las fuerzas del orden contra la juventud cabreada de la ciudad de les Muguets, Chanteloup-les-Vignes (78), tras la paliza que Abdel Ichah, de sólo 16 años, ha recibido en una comisaría de policía y que le ha ocasionado heridas que lo tienen en un estado de coma grave. La película cuenta las 24 horas más importante de la vida de tres jóvenes, Vinz el judío (Vincent Cassel), Saïd el árabe (Saïd Taghmaoui) y Hubert el negro (Hubert Kounde), es el plazo que Kassovitz da para encontrar una solución a tanto odio, y para ello utiliza metafóricamente la pistola que un policía ha perdido durante el combate nocturno y que ha caído en manos de Vinz, que pasa el día diciendo que con él asesinará a un policía si el joven Ichah muere.@es> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/abstract> <L'odio (La Haine) è un film in bianco e nero del 1995 scritto e diretto da Mathieu Kassovitz, vincitore del premio per la miglior regia al 48º Festival di Cannes.Il film prende spunto dal fatto reale dell'uccisione di un ragazzo delle banlieue parigine da parte della polizia francese.Nella versione originale francese, i dialoghi del film sono in verlan, un tipico gergo parigino, che consiste nell'inversione delle sillabe di una parola per crearne una nuova.@it> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/abstract> <La Haine (Gorrotoa, euskaraz) Mathieu Kassovitzek zuzendutako film frantziarra da. 1995ean estreinatu zen, eta gizartetik baztertutako hiru gazteren (judu bat, arabiar bat eta beltz bat) bizitza kontatzen du. Istorioa Parisko auzo baztertu batean kokatzen da, 1990eko hamarkadako erdialdera.@eu> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/abstract> <『憎しみ』（La Haine） は、1995年に制作されたフランス映画。パリ郊外のバンリューを舞台にした人種差別を扱ったマチュー・カソヴィッツの監督作品で、カンヌ国際映画祭 監督賞、ヨーロッパ映画賞の新人賞などを受賞した。@ja> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/abstract> <Hass (frz. Originaltitel La Haine [la ʔɛn]) ist ein französischer Spielfilm von Mathieu Kassovitz aus dem Jahre 1995. Der Film, der das trostlose Leben in den Banlieues Frankreichs schildert, ist in Schwarz-Weiß gedreht. Er zeigt 24 Stunden im Leben der drei jugendlichen Hauptdarsteller, deren Welt von Gewalt, Drogen und Schikanen durch die Polizei geprägt ist.@de> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://fr.wikipedia.org/wiki/La_Haine?oldid=109518674> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageOutDegree> <173^^http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageID> <39446^^http://www.w3.org/2001/XMLSchema#integer> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/La_Haine,_musiques_inspirées_du_film> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Pierre_Aïm> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Vincent_Tulli> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Cocaïne> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Vincent_Cassel> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Brian_De_Palma> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Julie_Mauduech> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Karim_Belkhadra> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Liste_de_films_tournés_dans_les_Yvelines> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Abdel-Moulah_Boujdouni> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Abdel_Ahmed_Ghili> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Affaire_Makomé_M'Bowolé> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Anthony_Souter> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Arash_Mansour> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Choukri_Gabteni> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Christian_Moro> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Cyril_Ancelin> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Dominique_Dalmasso> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Fatou_Thioune> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Florent_Lavandeira> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/JiBi> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Joseph_Momo> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/José-Philippe_Dalmat> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Marcel_Marondo> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Medard_Niang> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Olga_Abrego> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Patrick_Médioni> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Rywka_Wajsbrot> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Sabrina_Houicha> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Samir_Khelif> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Sandor_Weitmann> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Scott_Stevenson> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Sébastien_Tavel> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Tadek_Lokcinski> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Teddy_Marques> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Thang-Long> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Virginia_Montel> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Éric_Pujol> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/César_du_meilleur_producteur> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Festival_de_Cannes_1995> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Karin_Viard> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Robert_De_Niro> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Vincent_Lindon> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/César_de_la_meilleure_photographie> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/César_du_meilleur_espoir_masculin> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/César_du_meilleur_montage> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/César_du_meilleur_scénario_original_ou_adaptation> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/César_du_meilleur_son> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Doublage> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/La_Chaîne_parlementaire> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Les_Inconnus> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Les_Visiteurs_(film,_1993)> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Caméo> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Chanteloup-les-Vignes> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Remake> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Valérie_Lemercier> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Félicité_Wouassi> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Valeria_Bruni_Tedeschi> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Édouard_Montoute> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Le_Cercle_de_la_haine> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Ma_6-T_va_crack-er> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Paris> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Tian_Zhuangzhuang> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Marche_pour_l'égalité_et_contre_le_racisme> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Solo_(rappeur)> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/François_Toumarkine> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Astérix> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/1996> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Alain_Juppé> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Catégorie:César_du_meilleur_film> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Catégorie:Film_avec_un_César_du_meilleur_montage> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Catégorie:Film_avec_un_prix_de_la_mise_en_scène_au_Festival_de_Cannes> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Catégorie:Film_de_PolyGram_Filmed_Entertainment> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Catégorie:Film_dramatique_français> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Catégorie:Film_français_en_noir_et_blanc> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Catégorie:Film_français_sorti_en_1995> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Catégorie:Film_réalisé_par_Mathieu_Kassovitz> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Catégorie:Film_se_déroulant_dans_les_Yvelines> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Catégorie:Film_sur_la_banlieue_française> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Catégorie:Film_sur_le_racisme> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Catégorie:Film_tourné_dans_les_Yvelines> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Catégorie:Prix_Lumières_du_meilleur_film> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Costa-Gavras> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/César_du_meilleur_acteur> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/César_du_meilleur_film> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/César_du_meilleur_réalisateur> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Jean-Louis_Debré> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Lukas_Moodysson> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Martin_Scorsese> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Mathieu_Kassovitz> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Peanuts> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Sergi_López> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Skinhead> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Skinhead_néonazi> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/TF1> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Tragédie> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Yvelines> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Z_(film,_1969)> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/1995_au_cinéma> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Benoît_Magimel> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Bernie_Bonvoisin> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Format_35_mm> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Scarface_(film,_1983)> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Taxi_Driver> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Vaulx-en-Velin> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Émeute> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Affaire_Malik_Oussekine> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Saïd_Taghmaoui> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/François_Levantal> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Prix_Lumières_du_meilleur_film> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Tony_Montana> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Banlieue_(France)> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Ministère_AMER> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Laurent_Labasse> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Christophe_Rossignon> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Philippe_Nahon> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Zinedine_Soualem> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Héloïse_Rauth> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Peter_Kassovitz> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Vengeance> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Cut_Killer> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Hubert_Koundé> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Andrée_Damant> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Minguettes> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Les_Kaïra> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Violence_urbaine> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Kasso_inc._Productions> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Forum_des_images> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Marc_Duret> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Lazennec_Productions> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Film_français> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Bavure_policière> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Brutalité_policière> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/La_Sept_Cinéma> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Malik_Oussekine> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/StudioCanal> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Formats_de_projection> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Prix_de_la_mise_en_scène> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Mathilde_Vitry> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/wikiPageLength> <16505^^http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://purl.org/dc/terms/references> <http://www.allocine.fr/film/fichefilm_gen_cfilm=12551.html> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://dbpedia.org/ontology/idAllocine> <12551> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://fr.wikipedia.org/wiki/La_Haine> .
+<http://fr.dbpedia.org/resource/La_Haine> <http://purl.org/dc/elements/1.1/title> <La Haine> .

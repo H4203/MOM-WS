@@ -25,7 +25,7 @@ public class Request {
 		try {
 			ResultSet results = qexec.execSelect();
 			try {
-				file = new FileWriter(new File("./newfile"), false);
+				file = new FileWriter(new File(path), false);
 			} catch (IOException e1) {
 				// TODO Auto-generated catch block
 				e1.printStackTrace();

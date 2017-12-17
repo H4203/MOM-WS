@@ -15,7 +15,7 @@ import dbpedia.DBpediaSpotlightClient;
 import graph.DBpediaObjet;
 
 public class sparqlUtil {
-		sparqlUtil(String nomFilm){
+		public static void creerFiche(String nomFilm){
 			List<String> ressources = new ArrayList<String>();
 			DBpediaSpotlightClient d = new DBpediaSpotlightClient();
 			ressources = d.extract(nomFilm);
@@ -32,7 +32,9 @@ public class sparqlUtil {
 						+ "SELECT DISTINCT ?x ?m ?d " 
 						+ "WHERE {" + "?x ?m ?d "
 						+ "FILTER(?x = <"+ ressources.get(0) +">)}";
-				String path = "./" + ressources.get(0);
+				
+				String[] ressourceSplitted = ressources.get(0).split("/");
+				String path = "./" + ressourceSplitted[ressourceSplitted.length-1].replace("_", " ");
 				
 				
 				
@@ -45,7 +47,7 @@ public class sparqlUtil {
 				}
 				
 				DBpediaObjet listeTriplet = new DBpediaObjet(ressources.get(0));
-				listeTriplet.addFromFile("./newfile");
+				listeTriplet.addFromFile(path);
 				
 				HashMap<String, List<String> > relations = listeTriplet.getRelationEtElement();
 				
@@ -123,13 +125,13 @@ public class sparqlUtil {
 						"FILTER(?x = <http://schema.org/Movie>) .\n" + 
 						"}";
 				try {
-					Request.doRequest(query, path);
+					Request.doRequest(query, "./temp");
 				} catch (FileNotFoundException e) {
 					// TODO Auto-generated catch block
 					e.printStackTrace();
 				}
 				DBpediaObjet listeTriplet2 = new DBpediaObjet(ressources.get(0));
-				listeTriplet2.addFromFile("./newfile");
+				listeTriplet2.addFromFile("./temp");
 				
 				HashMap<String, List<String> > films = listeTriplet2.getRelationEtElement();
 				List<String> s = films.get("http://www.w3.org/1999/02/22-rdf-syntax-ns#type");
@@ -160,7 +162,7 @@ public class sparqlUtil {
 				FileWriter file = null;
 				
 				try {
-					file = new FileWriter(new File("./code.html"), false);
+					file = new FileWriter(new File(path + ".html"), false);
 				} catch (IOException e1) {
 					// TODO Auto-generated catch block
 					e1.printStackTrace();
@@ -191,6 +193,6 @@ public class sparqlUtil {
 		}
 		
 		public static void main(String[] args) {
-			sparqlUtil sutil = new sparqlUtil("Orange Mécanique");
+			sparqlUtil.creerFiche("Avatar");
 		}
 }

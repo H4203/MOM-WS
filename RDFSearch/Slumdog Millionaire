@@ -1,0 +1,364 @@
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Movie> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Film> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Wikidata:Q11424> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Work> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q386724> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://www.w3.org/2002/07/owl#sameAs> <http://rdf.freebase.com/ns/m.03hmt9b> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Slumdog_Millionaire> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://www.w3.org/2002/07/owl#sameAs> <http://ar.dbpedia.org/resource/مليونير_متشرد_(فيلم)> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://www.w3.org/2002/07/owl#sameAs> <http://az.dbpedia.org/resource/Xarabalıqdan_olan_milyonçu_(film,_2008)> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://www.w3.org/2002/07/owl#sameAs> <http://bg.dbpedia.org/resource/Беднякът_милионер> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://www.w3.org/2002/07/owl#sameAs> <http://ca.dbpedia.org/resource/Slumdog_Millionaire> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://www.w3.org/2002/07/owl#sameAs> <http://cs.dbpedia.org/resource/Milionář_z_chatrče> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://www.w3.org/2002/07/owl#sameAs> <http://cy.dbpedia.org/resource/Slumdog_Millionaire_(ffilm)> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://www.w3.org/2002/07/owl#sameAs> <http://de.dbpedia.org/resource/Slumdog_Millionär> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://www.w3.org/2002/07/owl#sameAs> <http://el.dbpedia.org/resource/Slumdog_Millionaire> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://www.w3.org/2002/07/owl#sameAs> <http://eo.dbpedia.org/resource/Slumdog_Millionaire> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://www.w3.org/2002/07/owl#sameAs> <http://es.dbpedia.org/resource/Slumdog_Millionaire> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://www.w3.org/2002/07/owl#sameAs> <http://et.dbpedia.org/resource/Rentslimiljonär> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://www.w3.org/2002/07/owl#sameAs> <http://eu.dbpedia.org/resource/Slumdog_Millionaire> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://www.w3.org/2002/07/owl#sameAs> <http://hi.dbpedia.org/resource/स्लमडॉग_मिलियनेयर> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://www.w3.org/2002/07/owl#sameAs> <http://hr.dbpedia.org/resource/Milijunaš_s_ulice> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://www.w3.org/2002/07/owl#sameAs> <http://hu.dbpedia.org/resource/Gettómilliomos> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://www.w3.org/2002/07/owl#sameAs> <http://hy.dbpedia.org/resource/Միլիոնատերը_ետնախորշից> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://www.w3.org/2002/07/owl#sameAs> <http://id.dbpedia.org/resource/Slumdog_Millionaire> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://www.w3.org/2002/07/owl#sameAs> <http://it.dbpedia.org/resource/The_Millionaire_(film_2008)> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://www.w3.org/2002/07/owl#sameAs> <http://ja.dbpedia.org/resource/スラムドッグ$ミリオネア> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://www.w3.org/2002/07/owl#sameAs> <http://ko.dbpedia.org/resource/슬럼독_밀리어네어> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://www.w3.org/2002/07/owl#sameAs> <http://nl.dbpedia.org/resource/Slumdog_Millionaire> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://www.w3.org/2002/07/owl#sameAs> <http://pl.dbpedia.org/resource/Slumdog._Milioner_z_ulicy> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://www.w3.org/2002/07/owl#sameAs> <http://pt.dbpedia.org/resource/Slumdog_Millionaire> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://www.w3.org/2002/07/owl#sameAs> <http://ro.dbpedia.org/resource/Vagabondul_milionar> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://www.w3.org/2002/07/owl#sameAs> <http://ru.dbpedia.org/resource/Миллионер_из_трущоб> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://www.w3.org/2002/07/owl#sameAs> <http://sl.dbpedia.org/resource/Revni_milijonar> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://www.w3.org/2002/07/owl#sameAs> <http://sr.dbpedia.org/resource/Милионер_са_улице> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://www.w3.org/2002/07/owl#sameAs> <http://sv.dbpedia.org/resource/Slumdog_Millionaire> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://www.w3.org/2002/07/owl#sameAs> <http://tr.dbpedia.org/resource/Milyoner_(film)> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://www.w3.org/2002/07/owl#sameAs> <http://uk.dbpedia.org/resource/Мільйонер_із_нетрів> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://www.w3.org/2002/07/owl#sameAs> <http://zh.dbpedia.org/resource/貧民百萬富翁> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://purl.org/dc/terms/subject> <http://fr.dbpedia.org/resource/Catégorie:Film_inspiré_de_Bollywood> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://purl.org/dc/terms/subject> <http://fr.dbpedia.org/resource/Catégorie:Film_réalisé_par_Danny_Boyle> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://purl.org/dc/terms/subject> <http://fr.dbpedia.org/resource/Catégorie:Adaptation_d'un_roman_au_cinéma> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://purl.org/dc/terms/subject> <http://fr.dbpedia.org/resource/Catégorie:British_Academy_Film_Award_du_meilleur_film> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://purl.org/dc/terms/subject> <http://fr.dbpedia.org/resource/Catégorie:Critics'_Choice_Movie_Award_du_meilleur_film> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://purl.org/dc/terms/subject> <http://fr.dbpedia.org/resource/Catégorie:Film_avec_un_British_Academy_Film_Award_de_la_meilleure_photographie> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://purl.org/dc/terms/subject> <http://fr.dbpedia.org/resource/Catégorie:Film_avec_un_British_Academy_Film_Award_du_meilleur_réalisateur> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://purl.org/dc/terms/subject> <http://fr.dbpedia.org/resource/Catégorie:Film_avec_un_British_Academy_Film_Award_du_meilleur_scénario_adapté> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://purl.org/dc/terms/subject> <http://fr.dbpedia.org/resource/Catégorie:Film_avec_un_Oscar_de_la_meilleure_chanson_originale> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://purl.org/dc/terms/subject> <http://fr.dbpedia.org/resource/Catégorie:Film_avec_un_Oscar_de_la_meilleure_musique_de_film> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://purl.org/dc/terms/subject> <http://fr.dbpedia.org/resource/Catégorie:Film_avec_un_Oscar_de_la_meilleure_photographie> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://purl.org/dc/terms/subject> <http://fr.dbpedia.org/resource/Catégorie:Film_avec_un_Oscar_du_meilleur_mixage_de_son> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://purl.org/dc/terms/subject> <http://fr.dbpedia.org/resource/Catégorie:Film_avec_un_Oscar_du_meilleur_montage> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://purl.org/dc/terms/subject> <http://fr.dbpedia.org/resource/Catégorie:Film_avec_un_Oscar_du_meilleur_réalisateur> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://purl.org/dc/terms/subject> <http://fr.dbpedia.org/resource/Catégorie:Film_avec_un_Oscar_du_meilleur_scénario_adapté> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://purl.org/dc/terms/subject> <http://fr.dbpedia.org/resource/Catégorie:Film_de_Warner_Bros> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://purl.org/dc/terms/subject> <http://fr.dbpedia.org/resource/Catégorie:Film_nommé_aux_Oscars> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://purl.org/dc/terms/subject> <http://fr.dbpedia.org/resource/Catégorie:Film_sur_l'enfance_marginalisée> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://purl.org/dc/terms/subject> <http://fr.dbpedia.org/resource/Catégorie:Golden_Globe_du_meilleur_film> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://purl.org/dc/terms/subject> <http://fr.dbpedia.org/resource/Catégorie:Oscar_du_meilleur_film> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://purl.org/dc/terms/subject> <http://fr.dbpedia.org/resource/Catégorie:People's_Choice_Award_au_Festival_de_Toronto> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://purl.org/dc/terms/subject> <http://fr.dbpedia.org/resource/Catégorie:Satellite_Award_du_meilleur_film> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://purl.org/dc/terms/subject> <http://fr.dbpedia.org/resource/Catégorie:Comédie_dramatique_britannique> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://purl.org/dc/terms/subject> <http://fr.dbpedia.org/resource/Catégorie:Film_tourné_à_Mumbai> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://purl.org/dc/terms/subject> <http://fr.dbpedia.org/resource/Catégorie:Film_britannique_sorti_en_2008> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://fr.dbpedia.org/property/wikiPageUsesTemplate> <http://fr.dbpedia.org/resource/Modèle:...> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://fr.dbpedia.org/property/wikiPageUsesTemplate> <http://fr.dbpedia.org/resource/Modèle:81e> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://fr.dbpedia.org/property/wikiPageUsesTemplate> <http://fr.dbpedia.org/resource/Modèle:Allocine_titre> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://fr.dbpedia.org/property/wikiPageUsesTemplate> <http://fr.dbpedia.org/resource/Modèle:Autres_projets> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://fr.dbpedia.org/property/wikiPageUsesTemplate> <http://fr.dbpedia.org/resource/Modèle:Citation> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://fr.dbpedia.org/property/wikiPageUsesTemplate> <http://fr.dbpedia.org/resource/Modèle:Colonne> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://fr.dbpedia.org/property/wikiPageUsesTemplate> <http://fr.dbpedia.org/resource/Modèle:Date> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://fr.dbpedia.org/property/wikiPageUsesTemplate> <http://fr.dbpedia.org/resource/Modèle:E> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://fr.dbpedia.org/property/wikiPageUsesTemplate> <http://fr.dbpedia.org/resource/Modèle:En> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://fr.dbpedia.org/property/wikiPageUsesTemplate> <http://fr.dbpedia.org/resource/Modèle:Er> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://fr.dbpedia.org/property/wikiPageUsesTemplate> <http://fr.dbpedia.org/resource/Modèle:Fr> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://fr.dbpedia.org/property/wikiPageUsesTemplate> <http://fr.dbpedia.org/resource/Modèle:Imdb_titre> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://fr.dbpedia.org/property/wikiPageUsesTemplate> <http://fr.dbpedia.org/resource/Modèle:Infobox_Cinéma_(film)> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://fr.dbpedia.org/property/wikiPageUsesTemplate> <http://fr.dbpedia.org/resource/Modèle:Numéro> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://fr.dbpedia.org/property/wikiPageUsesTemplate> <http://fr.dbpedia.org/resource/Modèle:Palette> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://fr.dbpedia.org/property/wikiPageUsesTemplate> <http://fr.dbpedia.org/resource/Modèle:Portail> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://fr.dbpedia.org/property/wikiPageUsesTemplate> <http://fr.dbpedia.org/resource/Modèle:Refnec> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://fr.dbpedia.org/property/wikiPageUsesTemplate> <http://fr.dbpedia.org/resource/Modèle:Royaume-Uni> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://fr.dbpedia.org/property/wikiPageUsesTemplate> <http://fr.dbpedia.org/resource/Modèle:Références> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://fr.dbpedia.org/property/wikiPageUsesTemplate> <http://fr.dbpedia.org/resource/Modèle:Titre_mis_en_forme> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://fr.dbpedia.org/property/wikiPageUsesTemplate> <http://fr.dbpedia.org/resource/Modèle:Traduction/Référence> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://fr.dbpedia.org/property/wikiPageUsesTemplate> <http://fr.dbpedia.org/resource/Modèle:Unité> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://fr.dbpedia.org/property/wikiPageUsesTemplate> <http://fr.dbpedia.org/resource/Modèle:À_sourcer> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://www.w3.org/2000/01/rdf-schema#label> <Slumdog Millionaire@fr> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://www.w3.org/2000/01/rdf-schema#label> <Gettómilliomos@hu> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://www.w3.org/2000/01/rdf-schema#label> <Milionář z chatrče@cs> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://www.w3.org/2000/01/rdf-schema#label> <Milyoner (film)@tr> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://www.w3.org/2000/01/rdf-schema#label> <Slumdog Millionaire@en> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://www.w3.org/2000/01/rdf-schema#label> <Slumdog Millionaire@ca> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://www.w3.org/2000/01/rdf-schema#label> <Slumdog Millionaire@es> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://www.w3.org/2000/01/rdf-schema#label> <Slumdog Millionaire@eu> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://www.w3.org/2000/01/rdf-schema#label> <Slumdog Millionaire@id> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://www.w3.org/2000/01/rdf-schema#label> <Slumdog Millionaire@nl> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://www.w3.org/2000/01/rdf-schema#label> <Slumdog Millionaire@pt> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://www.w3.org/2000/01/rdf-schema#label> <Slumdog Millionär@de> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://www.w3.org/2000/01/rdf-schema#label> <Slumdog. Milioner z ulicy@pl> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://www.w3.org/2000/01/rdf-schema#label> <The Millionaire (film 2008)@it> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://www.w3.org/2000/01/rdf-schema#label> <Миллионер из трущоб@ru> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://www.w3.org/2000/01/rdf-schema#label> <スラムドッグ$ミリオネア@ja> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://www.w3.org/2000/01/rdf-schema#label> <슬럼독 밀리어네어@ko> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageExternalLink> <http://www.slumdogmillionaire-lefilm.com/> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageExternalLink> <http://www.slumdogmillionaire.eu/> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://fr.dbpedia.org/property/acteur> <http://fr.dbpedia.org/resource/Freida_Pinto> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://fr.dbpedia.org/property/acteur> <http://fr.dbpedia.org/resource/Irfan_Khan> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://fr.dbpedia.org/property/acteur> <http://fr.dbpedia.org/resource/Ayush_Mahesh_Khedekar> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://fr.dbpedia.org/property/acteur> <http://fr.dbpedia.org/resource/Azharuddin_Mohammed_Ismail> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://fr.dbpedia.org/property/acteur> <http://fr.dbpedia.org/resource/Anil_Kapoor> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://fr.dbpedia.org/property/acteur> <http://fr.dbpedia.org/resource/Dev_Patel> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://fr.dbpedia.org/property/acteur> <http://fr.dbpedia.org/resource/Rubina_Ali> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://fr.dbpedia.org/property/annéeDeSortie> <2008^^http://www.w3.org/2001/XMLSchema#integer> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://fr.dbpedia.org/property/durée> <7200.0^^http://dbpedia.org/datatype/second> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://fr.dbpedia.org/property/genre> <http://fr.dbpedia.org/resource/Drame_(cinéma)> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://fr.dbpedia.org/property/production> <http://fr.dbpedia.org/resource/Celador_Films> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://fr.dbpedia.org/property/production> <http://fr.dbpedia.org/resource/Channel_4> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://fr.dbpedia.org/property/réalisation> <http://fr.dbpedia.org/resource/Danny_Boyle> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://fr.dbpedia.org/property/scénario> <http://fr.dbpedia.org/resource/Simon_Beaufoy> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://fr.dbpedia.org/property/titre> <Slumdog Millionaire@fr> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://fr.dbpedia.org/property/titreOriginal> <Slumdog Millionaire@fr> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://fr.dbpedia.org/property/titreQuébécois> <Le Pouilleux millionnaire@fr> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://www.w3.org/2000/01/rdf-schema#comment> <Slumdog Millionaire ou Le Pouilleux millionnaire au Québec et au Nouveau-Brunswick est un film dramatique britannique réalisé par Danny Boyle, sorti en 2008.Adapté du premier roman de l'écrivain indien Vikas Swarup, Les Fabuleuses Aventures d'un Indien malchanceux qui devint milliardaire (Q & A), le film a remporté de nombreuses récompenses, parmi lesquelles quatre Golden Globes, sept BAFTA et huit Oscars lors de la 81e Cérémonie des Oscars.« Slumdog », littéralement « chien de bidonville », est un mot d'argot utilisé pour désigner un habitant d'un quartier défavorisé en Inde.↑ Q & A, titre original lors de la première parution du livre, signifie \"Questions and Answers\" (questions et réponses).@fr> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://www.w3.org/2000/01/rdf-schema#comment> <『スラムドッグ$ミリオネア』（原題: Slumdog Millionaire）は、2008年のイギリス映画。インド人外交官のヴィカス・スワラップの小説『ぼくと1ルピーの神様』（ランダムハウス講談社）をダニー・ボイルが映画化。第33回トロント国際映画祭観客賞、第66回ゴールデングローブ賞作品賞（ドラマ部門）、第62回英国アカデミー賞作品賞受賞。第81回アカデミー賞では作品賞を含む8部門を受賞した。@ja> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://www.w3.org/2000/01/rdf-schema#comment> <The Millionaire (Slumdog Millionaire) è un film del 2008 diretto da Danny Boyle.Il soggetto del film, diretto da Boyle con la collaborazione della regista indiana Loveleen Tandan, è tratto dal romanzo di Vikas Swarup Le dodici domande.Slumdog Millionaire (\"Milionario pezzente\" è una possibile traduzione del titolo originario) ha ottenuto 10 candidature all'Oscar 2009, aggiudicandosi 8 statuette, tra cui miglior film e miglior regista.Venne distribuito negli Stati Uniti dalla Fox Searchlight Pictures, nel Regno Unito dalla Pathè e in Italia dalla Lucky Red a partire dal 5 dicembre 2008.@it> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://www.w3.org/2000/01/rdf-schema#comment> <Slumdog Millionaire és una pel·lícula britànica dirigida l'any 2008 per Danny Boyle. Ambientada en els suburbis de Bombai, va aconseguir quatre premis als Globus d'Or, 8 Oscars i 7 Premis BAFTA.@ca> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://www.w3.org/2000/01/rdf-schema#comment> <A Gettómilliomos (Slumdog Millionaire) egy 2008-ban bemutatott angol filmdráma, melyet Danny Boyle rendezett. A forgatókönyvet Vikas Swarup regénye alapján Simon Beaufoy írta. A film a 2009-es Oscar-díj átadón elnyerte a legjobb filmnek járó díjat és további 7 kategóriában diadalmaskodott.@hu> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://www.w3.org/2000/01/rdf-schema#comment> <Slumdog Millionaire es una película británica de 2008, dirigida por Danny Boyle y escrita por Simon Beaufoy, basada en la novela ¿Quiere ser millonario? (título original: Q & A), del escritor y diplomático indio Vikas Swarup.@es> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://www.w3.org/2000/01/rdf-schema#comment> <슬럼독 밀리어네어(Slumdog Millionaire)은 대니 보일 감독이 맡은 2008년의 영국 로맨스 드라마 영화이다. 또, 시몬 뷰포이가 대본을 맡고 인도에서 러브린 탄단(Loveleen Tandan)과 공동 감독한 영화이다.@ko> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://www.w3.org/2000/01/rdf-schema#comment> <«Миллионе́р из трущо́б» (англ. Slumdog Millionaire) — криминальная мелодрама британского кинорежиссёра Дэнни Бойла и Лавлин Тандан, сценарий Саймона Бьюфоя. Фильм снят по роману «Вопрос — Ответ» индийского писателя Викаса Сварупа (англ. Vikas Swarup). Лауреат восьми премий «Оскар» (в том числе за лучший фильм года) и четырёх премий «Золотой глобус».@ru> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://www.w3.org/2000/01/rdf-schema#comment> <Slumdog Millionaire Danny Boylek zuzendutako britainiar filma da. Vikas Swarup indiar idazlearen \"Q and A\" eleberriaren adaptazio zinematografikoa da. Filma 2008. urtean filmatu zen Bollywood-en. Aktore asko egon ziren baina protagonistak Dev Patel (Jamal Malik) eta Freida Pinto (Latika) izan ziren.Filmean, besteak beste, argi eta garbi ikusten da Indiako hainbat tokitan dagoen bizimodua eta pobrezia.@eu> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://www.w3.org/2000/01/rdf-schema#comment> <Slumdog Millionär (Originaltitel Slumdog Millionaire) ist ein mit acht Oscars ausgezeichneter britischer Kinofilm von Danny Boyle aus dem Jahr 2008. Er wurde von Fox Searchlight Pictures produziert und basiert auf dem 2005 erschienenen Roman Q & A (questions and answers, deutsch: Fragen und Antworten) von Vikas Swarup, dessen Übersetzung unter dem deutschen Titel Rupien! Rupien! erschienen ist. Der Film kam am 12. November 2008 in die US-amerikanischen Kinos, es folgten am 5.@de> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://www.w3.org/2000/01/rdf-schema#comment> <Slumdog Millionaire adalah sebuah film yang disutradarai oleh Danny Boyle. Film ini berhasil meraih empat Golden Globes dan delapan piala oscar, termasuk penghargaan Film Terbaik dan Sutradara Terbaik. Bercerita tentang seorang anak miskin yang besar di lingkungan kumuh (slum) kota Mumbai yang mendadak menjadi kaya setelah memenangkan kuis Who Wants To Be A Millionaire versi India.@id> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://www.w3.org/2000/01/rdf-schema#comment> <Slumdog Millionaire is een Britse film uit 2008, geregisseerd door Danny Boyle met een scenario van Simon Beaufoy.@nl> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://www.w3.org/2000/01/rdf-schema#comment> <Milyoner (İngilizce: Slumdog Millionaire; Hintçe: स्लमडॉग मिलियनेयर), Danny Boyle'un yönetip Simon Beaufoy'un yazdığı 2008 Britanya yapımı Akademi ödüllü filmdir. Hintli yazar ve diplomat Vikas Swarup'un Boeke Ödülü sahibi ve Commonwealth Yazarları Ödülü adayı Q and A adlı kitabından uyarlanan filmin başrollerinde Dev Patel, Anil Kapoor ve Saurabh Shukla yer alır.@tr> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://www.w3.org/2000/01/rdf-schema#comment> <Slumdog. Milioner z ulicy (tyt. oryg. Slumdog Millionaire, 2008) − brytyjski melodramat w reżyserii Danny'ego Boyle'a. Scenariusz filmu autorstwa Simona Beaufoya oparty został na kanwie powieści Slumdog. Milioner z ulicy (oryg. Q and A) autorstwa indyjskiego pisarza i dyplomaty Vikasa Swarupa. Film został nominowany do Oscarów w dziesięciu kategoriach, zdobywając osiem, w tym za najlepszy film, reżyserię i scenariusz adaptowany.@pl> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://www.w3.org/2000/01/rdf-schema#comment> <Slumdog Millionaire (no Brasil: Quem Quer Ser um Milionário? e em Portugal: Quem Quer Ser Bilionário?) é um filme britânico de 2008, dirigido por Danny Boyle e escrito por Simon Beaufoy. É uma adaptação do livro Q & A, do autor indiano e diplomata Vikas Swarup.@pt> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://www.w3.org/2000/01/rdf-schema#comment> <Milionář z chatrče je britský film z roku 2008 s dramatickým a romantickým podtextem, který se odehrává v Indii. Film je volnou adaptací prvotiny indického diplomata Vikase Swarupa, jež se stala světovým bestsellerem. Z anglického originálu \"Q and A\" do češtiny přeložil Šimon Pellar, kniha u nás vyšla pod názvem Kdo chce být miliardářem po premiéře filmu vydána s názvem Milionář z chatrče.@cs> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://www.w3.org/2000/01/rdf-schema#comment> <Slumdog Millionaire is a 2008 British drama film directed by Danny Boyle, written by Simon Beaufoy, and co-directed in India by Loveleen Tandan. It is an adaptation of the novel Q & A (2005) by Indian author and diplomat Vikas Swarup.@en> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/director> <http://fr.dbpedia.org/resource/Danny_Boyle> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/filmRuntime> <7200.0^^http://www.w3.org/2001/XMLSchema#double> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/genre> <http://fr.dbpedia.org/resource/Drame_(cinéma)> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/originalTitle> <Slumdog Millionaire@fr> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/producedBy> <http://fr.dbpedia.org/resource/Celador_Films> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/producedBy> <http://fr.dbpedia.org/resource/Channel_4> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/quebecerTitle> <Le Pouilleux millionnaire> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/starring> <http://fr.dbpedia.org/resource/Freida_Pinto> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/starring> <http://fr.dbpedia.org/resource/Irfan_Khan> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/starring> <http://fr.dbpedia.org/resource/Ayush_Mahesh_Khedekar> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/starring> <http://fr.dbpedia.org/resource/Azharuddin_Mohammed_Ismail> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/starring> <http://fr.dbpedia.org/resource/Anil_Kapoor> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/starring> <http://fr.dbpedia.org/resource/Dev_Patel> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/starring> <http://fr.dbpedia.org/resource/Rubina_Ali> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/writer> <http://fr.dbpedia.org/resource/Simon_Beaufoy> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://xmlns.com/foaf/0.1/name> <Slumdog Millionaire@fr> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageRevisionID> <111003878^^http://www.w3.org/2001/XMLSchema#integer> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/abstract> <Slumdog Millionaire ou Le Pouilleux millionnaire au Québec et au Nouveau-Brunswick est un film dramatique britannique réalisé par Danny Boyle, sorti en 2008.Adapté du premier roman de l'écrivain indien Vikas Swarup, Les Fabuleuses Aventures d'un Indien malchanceux qui devint milliardaire (Q & A), le film a remporté de nombreuses récompenses, parmi lesquelles quatre Golden Globes, sept BAFTA et huit Oscars lors de la 81e Cérémonie des Oscars.« Slumdog », littéralement « chien de bidonville », est un mot d'argot utilisé pour désigner un habitant d'un quartier défavorisé en Inde.@fr> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/abstract> <Slumdog Millionaire Danny Boylek zuzendutako britainiar filma da. Vikas Swarup indiar idazlearen \"Q and A\" eleberriaren adaptazio zinematografikoa da. Filma 2008. urtean filmatu zen Bollywood-en. Aktore asko egon ziren baina protagonistak Dev Patel (Jamal Malik) eta Freida Pinto (Latika) izan ziren.Filmean, besteak beste, argi eta garbi ikusten da Indiako hainbat tokitan dagoen bizimodua eta pobrezia. Umeenganako tratu txarrak eta, batez ere, nesken edo emakumeengan dagoen errespetu falta.Filmeko pasarte batean ume batzuei lesioak egiten dizkiete heldu batzuek, gero kaleetan eskale jartzeko eta horrela diru gehiago irabazteko, elbarrituek pena handiagoa ematen dute-eta.@eu> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/abstract> <『スラムドッグ$ミリオネア』（原題: Slumdog Millionaire）は、2008年のイギリス映画。インド人外交官のヴィカス・スワラップの小説『ぼくと1ルピーの神様』（ランダムハウス講談社）をダニー・ボイルが映画化。第33回トロント国際映画祭観客賞、第66回ゴールデングローブ賞作品賞（ドラマ部門）、第62回英国アカデミー賞作品賞受賞。第81回アカデミー賞では作品賞を含む8部門を受賞した。@ja> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/abstract> <Milyoner (İngilizce: Slumdog Millionaire; Hintçe: स्लमडॉग मिलियनेयर), Danny Boyle'un yönetip Simon Beaufoy'un yazdığı 2008 Britanya yapımı Akademi ödüllü filmdir. Hintli yazar ve diplomat Vikas Swarup'un Boeke Ödülü sahibi ve Commonwealth Yazarları Ödülü adayı Q and A adlı kitabından uyarlanan filmin başrollerinde Dev Patel, Anil Kapoor ve Saurabh Shukla yer alır. Filme oyuncu yönetmeni olarak başlayan Loveleen Tandan daha sonra yapım aşamasında yaptığı önemli katkılar nedeniyle yönetmen Danny Boyle tarafından filmin ortak yönetmeni olarak ilan edildi.Konusu Hindistan'da geçen ve orada çekilen film Mumbai'in fakir mahallesi Dharavi'den genç bir adamın Kaun Banega Crorepati (Kim Beş Yüz Bin İster? programının Hint versiyonu) adlı yarışma programına katılması ve insanların sınırı aşan beklentileri, yarışma programı sunucusunun ve polisin şüphelenmeleri hakkındadır. Film Telluride Film Festivali ve Toronto Uluslararası Film Festivali'ndeki gösterimlerin ardından 12 Kasım 2008'de sınırlı olarak gösterime girdi ve birçok övgü ve ödül kazandı, ardından 26 Aralık 2008'de Birleşik Devletler'de ve 9 Ocak 2008'de Birleşik Krallık'ta geniş çapta gösterime girdi. Filmin Hindistan galası 22 Ocak 2009'da Mumbai'de yapıldı. Filmin hem İngilizce hem de Hintçe diyaloglar içermesine karşın ek olarak filmin tamamen Hintçe dublajlı versiyonu Slumdog Crorepati de Hindistanda gösterime sokuldu.Slumdog Millionaire, Eleştirmenlerin Seçimi Ödülleri'nde aday gösterildiği altı dalın beşinden ödül aldı. Film 11 Ocak 2009'da En İyi Drama Filmi Ödülü de dahil aday gösterildiği dört kategoride de ödülün sahibi oldu. Film ayrıca BAFTA Ödülleri'nde aday gösterildiği on bir dalın yedisinde ve Akademi Ödülleri'nde aday gösterildiği on dalın sekizinde ödülün sahibi oldu.@tr> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/abstract> <Slumdog Millionaire (no Brasil: Quem Quer Ser um Milionário? e em Portugal: Quem Quer Ser Bilionário?) é um filme britânico de 2008, dirigido por Danny Boyle e escrito por Simon Beaufoy. É uma adaptação do livro Q & A, do autor indiano e diplomata Vikas Swarup. Filmado na Índia, o filme conta a história de Jamal Malik Othman, um jovem das favelas de Juhu, Mumbai, que aparece na versão indiana do programa Quem Quer Ser um Milionário?, excedendo as expectativas das pessoas, criando suspeitas por parte do apresentador e da polícia.Slumdog Millionaire foi indicado a 10 Oscars, vencendo oito, incluindo Melhor Filme, Melhor Diretor e Melhor Roteiro Adaptado. Também venceu cinco BAFTA Awards e quatro Golden Globes.@pt> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/abstract> <The Millionaire (Slumdog Millionaire) è un film del 2008 diretto da Danny Boyle.Il soggetto del film, diretto da Boyle con la collaborazione della regista indiana Loveleen Tandan, è tratto dal romanzo di Vikas Swarup Le dodici domande.Slumdog Millionaire (\"Milionario pezzente\" è una possibile traduzione del titolo originario) ha ottenuto 10 candidature all'Oscar 2009, aggiudicandosi 8 statuette, tra cui miglior film e miglior regista.Venne distribuito negli Stati Uniti dalla Fox Searchlight Pictures, nel Regno Unito dalla Pathè e in Italia dalla Lucky Red a partire dal 5 dicembre 2008.@it> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/abstract> <Slumdog Millionaire és una pel·lícula britànica dirigida l'any 2008 per Danny Boyle. Ambientada en els suburbis de Bombai, va aconseguir quatre premis als Globus d'Or, 8 Oscars i 7 Premis BAFTA.@ca> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/abstract> <Slumdog Millionaire is a 2008 British drama film directed by Danny Boyle, written by Simon Beaufoy, and co-directed in India by Loveleen Tandan. It is an adaptation of the novel Q & A (2005) by Indian author and diplomat Vikas Swarup. Set and filmed in India, the film tells the story of Jamal Malik, a young man from the Juhu slums of Mumbai who appears on the Indian version of Who Wants to Be a Millionaire? (Kaun Banega Crorepati in the Hindi version) and exceeds people's expectations, thereby arousing the suspicions of cheating; Jamal recounts in flashback how he knows the answer to each question, each one linked to a key event in his life.After its world premiere at Telluride Film Festival and later screenings at the Toronto International Film Festival and the London Film Festival, Slumdog Millionaire had a nationwide grand release in the United Kingdom on 9 January 2009 and in the United States on 23 January 2009. It premiered in Mumbai on 22 January 2009.A sleeper hit, Slumdog Millionaire was widely acclaimed, being praised for its plot, soundtrack and directing. In addition, it was nominated for ten Academy Awards in 2009, winning eight, the most for any film of 2008, including Best Picture, Best Director, and Best Adapted Screenplay. It also won seven BAFTA Awards (including Best Film), five Critics' Choice Awards, and four Golden Globes.@en> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/abstract> <A Gettómilliomos (Slumdog Millionaire) egy 2008-ban bemutatott angol filmdráma, melyet Danny Boyle rendezett. A forgatókönyvet Vikas Swarup regénye alapján Simon Beaufoy írta. A film a 2009-es Oscar-díj átadón elnyerte a legjobb filmnek járó díjat és további 7 kategóriában diadalmaskodott.@hu> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/abstract> <Slumdog Millionaire adalah sebuah film yang disutradarai oleh Danny Boyle. Film ini berhasil meraih empat Golden Globes dan delapan piala oscar, termasuk penghargaan Film Terbaik dan Sutradara Terbaik. Bercerita tentang seorang anak miskin yang besar di lingkungan kumuh (slum) kota Mumbai yang mendadak menjadi kaya setelah memenangkan kuis Who Wants To Be A Millionaire versi India. Film ini diputar untuk pertama kalinya untuk umum di Britania Raya pada 12 November 2008, dan di Mumbai pada 22 Januari 2009.Para pemainnya antara lain ialah Dev Patel, Freida Pinto, Anil Kapoor, Irrfan Khan, dan masih banyak lagi. 2008, sedangkan penghargaan lain yang diterimanya adalah lima Critics' Choice Awards, dan tujuh piala BAFTA Awards.@id> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/abstract> <Slumdog Millionär (Originaltitel Slumdog Millionaire) ist ein mit acht Oscars ausgezeichneter britischer Kinofilm von Danny Boyle aus dem Jahr 2008. Er wurde von Fox Searchlight Pictures produziert und basiert auf dem 2005 erschienenen Roman Q & A (questions and answers, deutsch: Fragen und Antworten) von Vikas Swarup, dessen Übersetzung unter dem deutschen Titel Rupien! Rupien! erschienen ist. Der Film kam am 12. November 2008 in die US-amerikanischen Kinos, es folgten am 5. Dezember 2008 der Kinostart in Italien, am 21. Januar 2009 in der Schweiz, am 19. März 2009 in Deutschland und am 20. März 2009 in Österreich.@de> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/abstract> <Slumdog Millionaire es una película británica de 2008, dirigida por Danny Boyle y escrita por Simon Beaufoy, basada en la novela ¿Quiere ser millonario? (título original: Q & A), del escritor y diplomático indio Vikas Swarup.@es> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/abstract> <Slumdog. Milioner z ulicy (tyt. oryg. Slumdog Millionaire, 2008) − brytyjski melodramat w reżyserii Danny'ego Boyle'a. Scenariusz filmu autorstwa Simona Beaufoya oparty został na kanwie powieści Slumdog. Milioner z ulicy (oryg. Q and A) autorstwa indyjskiego pisarza i dyplomaty Vikasa Swarupa. Film został nominowany do Oscarów w dziesięciu kategoriach, zdobywając osiem, w tym za najlepszy film, reżyserię i scenariusz adaptowany. Spotkał się z bardzo dobrym przyjęciem zarówno wśród widowni jak i krytyków, uzyskując 141 mln dolarów wpływu ze sprzedanych biletów w USA oraz 236,5 mln dolarów na rynkach zagranicznych (w tym 1,9 mln dolarów w Polsce). Polska premiera DVD i BluRay odbyła się 27 lutego 2009 r.@pl> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/abstract> <슬럼독 밀리어네어(Slumdog Millionaire)은 대니 보일 감독이 맡은 2008년의 영국 로맨스 드라마 영화이다. 또, 시몬 뷰포이가 대본을 맡고 인도에서 러브린 탄단(Loveleen Tandan)과 공동 감독한 영화이다.@ko> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/abstract> <Milionář z chatrče je britský film z roku 2008 s dramatickým a romantickým podtextem, který se odehrává v Indii. Film je volnou adaptací prvotiny indického diplomata Vikase Swarupa, jež se stala světovým bestsellerem. Z anglického originálu \"Q and A\" do češtiny přeložil Šimon Pellar, kniha u nás vyšla pod názvem Kdo chce být miliardářem po premiéře filmu vydána s názvem Milionář z chatrče. V roce 2009 získal film osm cen Oscar: za nejlepší film, nejlepší režii, nejlepší píseň, nejlepší zvuk, nejlepší střih, nejlepší kameru a nejlepší adaptovaný scénář. Dále získal čtyři Zlaté glóby, a to v kategoriích nejlepší drama, režie, scénář a filmová hudba.Film si vysloužil obrovský pozitivní ohlas mezi diváky, Robbie Collin v News of the World o snímku napsal: „Nejpříjemnější film tohoto desetiletí.“@cs> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/abstract> <«Миллионе́р из трущо́б» (англ. Slumdog Millionaire) — криминальная мелодрама британского кинорежиссёра Дэнни Бойла и Лавлин Тандан, сценарий Саймона Бьюфоя. Фильм снят по роману «Вопрос — Ответ» индийского писателя Викаса Сварупа (англ. Vikas Swarup). Лауреат восьми премий «Оскар» (в том числе за лучший фильм года) и четырёх премий «Золотой глобус».@ru> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/abstract> <Slumdog Millionaire is een Britse film uit 2008, geregisseerd door Danny Boyle met een scenario van Simon Beaufoy. De film is gebaseerd op de roman Q and A van de Indiase schrijver en diplomaat Vikas Swarup.Slumdog Millionaire gaat over een jonge man uit de sloppenwijken (slums) van Bombay die deelneemt aan de quiz Who Wants to Be a Millionaire? en tegen alle verwachtingen in de hoofdprijs wint.De film ging in première op het Telluride Film Festival, en werd daarna nog vertoond op het Internationaal filmfestival van Toronto en het Filmfestival van Londen. Slumdog Millionaire werd een groot succes. Zo won de film acht Oscars (uit tien nominaties).@nl> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://fr.wikipedia.org/wiki/Slumdog_Millionaire?oldid=111003878> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageOutDegree> <239^^http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageID> <3581804^^http://www.w3.org/2001/XMLSchema#integer> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/81e_cérémonie_des_Oscars> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Alexandre_Dumas> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Freida_Pinto> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Irfan_Khan> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Les_Fabuleuses_Aventures_d'un_Indien_malchanceux_qui_devint_milliardaire> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Simon_Beaufoy> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Ashutosh_Lobo_Gajiwala> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Ayush_Mahesh_Khedekar> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Azharuddin_Mohammed_Ismail> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Christian_Colson> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Jai_Ho> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Tanay_Chheda> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Benjamin_Franklin> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Anthony_Dod_Mantle> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Mondialisation> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Irrfan_Khan> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Celador_Films> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/2009> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Dollar_américain> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Jeu_télévisé> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Qui_veut_gagner_des_millions_%3F> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Roman_(littérature)> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Rāma> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Shahrukh_Khan> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Virginité> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/British_Academy_of_Film_and_Television_Arts> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Danny_Boyle> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Oscar_du_meilleur_réalisateur> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Prostituée> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Amitabh_Bachchan> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Anil_Kapoor> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Catégorie:Film_inspiré_de_Bollywood> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Catégorie:Film_réalisé_par_Danny_Boyle> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Cinéma_britannique> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Disque_Blu-ray> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Flashback> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Internet_Movie_Database> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/2008_au_cinéma> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Sachin_Tendulkar> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Tulsîdâs> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Dev_Patel> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Dolby_Digital> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Suède> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Abraham_Lincoln> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Allah_Rakha_Rahman> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Armand_Jean_du_Plessis_de_Richelieu> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Base_de_données> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Bidonville> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Bollywood> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Bombay> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Cambridge> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Catégorie:Adaptation_d'un_roman_au_cinéma> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Catégorie:British_Academy_Film_Award_du_meilleur_film> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Catégorie:Critics'_Choice_Movie_Award_du_meilleur_film> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Catégorie:Film_avec_un_British_Academy_Film_Award_de_la_meilleure_photographie> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Catégorie:Film_avec_un_British_Academy_Film_Award_du_meilleur_réalisateur> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Catégorie:Film_avec_un_British_Academy_Film_Award_du_meilleur_scénario_adapté> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Catégorie:Film_avec_un_Oscar_de_la_meilleure_chanson_originale> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Catégorie:Film_avec_un_Oscar_de_la_meilleure_musique_de_film> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Catégorie:Film_avec_un_Oscar_de_la_meilleure_photographie> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Catégorie:Film_avec_un_Oscar_du_meilleur_mixage_de_son> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Catégorie:Film_avec_un_Oscar_du_meilleur_montage> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Catégorie:Film_avec_un_Oscar_du_meilleur_réalisateur> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Catégorie:Film_avec_un_Oscar_du_meilleur_scénario_adapté> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Catégorie:Film_de_Warner_Bros> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Catégorie:Film_nommé_aux_Oscars> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Catégorie:Film_sur_l'enfance_marginalisée> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Catégorie:Golden_Globe_du_meilleur_film> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Catégorie:Oscar_du_meilleur_film> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Catégorie:People's_Choice_Award_au_Festival_de_Toronto> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Catégorie:Satellite_Award_du_meilleur_film> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Charles_de_Batz-Castelmore_d'Artagnan> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Cricket> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Croatie> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Emblème_de_l'Inde> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Franklin_Delano_Roosevelt> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/George_Washington> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Hindi> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Inde> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Italie> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Kabîr> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Les_Trois_Mousquetaires> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Londres> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Nouveau-Brunswick> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Oscar_du_meilleur_film> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Oscars_du_cinéma> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Oxford> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Pathé> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Pologne> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Président_des_États-Unis> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Royaume-Uni> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Samuel_Colt> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Taj_Mahal> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Titanic> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Catégorie:Comédie_dramatique_britannique> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Chhatrapati_Shivaji_Terminus> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Digital_Theater_System> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Format_35_mm> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Mousquetaire> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Prix_Goya> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Sony_Dynamic_Digital_Sound> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Who_Wants_to_Be_a_Millionaire%3F> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Billy_Elliot> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Leeds> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Oscar_de_la_meilleure_chanson_originale> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Oscar_de_la_meilleure_musique_de_film> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Oscar_du_meilleur_montage> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Oscar_du_meilleur_scénario_adapté> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Mon_meilleur_ami_(film)> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Centre_d'appel> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Anatole_de_Bodinat> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Couleur> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Vikas_Swarup> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Madhur_Mittal> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Billet_de_100_dollars_américain> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Golden_Globe_Award_:_Meilleur_film_dramatique> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Screen_Actors_Guild_Award> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/81e_Cérémonie_des_Oscars> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Golden_Globe_Award_:_Meilleur_scénario> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/BAFTA_du_meilleur_film> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Les_trois_mousquetaires> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/A.R._Rahman> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Colt_45> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/1973_au_cinéma> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Catégorie:Film_tourné_à_Mumbai> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Channel_4> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Aramis> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Athos> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Porthos> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Planchet> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Catégorie:Film_britannique_sorti_en_2008> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Lionel_Tua> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Québec> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Ricky_Ponting> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Allemagne> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Autographe> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Gulzar> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Mahesh_Manjrekar> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Surdas> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Juhu> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Inde_aux_Oscars> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Drame_(cinéma)> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Jack_Hobbs> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Mirabaï> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Islam> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Oscar_de_la_meilleure_photographie> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Oscar_du_meilleur_mixage_de_son> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Anglais_britannique> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Rubina_Ali> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/The_Full_Monty> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Cambridge_Circus> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Tanvi_Ganesh_Lonkar> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Tom_Sayers> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Gail_Stevens> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Révolver> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Golden_Globe_Award_:_Meilleur_réalisateur> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Cinéart> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Roupies> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Golden_Globe_Award> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Hindou> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Format_de_projection> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Film4_Productions> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Golden_Globe_Award_:_Meilleure_musique_de_film> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Juan_Llorca> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Prix_Goya_du_meilleur_film_européen> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Chris_Dickens> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Actor_de_la_meilleure_performance_d'ensemble> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Suttirat_Anne_Larlarb> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Abhishek_Redkar> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Ankur_Vikal> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Arfi_Lamba> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Boeke_Prize> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Fichier:DannyBoyle08TIFF.jpg> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Fichier:FreidaPintoDevPatel08TIFF.jpg> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Karjat> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Loveleen_Tandan> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Mark_Digby> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Sanchita_Choudhary> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Tiger_(acteur)> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Monopole-Pathé> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://fr.dbpedia.org/resource/Saurabh_Shukla> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/wikiPageLength> <32280^^http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://purl.org/dc/terms/references> <http://www.allocine.fr/film/fichefilm_gen_cfilm=129924.html> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://dbpedia.org/ontology/idAllocine> <129924> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://fr.wikipedia.org/wiki/Slumdog_Millionaire> .
+<http://fr.dbpedia.org/resource/Slumdog_Millionaire> <http://purl.org/dc/elements/1.1/title> <Slumdog Millionaire> .
