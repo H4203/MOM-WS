@@ -24,16 +24,17 @@ public class HTMLGenerator
 				"		<title>"+ titre +"</title>\n" + 
 				"		<style type=\"text/css\">\n" + 
 				"		\n" + 
-				"			body{\n" + 
+				"			html, body{\n" + 
 				"				margin:0;\n" + 
 				"				padding:0;\n" + 
+				"				height: 95%;\n" +
 				"				font-family: Sans-Serif;\n" + 
 				"				line-height: 1.5em;\n" + 
 				"			}\n" + 
 				"			\n" + 
 				"			#header {\n" + 
 				"				background: #BCCE98;\n" + 
-				"				height: 100px;\n" + 
+				"				height: 10%;\n" + 
 				"			}\n" + 
 				"			\n" + 
 				"			#header h1 {\n" + 
@@ -42,48 +43,49 @@ public class HTMLGenerator
 				"			}\n" + 
 				"			\n" + 
 				"			#mainwrapper {\n" + 
+				"				height: 100%;\n" +
 				//"				overflow: hidden;\n" + 
 				"			}\n" + 
 				"			\n" + 
 				"			#contentwrapper{\n" + 
+				"				height: 100%;\n" +
 				"				float: left;\n" + 
 				"				width: 100%;\n" + 
 				"			}\n" + 
 				"			\n" + 
 				"			#content {\n" + 
-				"				margin-right: 460px; /* Width of '#rightmenu' and '#leftmenu' combined. */\n" + 
-				//"				height: 100%;\n" +
+				"				margin-right: 460px; /* Width of '#rightmenu' and '#leftmenu' combined. */\n" +
+				"				height: 100%;\n" +
 				//"				padding-bottom: 10010px;\n" + 
 				//"				margin-bottom: -10000px;\n" + 
 				"			}\n" + 
 				"			\n" + 
 				"			#leftmenu {\n" + 
 				"				float: left;\n" + 
-				"				width: 250px;\n" + 
+				"				width: 250px;\n" +
+				"				height: 100%;\n" +				
 				"				margin-left: -460px; /* Width of '#rightmenu' and '#leftmenu' combined. */\n" + 
 				//"				padding-bottom: 10010px;\n" + 
-				//"				margin-bottom: -10000px;\n" + 
-				"				height: 100%;\n" +
+				//"				margin-bottom: -10000px;\n" +
+				"				overflow: auto;\n" +
 				"				background: #F7FDEB;\n" + 
-				"				overflow:auto;\n" + 
 				"			}\n" + 
 				"			\n" + 
 				"			#rightmenu {\n" + 
 				"				float: left;\n" + 
-				"				width: 210px;\n" +
-				"				height: 100%;\n" +
+				"				width: 210px;\n" + 
+				"				height: 100%;\n" +	
 				"				margin-left: -210px;\n" + 
 				//"				padding-bottom: 10010px;\n" + 
 				//"				margin-bottom: -10000px;\n" + 
+				"				overflow: auto;\n" +
 				"				background: #DAE9BC;\n" + 
-				"				overflow:auto;\n" + 
 				"			}\n" + 
-				"			\n" + 
+				"			\n" +
 				"			\n" + 
 				"			.innertube{\n" + 
 				"				margin: 15px; /* Padding for content */\n" + 
 				"				margin-top: 0;\n" + 
-				"				height: 100%;\n" +
 				"			}\n" + 
 				"		\n" + 
 				"		\n" + 
@@ -122,7 +124,7 @@ public class HTMLGenerator
 		codeHtml +=         "<table>\n" +
 		"                       <tr>\n" +
 		"                       	<td>\n" +
-		"								<img src=\"" + URLAffiche + "\" alt=" + titre + ">\n" +
+		"								<IMG SRC=" + URLAffiche + " ALT=" + titre + ">\n" +
 		"                       	</td>\n" +
 		"                       	<td>\n" +
 		"                       		<h2>Numbers</h2>\n";
@@ -136,10 +138,8 @@ public class HTMLGenerator
 		{
 			String cle = it.next();
 			String valeur = donnees.get(cle);
-			if(cle.equals("Page wikipedia"))
-				codeHtml += "<a href=\"" + valeur + "\"> " + cle + "</a>\n";
-			else
-				codeHtml += "<li>" + cle + " : " + valeur + "</li>\n";
+			
+			codeHtml += "<li>" + cle + " : " + valeur + "</li>\n";
 		}
 		
 		codeHtml += "             	</td>\n" +
@@ -163,7 +163,7 @@ public class HTMLGenerator
 			String valeur = acteurs.get(cle);
 				
 			codeHtml += "<p>" + cle + "</p>\n";
-			codeHtml += "<img src=\"http:" + valeur + "\" alt=" + cle + "/>\n";
+			codeHtml += "<img style=\"width:200px;\" src=http:" + valeur + " ALT=" + cle + "/>\n";
 		}
 		
 		codeHtml += "				</div>\n" + 
@@ -182,10 +182,13 @@ public class HTMLGenerator
 			String valeur = filmsAssocies.get(cle);
 				
 			codeHtml += "<p>" + cle + "</p>\n";
-			codeHtml += "<img src=\"http:" + valeur + "\" alt=" + cle + "/>\n";
+			codeHtml += "<img style=\"width:180px;\" src=\"http:" + valeur + "\" alt=" + cle + "/>\n";
 		}
 				
 		codeHtml +="	</div>\n" + 
+				"			</nav>\n" + 
+				"		</div>\n" + 
+				"	\n" + 
 				"	</body>\n" + 
 				"\n" + 
 				"</html>";

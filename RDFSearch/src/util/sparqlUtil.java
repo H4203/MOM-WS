@@ -91,25 +91,27 @@ public class sparqlUtil {
 				//Acteurs
 				HashMap <String, String> acteurs = new HashMap<String, String>();
 				List<String> listeActeurs = listeTriplet.getRelationEtElement().get("http://dbpedia.org/ontology/starring");
-				for(int i = 0; i < listeActeurs.size(); i++) {
-					String[] aAjouter = listeActeurs.get(i).split("/");
-					String lActeur =aAjouter[aAjouter.length-1].replace("_", " ");
-					String URLimage = null;
-					try {
-						if(Search.getImageLink(lActeur) != null)
-							URLimage = Search.getImageLink(lActeur);
-					} catch (IOException e1) {
-						// TODO Auto-generated catch block
-						e1.printStackTrace();
+				if(listeTriplet.getRelationEtElement().containsKey("http://dbpedia.org/ontology/starring"))
+				{
+					for(int i = 0; i < listeActeurs.size(); i++) {
+						String[] aAjouter = listeActeurs.get(i).split("/");
+						String lActeur =aAjouter[aAjouter.length-1].replace("_", " ");
+						String URLimage = null;
+						try {
+							if(Search.getImageLink(lActeur) != null)
+								URLimage = Search.getImageLink(lActeur);
+						} catch (IOException e1) {
+							// TODO Auto-generated catch block
+							e1.printStackTrace();
+						}
+						
+						if(URLimage != null)
+							acteurs.put(lActeur, URLimage);
+						else
+							acteurs.put(lActeur, "");
 					}
-					
-					if(URLimage != null)
-						acteurs.put(lActeur, URLimage);
-					else
-						acteurs.put(lActeur, "");
+				
 				}
-				
-				
 				//Film Asssocie
 				String query = "select distinct ?x ?m ?d\n" + 
 						"where {\n" + 
@@ -189,6 +191,6 @@ public class sparqlUtil {
 		}
 		
 		public static void main(String[] args) {
-			sparqlUtil sutil = new sparqlUtil("Avatar");
+			sparqlUtil sutil = new sparqlUtil("Orange Mécanique");
 		}
 }
